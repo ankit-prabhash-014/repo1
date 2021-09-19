@@ -74,7 +74,7 @@
   sector: Commodity Chemicals
   stake: 1
   mcap: 948
-  cap: smallcap
+  cap: nocap
   rank: 9
   eps: <span class='epsdec epspos'>6.36</span><span class='epsinc epspos'>8.27</span><span class='epsinc epspos'>3.57</span><span class='epsinc epspos'>1.61</span><span class='hasrating'>-1.96</span>
   cmp: 281.15
@@ -236,7 +236,7 @@
   sector: Investment Banking & Brokerage
   stake: 1
   mcap: 804
-  cap: smallcap
+  cap: nocap
   rank: 27
   eps: <span class='epsinc epspos'>74.91</span><span class='epsinc epspos'>69.51</span><span class='epsinc epspos'>62.41</span><span class='epsinc epspos'>44.43</span><span class='hasrating'>-7.65</span>
   cmp: 1686.25
@@ -245,7 +245,7 @@
   sector: Telecom Equipments
   stake: 4
   mcap: 958
-  cap: smallcap
+  cap: nocap
   rank: 28
   eps: <span class='epsdec epspos'>55.97</span><span class='epsinc epspos'>97.92</span><span class='epsdec epspos'>49.12</span><span class='epsinc epspos'>53.94</span><span class='hasrating'>25.92</span>
   cmp: 1135.00
@@ -317,7 +317,7 @@
   sector: Conglomerates
   stake: 1
   mcap: 826
-  cap: smallcap
+  cap: nocap
   rank: 36
   eps: <span class='epsinc epspos'>0.94</span><span class='epsinc epspos'>0.02</span><span class='hasrating'>-0.95</span>
   cmp: 11.70
@@ -353,7 +353,7 @@
   sector: Cement
   stake: 0
   mcap: 911
-  cap: smallcap
+  cap: nocap
   rank: 40
   eps: <span class='epsdec epspos'>5.65</span><span class='epsinc epspos'>5.83</span><span class='epsinc epspos'>2.57</span><span class='epsinc epspos'>2.31</span><span class='hasrating'>1.92</span>
   cmp: 147.25
@@ -425,7 +425,7 @@
   sector: Industrial Machinery
   stake: 1
   mcap: 865
-  cap: smallcap
+  cap: nocap
   rank: 48
   eps: <span class='epsinc epspos'>28.61</span><span class='epsdec epspos'>14.89</span><span class='epsinc epspos'>16.96</span><span class='epsdec epspos'>8.77</span><span class='hasrating'>12.57</span>
   cmp: 858.60
@@ -452,7 +452,7 @@
   sector: Packaging
   stake: 5
   mcap: 878
-  cap: smallcap
+  cap: nocap
   rank: 51
   eps: <span class='epsinc epspos'>48.56</span><span class='epsinc epspos'>41.79</span><span class='epsinc epspos'>33.26</span><span class='epsinc epspos'>27.75</span><span class='hasrating'>24.80</span>
   cmp: 1545.35
@@ -488,7 +488,7 @@
   sector: Commodity Chemicals
   stake: 1
   mcap: 876
-  cap: smallcap
+  cap: nocap
   rank: 55
   eps: <span class='epsinc epspos'>18.81</span><span class='epsinc epspos'>18.11</span><span class='epsdec epspos'>9.26</span><span class='epsinc epspos'>12.13</span><span class='hasrating'>10.28</span>
   cmp: 567.65
@@ -506,7 +506,7 @@
   sector: Construction & Engineering
   stake: 0
   mcap: 839
-  cap: smallcap
+  cap: nocap
   rank: 57
   eps: <span class='epsinc epspos'>1.22</span><span class='epsdec epspos'>0.99</span><span class='epsinc epspos'>2.04</span><span class='epsinc epspos'>0.01</span><span class='hasrating'>-0.69</span>
   cmp: 54.00
@@ -569,7 +569,7 @@
   sector: Commodity Chemicals
   stake: 1
   mcap: 962
-  cap: smallcap
+  cap: nocap
   rank: 64
   eps: <span class='epsinc epspos'>4.43</span><span class='epsinc epspos'>3.88</span><span class='epsdec epspos'>3.78</span><span class='epsinc epspos'>5.30</span><span class='hasrating'>3.52</span>
   cmp: 146.35
@@ -587,7 +587,7 @@
   sector: Commodity Chemicals
   stake: 1
   mcap: 943
-  cap: smallcap
+  cap: nocap
   rank: 66
   eps: <span class='epsdec epspos'>55.63</span><span class='epsinc epspos'>67.18</span><span class='epsinc epspos'>57.64</span><span class='epsinc epspos'>26.73</span><span class='hasrating'>7.61</span>
   cmp: 1599.45
@@ -668,7 +668,7 @@
   sector: Iron & Steel
   stake: 0
   mcap: 917
-  cap: smallcap
+  cap: nocap
   rank: 75
   eps: <span class='epsdec epspos'>2.28</span><span class='epsinc epspos'>3.00</span><span class='epsinc epspos'>1.83</span><span class='epsinc epspos'>0.53</span><span class='hasrating'>0.19</span>
   cmp: 71.05
@@ -677,7 +677,7 @@
   sector: Public Banks
   stake: 0
   mcap: 923
-  cap: smallcap
+  cap: nocap
   rank: 76
   eps: <span class='epsdec epspos'>0.43</span><span class='epsinc epspos'>1.67</span><span class='epsdec epsneg'>-33.89</span><span class='epsdec epsneg'>-5.72</span><span class='hasrating'>-1.67</span>
   cmp: 17.85
@@ -731,7 +731,7 @@
   sector: 
   stake: 2
   mcap: 813
-  cap: smallcap
+  cap: nocap
   rank: 82
   eps: <span class='epsinc epspos'>9.53</span><span class='epsdec epsneg'>-47.08</span><span class='epsinc epspos'>8.45</span><span class='epsinc epspos'>6.71</span><span class='hasrating'>1.80</span>
   cmp: 989.15
@@ -875,7 +875,7 @@
   sector: Iron & Steel
   stake: 0
   mcap: 955
-  cap: smallcap
+  cap: nocap
   rank: 98
   eps: <span class='epsdec epspos'>1.90</span><span class='epsinc epspos'>2.23</span><span class='epsinc epspos'>1.23</span><span class='epsinc epspos'>1.19</span><span class='hasrating'>0.27</span>
   cmp: 71.60
@@ -884,7 +884,7 @@
   sector: Building Products
   stake: 1
   mcap: 929
-  cap: smallcap
+  cap: nocap
   rank: 99
   eps: <span class='epsinc epspos'>1.05</span><span class='epsdec epspos'>0.98</span><span class='epsinc epspos'>1.32</span><span class='epsdec epsneg'>-4.80</span><span class='hasrating'>-0.87</span>
   cmp: 38.40
@@ -1244,7 +1244,7 @@
   sector: Commodity Chemicals
   stake: 1
   mcap: 889
-  cap: smallcap
+  cap: nocap
   rank: 139
   eps: <span class='epsinc epspos'>2.44</span><span class='epsdec epspos'>1.75</span><span class='epsinc epspos'>2.16</span><span class='epsinc epspos'>0.96</span><span class='hasrating'>-1.61</span>
   cmp: 110.80
@@ -1262,7 +1262,7 @@
   sector: Paper Products
   stake: 8
   mcap: 868
-  cap: smallcap
+  cap: nocap
   rank: 141
   eps: <span class='epsinc epspos'>2.19</span><span class='epsinc epspos'>2.09</span><span class='epsdec epspos'>0.37</span><span class='epsinc epspos'>1.33</span><span class='hasrating'>1.16</span>
   cmp: 97.35
@@ -1289,7 +1289,7 @@
   sector: Auto Parts
   stake: 0
   mcap: 830
-  cap: smallcap
+  cap: nocap
   rank: 144
   eps: <span class='epsinc epspos'>13.73</span><span class='epsinc epspos'>12.87</span><span class='epsinc epspos'>12.41</span><span class='epsinc epspos'>10.68</span><span class='hasrating'>-3.07</span>
   cmp: 816.15
@@ -1433,7 +1433,7 @@
   sector: Construction & Engineering
   stake: 0
   mcap: 863
-  cap: smallcap
+  cap: nocap
   rank: 160
   eps: <span class='epsinc epspos'>1.33</span><span class='epsinc epspos'>0.62</span><span class='epsinc epspos'>0.52</span><span class='epsdec epspos'>0.06</span><span class='hasrating'>0.09</span>
   cmp: 81.80
@@ -1442,7 +1442,7 @@
   sector: Specialty Chemicals
   stake: 1
   mcap: 955
-  cap: smallcap
+  cap: nocap
   rank: 161
   eps: <span class='epsdec epspos'>4.22</span><span class='epsinc epspos'>4.36</span><span class='epsinc epspos'>3.20</span><span class='epsinc epspos'>2.24</span><span class='hasrating'>-1.29</span>
   cmp: 403.25
@@ -1577,7 +1577,7 @@
   sector: Pharmaceuticals
   stake: 0
   mcap: 915
-  cap: smallcap
+  cap: nocap
   rank: 176
   eps: <span class='epsinc epspos'>3.22</span><span class='epsdec epspos'>1.33</span><span class='epsdec epspos'>1.60</span><span class='epsinc epspos'>2.10</span><span class='hasrating'>-0.15</span>
   cmp: 204.85
@@ -1721,7 +1721,7 @@
   sector: Electronic Equipments
   stake: 1
   mcap: 875
-  cap: smallcap
+  cap: nocap
   rank: 192
   eps: <span class='epsdec epspos'>1.04</span><span class='epsdec epspos'>1.23</span><span class='epsinc epspos'>1.24</span><span class='epsdec epspos'>0.04</span><span class='hasrating'>0.47</span>
   cmp: 62.30
@@ -1883,7 +1883,7 @@
   sector: Specialty Chemicals
   stake: 1
   mcap: 817
-  cap: smallcap
+  cap: nocap
   rank: 210
   eps: <span class='epsinc epspos'>6.20</span><span class='epsdec epspos'>4.75</span><span class='epsdec epspos'>5.72</span><span class='epsinc epspos'>83.11</span><span class='hasrating'>1.64</span>
   cmp: 557.45
@@ -1991,7 +1991,7 @@
   sector: Tires & Rubber
   stake: 1
   mcap: 858
-  cap: smallcap
+  cap: nocap
   rank: 222
   eps: <span class='epsdec epspos'>0.66</span><span class='epsinc epspos'>5.72</span><span class='epsinc epspos'>3.20</span><span class='epsinc epspos'>0.38</span><span class='hasrating'>-0.96</span>
   cmp: 76.95
@@ -2144,7 +2144,7 @@
   sector: Building Products
   stake: 1
   mcap: 883
-  cap: smallcap
+  cap: nocap
   rank: 239
   eps: <span class='epsdec epspos'>2.03</span><span class='epsdec epspos'>5.25</span><span class='epsinc epspos'>6.83</span><span class='epsinc epspos'>5.43</span><span class='hasrating'>-2.10</span>
   cmp: 152.85
@@ -2162,7 +2162,7 @@
   sector: Commodity Chemicals
   stake: 1
   mcap: 917
-  cap: smallcap
+  cap: nocap
   rank: 241
   eps: <span class='epsdec epspos'>12.82</span><span class='epsdec epspos'>27.78</span><span class='epsinc epspos'>29.04</span><span class='epsinc epspos'>21.26</span><span class='hasrating'>1.00</span>
   cmp: 1109.70
@@ -2225,7 +2225,7 @@
   sector: IT Services & Consulting
   stake: 0
   mcap: 936
-  cap: smallcap
+  cap: nocap
   rank: 248
   eps: <span class='epsdec epspos'>0.95</span><span class='epsdec epspos'>1.25</span><span class='epsdec epspos'>1.35</span><span class='epsdec epspos'>1.35</span><span class='hasrating'>1.66</span>
   cmp: 111.65
@@ -2396,7 +2396,7 @@
   sector: Power Generation
   stake: 1
   mcap: 962
-  cap: smallcap
+  cap: nocap
   rank: 267
   eps: <span class='epsdec epspos'>0.04</span><span class='epsinc epspos'>0.26</span><span class='epsdec epspos'>0.19</span><span class='epsinc epspos'>0.38</span><span class='hasrating'>-0.01</span>
   cmp: 13.75
@@ -2414,7 +2414,7 @@
   sector: Textiles
   stake: 1
   mcap: 982
-  cap: smallcap
+  cap: nocap
   rank: 269
   eps: <span class='epsdec epspos'>0.54</span><span class='epsinc epspos'>4.93</span><span class='epsinc epspos'>2.92</span><span class='epsinc epsneg'>-0.53</span><span class='hasrating'>-2.97</span>
   cmp: 52.95
@@ -2477,7 +2477,7 @@
   sector: Plastic Products
   stake: 4
   mcap: 974
-  cap: smallcap
+  cap: nocap
   rank: 276
   eps: <span class='epsdec epspos'>4.32</span><span class='epsinc epspos'>6.20</span><span class='epsinc epspos'>5.26</span><span class='epsinc epspos'>4.62</span><span class='hasrating'>0.52</span>
   cmp: 564.75
@@ -2513,7 +2513,7 @@
   sector: Diversified Chemicals
   stake: 0
   mcap: 926
-  cap: smallcap
+  cap: nocap
   rank: 280
   eps: <span class='epsinc epspos'>19.81</span><span class='epsdec epspos'>8.56</span><span class='epsinc epspos'>12.74</span><span class='epsinc epspos'>9.61</span><span class='hasrating'>9.13</span>
   cmp: 1791.55
@@ -3062,7 +3062,7 @@
   sector: Industrials
   stake: 0
   mcap: 830
-  cap: smallcap
+  cap: nocap
   rank: 341
   eps: <span class='epsdec epspos'>0.28</span><span class='epsdec epspos'>0.81</span><span class='epsinc epspos'>0.85</span><span class='epsinc epspos'>0.05</span><span class='hasrating'>-1.18</span>
   cmp: 35.60
@@ -3179,7 +3179,7 @@
   sector: Building Products
   stake: 1
   mcap: 867
-  cap: smallcap
+  cap: nocap
   rank: 354
   eps: <span class='epsdec epspos'>1.74</span><span class='epsdec epspos'>4.77</span><span class='epsinc epspos'>5.08</span><span class='epsinc epspos'>5.04</span><span class='hasrating'>-2.40</span>
   cmp: 231.55
@@ -3980,7 +3980,7 @@
   sector: Textiles
   stake: 1
   mcap: 897
-  cap: smallcap
+  cap: nocap
   rank: 443
   eps: <span class='epsdec epspos'>2.67</span><span class='epsinc epspos'>12.34</span><span class='epsinc epspos'>5.87</span><span class='epsinc epsneg'>-3.00</span><span class='hasrating'>-14.45</span>
   cmp: 377.85
@@ -4205,7 +4205,7 @@
   sector: Building Products
   stake: 1
   mcap: 914
-  cap: smallcap
+  cap: nocap
   rank: 468
   eps: <span class='epsdec epspos'>6.67</span><span class='epsinc epspos'>12.69</span><span class='epsinc epspos'>12.46</span><span class='epsinc epspos'>7.25</span><span class='hasrating'>1.53</span>
   cmp: 1537.40
@@ -4340,7 +4340,7 @@
   sector: Home Electronics & Appliances
   stake: 1
   mcap: 898
-  cap: smallcap
+  cap: nocap
   rank: 483
   eps: <span class='epsdec epspos'>0.53</span><span class='epsdec epspos'>4.95</span><span class='epsinc epspos'>10.47</span><span class='epsinc epspos'>9.52</span><span class='hasrating'>-4.92</span>
   cmp: 888.35
@@ -4358,7 +4358,7 @@
   sector: Packaged Foods & Meats
   stake: 2
   mcap: 883
-  cap: smallcap
+  cap: nocap
   rank: 485
   eps: <span class='epsdec epspos'>1.05</span><span class='epsinc epspos'>2.68</span><span class='epsdec epspos'>0.72</span><span class='epsinc epspos'>8.06</span><span class='hasrating'>2.71</span>
   cmp: 305.50
@@ -4466,7 +4466,7 @@
   sector: Precious Metals, Jewellery & Watches
   stake: 1
   mcap: 814
-  cap: smallcap
+  cap: nocap
   rank: 497
   eps: <span class='epsdec epsneg'>-5.44</span><span class='epsdec epspos'>10.02</span><span class='epsdec epspos'>19.61</span><span class='epsinc epspos'>38.15</span><span class='hasrating'>-4.71</span>
   cmp: 1081.35
@@ -4664,7 +4664,7 @@
   sector: Materials
   stake: 0
   mcap: 949
-  cap: smallcap
+  cap: nocap
   rank: 519
   eps: <span class='epsdec epspos'>0.81</span><span class='epsinc epspos'>5.55</span><span class='epsinc epspos'>1.95</span><span class='epsdec epsneg'>-1.57</span><span class='hasrating'>-0.25</span>
   cmp: 338.55
@@ -5177,7 +5177,7 @@
   sector: Specialty Chemicals
   stake: 1
   mcap: 831
-  cap: smallcap
+  cap: nocap
   rank: 576
   eps: <span class='epsdec epspos'>9.88</span><span class='epsinc epspos'>14.51</span><span class='epsinc epspos'>11.27</span><span class='epsinc epspos'>7.95</span><span class='hasrating'>-4.58</span>
   cmp: 1492.90
@@ -5276,7 +5276,7 @@
   sector: Logistics
   stake: 2
   mcap: 949
-  cap: smallcap
+  cap: nocap
   rank: 587
   eps: <span class='epsinc epspos'>0.04</span><span class='epsdec epsneg'>-0.03</span><span class='epsinc epspos'>0.09</span><span class='epsdec epsneg'>-0.10</span><span class='hasrating'>0.05</span>
   cmp: 43.85
@@ -5780,7 +5780,7 @@
   sector: Hotels, Resorts & Cruise Lines
   stake: 2
   mcap: 827
-  cap: smallcap
+  cap: nocap
   rank: 643
   eps: <span class='epsdec epsneg'>-3.21</span><span class='epsdec epsneg'>-0.31</span><span class='epsinc epspos'>0.04</span><span class='epsinc epsneg'>-3.52</span><span class='hasrating'>-4.99</span>
   cmp: 334.70
@@ -6014,7 +6014,7 @@
   sector: Business Support Services
   stake: 10
   mcap: 809
-  cap: smallcap
+  cap: nocap
   rank: 669
   eps: <span class='epsdec epsneg'>-2.07</span><span class='epsinc epsneg'>-1.31</span><span class='epsinc epsneg'>-3.40</span><span class='epsdec epsneg'>-3.94</span><span class='hasrating'>-1.92</span>
   cmp: 104.50
@@ -6032,7 +6032,7 @@
   sector: Hotels, Resorts & Cruise Lines
   stake: 2
   mcap: 837
-  cap: smallcap
+  cap: nocap
   rank: 671
   eps: <span class='epsdec epsneg'>-2.07</span><span class='epsdec epsneg'>-0.72</span><span class='epsinc epsneg'>-0.21</span><span class='epsinc epsneg'>-2.02</span><span class='hasrating'>-3.38</span>
   cmp: 130.75
@@ -6077,7 +6077,7 @@
   sector: Industrials
   stake: 0
   mcap: 824
-  cap: smallcap
+  cap: nocap
   rank: 676
   eps: <span class='epsinc epsneg'>-8.11</span><span class='epsdec epsneg'>-38.04</span><span class='epsinc epsneg'>-9.15</span><span class='epsdec epsneg'>-16.95</span><span class='hasrating'>4.09</span>
   cmp: 364.40
@@ -6347,7 +6347,7 @@
   sector: Specialty Chemicals
   stake: 1
   mcap: 994
-  cap: smallcap
+  cap: nocap
   rank: 706
   eps: <span class='epsdec epsneg'>-11.07</span><span class='epsinc epsneg'>-8.48</span><span class='epsdec epsneg'>-9.26</span><span class='epsinc epsneg'>-6.10</span><span class='hasrating'>-15.30</span>
   cmp: 71.05
@@ -6419,7 +6419,7 @@
   sector: Telecom Services
   stake: 0
   mcap: 837
-  cap: smallcap
+  cap: nocap
   rank: 714
   eps: <span class='epsdec epsneg'>-10.93</span><span class='epsinc epsneg'>-9.56</span><span class='epsdec epsneg'>-10.12</span><span class='epsinc epsneg'>-9.24</span><span class='hasrating'>-10.15</span>
   cmp: 18.65
@@ -6491,7 +6491,7 @@
   sector: 
   stake: 2
   mcap: 911
-  cap: smallcap
+  cap: nocap
   rank: 0
   eps: <span class='epsdec epspos'>0.50</span><span class='epsdec epspos'>3.08</span><span class='epsinc epspos'>3.39</span><span class='epsinc epspos'>2.25</span><span class=''>-1.81</span>
   cmp: 139.35
@@ -6500,7 +6500,7 @@
   sector: Fertilizers & Agro Chemicals
   stake: 1
   mcap: 999
-  cap: smallcap
+  cap: nocap
   rank: 0
   eps: <span class='epsinc epspos'>17.37</span><span class='epsinc epspos'>10.54</span><span class='epsdec epspos'>2.97</span><span class='epsinc epspos'>20.13</span><span class=''>11.79</span>
   cmp: 708.65
@@ -6725,7 +6725,7 @@
   sector: Cement
   stake: 0
   mcap: 886
-  cap: smallcap
+  cap: nocap
   rank: 0
   eps: <span class='epsdec epspos'>0.89</span><span class='epsdec epspos'>1.04</span><span class='epsinc epspos'>1.67</span><span class='epsdec epspos'>0.16</span><span class=''>0.24</span>
   cmp: 67.25
@@ -6734,7 +6734,7 @@
   sector: Diversified Financials
   stake: 1
   mcap: 992
-  cap: smallcap
+  cap: nocap
   rank: 0
   eps: <span class='epsinc epsneg'>-0.25</span><span class='epsinc epsneg'>-0.28</span><span class='epsdec epsneg'>-0.39</span><span class='epsinc epsneg'>-0.17</span><span class=''>-0.29</span>
   cmp: 34.05
@@ -6761,7 +6761,7 @@
   sector: Utilities
   stake: 1
   mcap: 952
-  cap: smallcap
+  cap: nocap
   rank: 0
   eps: <span class='epsdec epspos'>0.96</span><span class='epsinc epspos'>7.94</span><span class='epsdec epspos'>0.91</span><span class='epsinc epspos'>0.96</span><span class=''>-1.14</span>
   cmp: 199.40
@@ -6878,7 +6878,7 @@
   sector: Metals
   stake: 1
   mcap: 967
-  cap: smallcap
+  cap: nocap
   rank: 0
   eps: <span class='epsinc epspos'>6.94</span><span class='epsinc epspos'>3.89</span><span class='epsinc epspos'>3.36</span><span class='epsdec epsneg'>-1.37</span><span class=''>4.18</span>
   cmp: 126.25
@@ -6941,7 +6941,7 @@
   sector: Cement
   stake: 0
   mcap: 883
-  cap: smallcap
+  cap: nocap
   rank: 0
   eps: <span class='epsdec epspos'>1.52</span><span class='epsinc epspos'>1.93</span><span class='epsinc epspos'>0.99</span><span class='epsdec epspos'>0.18</span><span class=''>0.71</span>
   cmp: 78.65
@@ -7004,7 +7004,7 @@
   sector: Industrial Machinery
   stake: 1
   mcap: 926
-  cap: smallcap
+  cap: nocap
   rank: 0
   eps: <span class='epsinc epspos'>4.96</span><span class='epsdec epsneg'>-0.70</span><span class='epsinc epspos'>10.34</span><span class='epsinc epspos'>5.73</span><span class=''>2.83</span>
   cmp: 323.85
@@ -7022,7 +7022,7 @@
   sector: IT Services & Consulting
   stake: 0
   mcap: 848
-  cap: smallcap
+  cap: nocap
   rank: 0
   eps: <span class='epsinc epsneg'>-0.22</span><span class='epsdec epsneg'>-4.66</span><span class='epsinc epsneg'>-1.74</span><span class='epsinc epsneg'>-7.96</span><span class=''>-16.55</span>
   cmp: 52.40
@@ -7202,7 +7202,7 @@
   sector: Paper Products
   stake: 8
   mcap: 854
-  cap: smallcap
+  cap: nocap
   rank: 0
   eps: <span class='epsdec epsneg'>-1.99</span><span class='epsinc epsneg'>-0.57</span><span class='epsdec epsneg'>-4.57</span><span class='epsinc epsneg'>-1.38</span><span class=''>-2.89</span>
   cmp: 132.25
@@ -7247,7 +7247,7 @@
   sector: Paper Products
   stake: 8
   mcap: 834
-  cap: smallcap
+  cap: nocap
   rank: 0
   eps: <span class='epsdec epspos'>6.57</span><span class='epsinc epspos'>8.13</span><span class='epsinc epspos'>1.02</span><span class='epsinc epsneg'>-4.01</span><span class=''>-6.31</span>
   cmp: 228.25
@@ -7283,7 +7283,7 @@
   sector: 
   stake: 2
   mcap: 926
-  cap: smallcap
+  cap: nocap
   rank: 0
   eps: <span class='epsdec epsneg'>-0.01</span><span class='epsdec epsneg'>0.00</span><span class='epsdec epsneg'>0.00</span><span class='epsdec epsneg'>0.00</span><span class=''>0.00</span>
   cmp: 47.15
@@ -7310,7 +7310,7 @@
   sector: Industrial Machinery
   stake: 1
   mcap: 900
-  cap: smallcap
+  cap: nocap
   rank: 0
   eps: <span class='epsdec epspos'>10.50</span><span class='epsinc epspos'>18.47</span><span class='epsinc epspos'>17.11</span><span class='epsinc epspos'>8.86</span><span class=''>-1.93</span>
   cmp: 418.75
@@ -7454,7 +7454,7 @@
   sector: Auto Parts
   stake: 0
   mcap: 932
-  cap: smallcap
+  cap: nocap
   rank: 0
   eps: <span class='epsdec epspos'>1.12</span><span class='epsinc epspos'>1.23</span><span class='epsinc epspos'>1.00</span><span class='epsinc epspos'>0.86</span><span class=''>-0.47</span>
   cmp: 170.30
@@ -7472,7 +7472,7 @@
   sector: Investment Banking & Brokerage
   stake: 2
   mcap: 994
-  cap: smallcap
+  cap: nocap
   rank: 0
   eps: <span class='epsdec epspos'>2.58</span><span class='epsinc epspos'>3.61</span><span class='epsinc epspos'>2.13</span><span class='epsinc epspos'>1.39</span><span class=''>1.23</span>
   cmp: 92.05
@@ -7562,7 +7562,7 @@
   sector: Construction & Engineering
   stake: 0
   mcap: 989
-  cap: smallcap
+  cap: nocap
   rank: 0
   eps: <span class='epsdec epsneg'>-6.39</span><span class='epsinc epspos'>0.24</span><span class='epsinc epsneg'>-1.42</span><span class='epsinc epsneg'>-2.41</span><span class=''>-5.49</span>
   cmp: 51.15
@@ -7661,7 +7661,7 @@
   sector: Iron & Steel
   stake: 0
   mcap: 892
-  cap: smallcap
+  cap: nocap
   rank: 0
   eps: <span class='epsinc epspos'>5.43</span><span class='epsdec epsneg'>-4.34</span><span class='epsinc epspos'>4.56</span><span class='epsinc epsneg'>-5.87</span><span class=''>-8.77</span>
   cmp: 142.95
@@ -7679,7 +7679,7 @@
   sector: Pharmaceuticals
   stake: 0
   mcap: 973
-  cap: smallcap
+  cap: nocap
   rank: 0
   eps: <span class='epsinc epspos'>2.78</span><span class='epsinc epspos'>2.73</span><span class='epsinc epspos'>2.53</span><span class='epsinc epspos'>1.30</span><span class=''>0.83</span>
   cmp: 160.50
@@ -7733,7 +7733,7 @@
   sector: Auto Parts
   stake: 0
   mcap: 919
-  cap: smallcap
+  cap: nocap
   rank: 0
   eps: <span class='epsinc epspos'>32.73</span><span class='epsinc epspos'>28.55</span><span class='epsinc epspos'>18.43</span><span class='epsinc epspos'>9.00</span><span class=''>-24.43</span>
   cmp: 1734.60
@@ -7922,7 +7922,7 @@
   sector: Paper Products
   stake: 9
   mcap: 922
-  cap: smallcap
+  cap: nocap
   rank: 0
   eps: <span class='epsdec epspos'>3.30</span><span class='epsinc epspos'>10.56</span><span class='epsdec epspos'>0.77</span><span class='epsdec epspos'>2.98</span><span class=''>3.20</span>
   cmp: 175.40
@@ -7940,7 +7940,7 @@
   sector: Auto Parts
   stake: 0
   mcap: 855
-  cap: smallcap
+  cap: nocap
   rank: 0
   eps: <span class='epsinc epspos'>12.72</span><span class='epsdec epsneg'>-15.63</span><span class='epsinc epspos'>17.32</span><span class='epsinc epspos'>2.92</span><span class=''>-40.03</span>
   cmp: 624.15
