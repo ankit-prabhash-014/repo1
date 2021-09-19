@@ -10074,7 +10074,7 @@
   stake: 1
   mcap: 2151
   cap: smallcap
-  rank: 1120
+  rank: 0
   eps: <span class='epsdec epspos'>0.51</span><span class='epsdec epspos'>4.02</span><span class='epsinc epspos'>4.20</span><span class='epsinc epspos'>2.72</span><span class=''>-3.68</span>
   cmp: 310.35
   day: -0.75
@@ -10083,7 +10083,7 @@
   stake: 0
   mcap: 86
   cap: smallcap
-  rank: 1121
+  rank: 0
   eps: <span class='epsdec epspos'>0.05</span><span class='epsinc epspos'>0.10</span><span class='epsinc epspos'>0.05</span><span class='epsdec epsneg'>-0.07</span><span class=''>-0.05</span>
   cmp: 7.05
   day: 0.00
@@ -10092,7 +10092,7 @@
   stake: 0
   mcap: 21
   cap: smallcap
-  rank: 1122
+  rank: 0
   eps: <span class='epsdec epspos'>0.03</span><span class='epsinc epspos'>0.08</span><span class='epsinc epspos'>0.04</span><span class='epsdec epsneg'>-6.46</span><span class=''>1.73</span>
   cmp: 4.65
   day: -4.12
@@ -10101,7 +10101,7 @@
   stake: 0
   mcap: 98
   cap: smallcap
-  rank: 1123
+  rank: 0
   eps: <span class='epsdec epspos'>3.52</span><span class='epsinc epspos'>4.72</span><span class='epsdec epspos'>1.32</span><span class='epsinc epspos'>4.35</span><span class=''>-0.17</span>
   cmp: 25.85
   day: -1.52
@@ -10110,7 +10110,7 @@
   stake: 1
   mcap: 165
   cap: smallcap
-  rank: 1124
+  rank: 0
   eps: <span class='epsdec epsneg'>-0.05</span><span class='epsinc epspos'>0.14</span><span class='epsinc epspos'>0.11</span><span class='epsinc epspos'>0.01</span><span class=''>-0.09</span>
   cmp: 12.80
   day: -2.66
@@ -10119,7 +10119,7 @@
   stake: 1
   mcap: 3287
   cap: smallcap
-  rank: 1125
+  rank: 0
   eps: <span class='epsdec epsneg'>-6.80</span><span class='epsinc epspos'>5.76</span><span class='epsdec epsneg'>-33.61</span><span class='epsinc epspos'>6.16</span><span class=''>5.35</span>
   cmp: 155.50
   day: -3.77
@@ -10128,7 +10128,7 @@
   stake: 0
   mcap: 232
   cap: smallcap
-  rank: 1126
+  rank: 0
   eps: <span class='epsinc epspos'>2.06</span><span class='epsdec epspos'>2.02</span><span class='epsinc epspos'>2.29</span><span class='epsinc epspos'>1.08</span><span class=''>-1.12</span>
   cmp: 102.95
   day: 0.19
@@ -10137,7 +10137,7 @@
   stake: 4
   mcap: 1782
   cap: smallcap
-  rank: 1127
+  rank: 0
   eps: <span class='epsinc epspos'>2.27</span><span class='epsdec epspos'>1.76</span><span class='epsdec epspos'>2.07</span><span class='epsdec epspos'>2.27</span><span class=''>2.46</span>
   cmp: 67.75
   day: -0.29
@@ -10146,7 +10146,7 @@
   stake: 0
   mcap: 130
   cap: smallcap
-  rank: 1128
+  rank: 0
   eps: <span class='epsinc epspos'>0.36</span><span class='epsdec epsneg'>-0.12</span><span class='epsinc epspos'>0.16</span><span class='epsdec epspos'>0.12</span><span class=''>0.15</span>
   cmp: 11.15
   day: -0.89
@@ -10155,7 +10155,7 @@
   stake: 0
   mcap: 54
   cap: smallcap
-  rank: 1129
+  rank: 0
   eps: <span class='epsinc epspos'>2.19</span><span class='epsdec epsneg'>-0.99</span><span class='epsinc epspos'>7.05</span><span class='epsdec epsneg'>-6.28</span><span class=''>-4.62</span>
   cmp: 206.65
   day: 1.55
@@ -10164,7 +10164,7 @@
   stake: 0
   mcap: 129
   cap: smallcap
-  rank: 1130
+  rank: 0
   eps: <span class='epsdec epspos'>0.43</span><span class='epsdec epspos'>2.99</span><span class='epsinc epspos'>5.31</span><span class='epsinc epspos'>2.58</span><span class=''>-3.03</span>
   cmp: 183.80
   day: -2.36
@@ -10173,7 +10173,7 @@
   stake: 0
   mcap: 203
   cap: smallcap
-  rank: 1131
+  rank: 0
   eps: <span class='epsdec epspos'>8.86</span><span class='epsinc epspos'>28.45</span><span class='epsdec epspos'>9.44</span><span class='epsinc epspos'>10.55</span><span class=''>1.60</span>
   cmp: 466.75
   day: -1.05
@@ -10182,7 +10182,7 @@
   stake: 5
   mcap: 4568
   cap: smallcap
-  rank: 1132
+  rank: 0
   eps: <span class='epsdec epspos'>9.39</span><span class='epsinc epspos'>35.19</span><span class='epsinc epspos'>23.01</span><span class='epsinc epspos'>18.93</span><span class=''>0.35</span>
   cmp: 4478.40
   day: 1.79
@@ -10191,7 +10191,7 @@
   stake: 0
   mcap: 401
   cap: smallcap
-  rank: 1133
+  rank: 0
   eps: <span class='epsinc epspos'>2.10</span><span class='epsinc epspos'>1.08</span><span class='epsinc epsneg'>-0.68</span><span class='epsinc epsneg'>-3.06</span><span class=''>-6.09</span>
   cmp: 19.50
   day: -4.65
@@ -10200,7 +10200,7 @@
   stake: 1
   mcap: 1166
   cap: smallcap
-  rank: 1134
+  rank: 0
   eps: <span class='epsdec epspos'>4.06</span><span class='epsinc epspos'>11.05</span><span class='epsinc epspos'>5.03</span><span class='epsinc epspos'>2.84</span><span class=''>-18.16</span>
   cmp: 786.05
   day: -1.34
@@ -10209,7 +10209,7 @@
   stake: 0
   mcap: 31
   cap: smallcap
-  rank: 1135
+  rank: 0
   eps: <span class='epsdec epsneg'>-0.71</span><span class='epsinc epsneg'>-0.68</span><span class='epsdec epsneg'>-0.71</span><span class='epsdec epspos'>0.03</span><span class=''>0.06</span>
   cmp: 8.70
   day: -1.14
@@ -10218,7 +10218,7 @@
   stake: 0
   mcap: 168
   cap: smallcap
-  rank: 1136
+  rank: 0
   eps: <span class='epsdec epsneg'>-1.90</span><span class='epsinc epsneg'>-1.51</span><span class='epsinc epsneg'>-1.73</span><span class='epsinc epsneg'>-1.85</span><span class=''>-1.89</span>
   cmp: 21.95
   day: -2.01
@@ -10227,7 +10227,7 @@
   stake: 10
   mcap: 636
   cap: smallcap
-  rank: 1137
+  rank: 0
   eps: <span class='epsinc epspos'>11.86</span><span class='epsdec epspos'>7.14</span><span class='epsinc epspos'>9.90</span><span class='epsinc epspos'>7.47</span><span class=''>7.44</span>
   cmp: 696.45
   day: -3.40
@@ -10236,7 +10236,7 @@
   stake: 2
   mcap: 911
   cap: smallcap
-  rank: 1138
+  rank: 0
   eps: <span class='epsdec epspos'>0.50</span><span class='epsdec epspos'>3.08</span><span class='epsinc epspos'>3.39</span><span class='epsinc epspos'>2.25</span><span class=''>-1.81</span>
   cmp: 139.35
   day: -1.24
@@ -10245,7 +10245,7 @@
   stake: 0
   mcap: 49
   cap: smallcap
-  rank: 1139
+  rank: 0
   eps: <span class='epsdec epsneg'>-8.48</span><span class='epsinc epsneg'>-6.33</span><span class='epsinc epsneg'>-7.51</span><span class='epsinc epsneg'>-7.72</span><span class=''>-8.94</span>
   cmp: 7.75
   day: -0.64
@@ -10254,7 +10254,7 @@
   stake: 0
   mcap: 38
   cap: smallcap
-  rank: 1140
+  rank: 0
   eps: <span class='epsdec epsneg'>-9.58</span><span class='epsdec epsneg'>-0.43</span><span class='epsinc epspos'>8.85</span><span class='epsinc epsneg'>-3.99</span><span class=''>-28.24</span>
   cmp: 15.00
   day: -1.64
@@ -10263,7 +10263,7 @@
   stake: 0
   mcap: 119
   cap: smallcap
-  rank: 1141
+  rank: 0
   eps: <span class='epsinc epspos'>15.68</span><span class='epsinc epspos'>13.10</span><span class='epsinc epspos'>6.56</span><span class='epsinc epspos'>0.21</span><span class=''>-3.54</span>
   cmp: 204.25
   day: -4.04
@@ -10272,7 +10272,7 @@
   stake: 1
   mcap: 999
   cap: smallcap
-  rank: 1142
+  rank: 0
   eps: <span class='epsinc epspos'>17.37</span><span class='epsinc epspos'>10.54</span><span class='epsdec epspos'>2.97</span><span class='epsinc epspos'>20.13</span><span class=''>11.79</span>
   cmp: 708.65
   day: -2.78
@@ -10281,7 +10281,7 @@
   stake: 1
   mcap: 1543
   cap: smallcap
-  rank: 1143
+  rank: 0
   eps: <span class='epsdec epspos'>3.69</span><span class='epsinc epspos'>17.57</span><span class='epsinc epspos'>8.73</span><span class='epsinc epspos'>3.98</span><span class=''>-15.24</span>
   cmp: 1223.95
   day: -0.48
@@ -10290,7 +10290,7 @@
   stake: 1
   mcap: 293
   cap: smallcap
-  rank: 1144
+  rank: 0
   eps: <span class='epsdec epsneg'>-32.07</span><span class='epsinc epsneg'>-24.38</span><span class='epsdec epsneg'>-37.65</span><span class='epsdec epsneg'>-4.70</span><span class=''>11.30</span>
   cmp: 273.30
   day: -1.26
@@ -10299,7 +10299,7 @@
   stake: 0
   mcap: 37
   cap: smallcap
-  rank: 1145
+  rank: 0
   eps: <span class='epsinc epsneg'>-0.33</span><span class='epsdec epsneg'>-1.20</span><span class='epsdec epsneg'>-0.63</span><span class='epsdec epsneg'>-0.32</span><span class=''>-0.20</span>
   cmp: 4.45
   day: -4.30
@@ -10308,7 +10308,7 @@
   stake: 1
   mcap: 42
   cap: smallcap
-  rank: 1146
+  rank: 0
   eps: <span class='epsdec epsneg'>-20.33</span><span class='epsinc epsneg'>-3.63</span><span class='epsinc epsneg'>-3.98</span><span class=''>-6.92</span>
   cmp: 2.95
   day: -1.67
@@ -10317,7 +10317,7 @@
   stake: 1
   mcap: 1213
   cap: smallcap
-  rank: 1147
+  rank: 0
   eps: <span class='epsdec epsneg'>-9.36</span><span class='epsdec epsneg'>-8.84</span><span class='epsdec epsneg'>-6.54</span><span class='epsinc epsneg'>-3.16</span><span class=''>-5.12</span>
   cmp: 297.45
   day: -2.01
@@ -10326,7 +10326,7 @@
   stake: 1
   mcap: 182
   cap: smallcap
-  rank: 1148
+  rank: 0
   eps: <span class='epsdec epsneg'>-1.50</span><span class='epsdec epspos'>0.92</span><span class='epsinc epspos'>2.92</span><span class='epsdec epsneg'>-1.23</span><span class=''>-1.09</span>
   cmp: 27.40
   day: -3.18
@@ -10335,7 +10335,7 @@
   stake: 0
   mcap: 1600
   cap: smallcap
-  rank: 1149
+  rank: 0
   eps: <span class='epsinc epspos'>27.72</span><span class='epsinc epspos'>26.84</span><span class='epsdec epspos'>20.61</span><span class='epsinc epspos'>22.36</span><span class=''>6.46</span>
   cmp: 1634.55
   day: -1.79
@@ -10344,7 +10344,7 @@
   stake: 0
   mcap: 154
   cap: smallcap
-  rank: 1150
+  rank: 0
   eps: <span class='epsdec epspos'>0.32</span><span class='epsinc epspos'>1.42</span><span class='epsinc epspos'>1.16</span><span class='epsinc epsneg'>-0.06</span><span class=''>-2.00</span>
   cmp: 92.50
   day: -1.96
@@ -10353,7 +10353,7 @@
   stake: 0
   mcap: 356
   cap: smallcap
-  rank: 1151
+  rank: 0
   eps: <span class='epsinc epspos'>1.43</span><span class='epsdec epspos'>1.02</span><span class='epsinc epspos'>4.49</span><span class='epsdec epspos'>1.36</span><span class=''>1.88</span>
   cmp: 162.80
   day: -2.40
@@ -10362,7 +10362,7 @@
   stake: 0
   mcap: 144
   cap: smallcap
-  rank: 1152
+  rank: 0
   eps: <span class='epsinc epspos'>8.42</span><span class='epsinc epsneg'>-2.54</span><span class='epsdec epsneg'>-3.99</span><span class='epsinc epspos'>8.00</span><span class=''>0.15</span>
   cmp: 245.15
   day: -1.57
@@ -10371,7 +10371,7 @@
   stake: 2
   mcap: 1851
   cap: smallcap
-  rank: 1153
+  rank: 0
   eps: <span class='epsinc epspos'>6.04</span><span class='epsdec epspos'>4.44</span><span class='epsinc epspos'>4.84</span><span class='epsinc epspos'>4.51</span><span class=''>4.11</span>
   cmp: 1047.35
   day: 1.42
@@ -10380,7 +10380,7 @@
   stake: 34
   mcap: 19264
   cap: midcap
-  rank: 1154
+  rank: 0
   eps: <span class='epsdec epsneg'>-3.47</span><span class='epsdec epsneg'>-2.97</span><span class='epsdec epsneg'>-1.38</span><span class='epsdec epspos'>0.07</span><span class=''>0.23</span>
   cmp: 189.45
   day: -3.51
@@ -10389,7 +10389,7 @@
   stake: 1
   mcap: 1064
   cap: smallcap
-  rank: 1155
+  rank: 0
   eps: <span class='epsdec epspos'>1.52</span><span class='epsinc epspos'>10.44</span><span class='epsinc epspos'>8.88</span><span class='epsinc epspos'>3.24</span><span class=''>-2.27</span>
   cmp: 366.35
   day: -0.23
@@ -10398,7 +10398,7 @@
   stake: 0
   mcap: 136
   cap: smallcap
-  rank: 1156
+  rank: 0
   eps: <span class='epsinc epspos'>2.15</span><span class='epsdec epspos'>1.17</span><span class='epsdec epspos'>1.20</span><span class='epsinc epspos'>3.04</span><span class=''>1.72</span>
   cmp: 165.95
   day: 0.03
@@ -10407,7 +10407,7 @@
   stake: 0
   mcap: 56
   cap: smallcap
-  rank: 1157
+  rank: 0
   eps: <span class='epsinc epspos'>0.55</span><span class='epsdec epspos'>0.36</span><span class='epsinc epspos'>0.77</span><span class='epsdec epspos'>0.58</span><span class=''>0.70</span>
   cmp: 27.75
   day: -1.60
@@ -10416,7 +10416,7 @@
   stake: 0
   mcap: 52
   cap: smallcap
-  rank: 1158
+  rank: 0
   eps: <span class='epsdec epspos'>0.42</span><span class='epsinc epspos'>1.55</span><span class='epsinc epspos'>0.21</span><span class='epsdec epspos'>0.09</span><span class=''>0.20</span>
   cmp: 65.55
   day: 4.96
@@ -10425,7 +10425,7 @@
   stake: 0
   mcap: 82
   cap: smallcap
-  rank: 1159
+  rank: 0
   eps: <span class='epsdec epsneg'>-0.24</span><span class='epsinc epspos'>0.69</span><span class='epsinc epsneg'>-0.24</span><span class='epsdec epsneg'>-0.48</span><span class=''>-0.45</span>
   cmp: 25.30
   day: -1.36
@@ -10434,7 +10434,7 @@
   stake: 0
   mcap: 18
   cap: smallcap
-  rank: 1160
+  rank: 0
   eps: <span class='epsdec epsneg'>-11.56</span><span class='epsdec epsneg'>-9.74</span><span class='epsinc epsneg'>-9.18</span><span class='epsinc epsneg'>-9.59</span><span class=''>-90.03</span>
   cmp: 1.80
   day: 0.00
@@ -10443,7 +10443,7 @@
   stake: 1
   mcap: 381
   cap: smallcap
-  rank: 1161
+  rank: 0
   eps: <span class='epsdec epspos'>5.44</span><span class='epsinc epspos'>6.48</span><span class='epsinc epspos'>4.73</span><span class='epsinc epspos'>4.55</span><span class=''>2.04</span>
   cmp: 339.35
   day: -0.04
@@ -10452,7 +10452,7 @@
   stake: 0
   mcap: 81
   cap: smallcap
-  rank: 1162
+  rank: 0
   eps: <span class='epsdec epspos'>0.55</span><span class='epsinc epspos'>3.36</span><span class='epsinc epspos'>2.58</span><span class='epsdec epsneg'>-1.26</span><span class=''>-0.13</span>
   cmp: 127.95
   day: -0.47
@@ -10461,7 +10461,7 @@
   stake: 5
   mcap: 430
   cap: smallcap
-  rank: 1163
+  rank: 0
   eps: <span class='epsdec epspos'>0.01</span><span class='epsinc epspos'>0.02</span><span class='epsinc epspos'>0.01</span><span class='epsdec epsneg'>0.00</span><span class=''>0.01</span>
   cmp: 6.35
   day: -3.05
@@ -10470,7 +10470,7 @@
   stake: 0
   mcap: 50
   cap: smallcap
-  rank: 1164
+  rank: 0
   eps: <span class='epsinc epspos'>5.81</span><span class='epsinc epspos'>0.18</span><span class='epsdec epsneg'>-3.23</span><span class='epsinc epsneg'>-3.13</span><span class=''>-3.37</span>
   cmp: 45.75
   day: -2.14
@@ -10479,7 +10479,7 @@
   stake: 14
   mcap: 3527
   cap: smallcap
-  rank: 1165
+  rank: 0
   eps: <span class='epsdec epsneg'>-10.67</span><span class='epsinc epsneg'>-8.37</span><span class='epsdec epsneg'>-9.62</span><span class='epsinc epsneg'>-6.74</span><span class=''>-7.49</span>
   cmp: 306.20
   day: 0.69
@@ -10488,7 +10488,7 @@
   stake: 1
   mcap: 601
   cap: smallcap
-  rank: 1166
+  rank: 0
   eps: <span class='epsdec epspos'>0.12</span><span class='epsdec epspos'>0.60</span><span class='epsinc epspos'>1.15</span><span class='epsinc epspos'>0.89</span><span class=''>0.31</span>
   cmp: 116.90
   day: -0.68
@@ -10497,7 +10497,7 @@
   stake: 0
   mcap: 55
   cap: smallcap
-  rank: 1167
+  rank: 0
   eps: <span class='epsinc epsneg'>-0.51</span><span class='epsdec epsneg'>-12.06</span><span class='epsdec epsneg'>-7.48</span><span class='epsinc epsneg'>-3.75</span><span class=''>-8.69</span>
   cmp: 11.05
   day: -0.90
@@ -10506,7 +10506,7 @@
   stake: 2
   mcap: 19374
   cap: midcap
-  rank: 1168
+  rank: 0
   eps: <span class='epsinc epspos'>77.42</span><span class='epsinc epspos'>63.35</span><span class='epsdec epspos'>53.41</span><span class='epsdec epspos'>57.71</span><span class=''>59.18</span>
   cmp: 7916.30
   day: -1.65
@@ -10515,7 +10515,7 @@
   stake: 4
   mcap: 2440
   cap: smallcap
-  rank: 1169
+  rank: 0
   eps: <span class='epsdec epsneg'>-0.67</span><span class='epsdec epsneg'>-0.47</span><span class='epsinc epspos'>1.39</span><span class='epsinc epspos'>0.26</span><span class=''>-1.23</span>
   cmp: 119.50
   day: 1.01
@@ -10524,7 +10524,7 @@
   stake: 8
   mcap: 2656
   cap: smallcap
-  rank: 1170
+  rank: 0
   eps: <span class='epsinc epspos'>24.90</span><span class='epsdec epspos'>23.08</span><span class='epsinc epspos'>25.15</span><span class='epsinc epspos'>19.18</span><span class=''>17.48</span>
   cmp: 3538.05
   day: 0.03
@@ -10533,7 +10533,7 @@
   stake: 1
   mcap: 8342
   cap: smallcap
-  rank: 1171
+  rank: 0
   eps: <span class='epsdec epspos'>4.85</span><span class='epsdec epspos'>5.15</span><span class='epsdec epspos'>5.92</span><span class='epsinc epspos'>6.60</span><span class=''>4.39</span>
   cmp: 327.85
   day: -1.55
@@ -10542,7 +10542,7 @@
   stake: 0
   mcap: 26
   cap: smallcap
-  rank: 1172
+  rank: 0
   eps: <span class='epsdec epspos'>0.56</span><span class='epsinc epspos'>0.62</span><span class='epsinc epspos'>0.19</span><span class='epsdec epsneg'>-0.02</span><span class=''>2.50</span>
   cmp: 11.97
   day: 1.61
@@ -10551,7 +10551,7 @@
   stake: 5
   mcap: 1085
   cap: smallcap
-  rank: 1173
+  rank: 0
   eps: <span class='epsdec epspos'>6.57</span><span class='epsinc epspos'>13.77</span><span class='epsinc epspos'>8.26</span><span class='epsdec epspos'>4.23</span><span class=''>8.26</span>
   cmp: 302.15
   day: 0.08
@@ -10560,7 +10560,7 @@
   stake: 0
   mcap: 1613
   cap: smallcap
-  rank: 1174
+  rank: 0
   eps: <span class='epsinc epspos'>4.26</span><span class='epsinc epspos'>4.25</span><span class='epsdec epspos'>4.23</span><span class='epsinc epspos'>4.32</span><span class=''>3.23</span>
   cmp: 281.00
   day: 1.83
@@ -10569,7 +10569,7 @@
   stake: 0
   mcap: 17
   cap: smallcap
-  rank: 1175
+  rank: 0
   eps: <span class='epsinc epsneg'>-1.76</span><span class='epsinc epsneg'>-6.53</span><span class='epsdec epsneg'>-7.72</span><span class='epsinc epsneg'>-6.22</span><span class=''>-6.82</span>
   cmp: 3.59
   day: 0.00
@@ -10578,7 +10578,7 @@
   stake: 2
   mcap: 1234
   cap: smallcap
-  rank: 1176
+  rank: 0
   eps: <span class='epsdec epspos'>15.60</span><span class='epsdec epspos'>30.70</span><span class='epsinc epspos'>31.68</span><span class='epsinc epspos'>29.46</span><span class=''>19.07</span>
   cmp: 1422.15
   day: 0.05
@@ -10587,7 +10587,7 @@
   stake: 0
   mcap: 585
   cap: smallcap
-  rank: 1177
+  rank: 0
   eps: <span class='epsdec epsneg'>-3.00</span><span class='epsinc epspos'>18.21</span><span class='epsinc epspos'>8.23</span><span class='epsinc epspos'>3.82</span><span class=''>-31.94</span>
   cmp: 822.95
   day: 2.63
@@ -10596,7 +10596,7 @@
   stake: 0
   mcap: 76
   cap: smallcap
-  rank: 1178
+  rank: 0
   eps: <span class='epsdec epsneg'>-83.29</span><span class='epsdec epsneg'>-43.67</span><span class='epsdec epsneg'>-6.43</span><span class='epsinc epspos'>28.15</span><span class=''>-5.48</span>
   cmp: 1.85
   day: 2.78
@@ -10605,7 +10605,7 @@
   stake: 1
   mcap: 1059
   cap: smallcap
-  rank: 1179
+  rank: 0
   eps: <span class='epsinc epspos'>19.53</span><span class='epsdec epspos'>15.07</span><span class='epsinc epspos'>20.62</span><span class='epsinc epspos'>19.22</span><span class=''>-6.93</span>
   cmp: 1197.00
   day: -1.55
@@ -10614,7 +10614,7 @@
   stake: 0
   mcap: 37
   cap: smallcap
-  rank: 1180
+  rank: 0
   eps: <span class='epsdec epspos'>1.46</span><span class='epsinc epspos'>2.65</span><span class='epsinc epspos'>0.66</span><span class='epsdec epsneg'>-1.30</span><span class=''>-0.39</span>
   cmp: 27.55
   day: -2.30
@@ -10623,7 +10623,7 @@
   stake: 0
   mcap: 226
   cap: smallcap
-  rank: 1181
+  rank: 0
   eps: <span class='epsinc epspos'>4.62</span><span class='epsdec epspos'>4.03</span><span class='epsdec epspos'>4.58</span><span class='epsdec epspos'>5.79</span><span class=''>5.80</span>
   cmp: 114.50
   day: -3.86
@@ -10632,7 +10632,7 @@
   stake: 6
   mcap: 604
   cap: smallcap
-  rank: 1182
+  rank: 0
   eps: <span class='epsdec epspos'>5.09</span><span class='epsinc epspos'>7.81</span><span class='epsdec epspos'>0.48</span><span class='epsinc epspos'>1.34</span><span class=''>-1.20</span>
   cmp: 163.40
   day: -1.27
@@ -10641,7 +10641,7 @@
   stake: 0
   mcap: 1052
   cap: smallcap
-  rank: 1183
+  rank: 0
   eps: <span class='epsdec epspos'>3.78</span><span class='epsinc epspos'>4.45</span><span class='epsinc epspos'>2.60</span><span class='epsinc epspos'>1.63</span><span class=''>-0.87</span>
   cmp: 83.50
   day: 1.83
@@ -10650,7 +10650,7 @@
   stake: 1
   mcap: 768
   cap: smallcap
-  rank: 1184
+  rank: 0
   eps: <span class='epsdec epspos'>2.74</span><span class='epsdec epspos'>4.85</span><span class='epsinc epspos'>9.55</span><span class='epsinc epspos'>2.74</span><span class=''>-11.07</span>
   cmp: 547.40
   day: -3.01
@@ -10659,7 +10659,7 @@
   stake: 0
   mcap: 305
   cap: smallcap
-  rank: 1185
+  rank: 0
   eps: <span class='epsdec epspos'>0.45</span><span class='epsinc epspos'>2.35</span><span class='epsinc epspos'>0.19</span><span class='epsinc epspos'>0.03</span><span class=''>-2.38</span>
   cmp: 30.00
   day: -3.23
@@ -10668,7 +10668,7 @@
   stake: 8
   mcap: 11439
   cap: midcap
-  rank: 1186
+  rank: 0
   eps: <span class='epsinc epspos'>9.03</span><span class='epsdec epspos'>7.39</span><span class='epsdec epspos'>8.34</span><span class='epsinc epspos'>8.84</span><span class=''>3.92</span>
   cmp: 321.25
   day: -4.06
@@ -10677,7 +10677,7 @@
   stake: 0
   mcap: 85
   cap: smallcap
-  rank: 1187
+  rank: 0
   eps: <span class='epsinc epsneg'>-0.24</span><span class='epsdec epsneg'>-2.01</span><span class='epsinc epsneg'>-0.86</span><span class='epsdec epsneg'>-0.94</span><span class=''>-0.80</span>
   cmp: 4.30
   day: 0.00
@@ -10686,7 +10686,7 @@
   stake: 0
   mcap: 344
   cap: smallcap
-  rank: 1188
+  rank: 0
   eps: <span class='epsinc epspos'>4.66</span><span class='epsdec epspos'>0.41</span><span class='epsinc epspos'>3.97</span><span class='epsinc epspos'>3.45</span><span class=''>1.86</span>
   cmp: 66.20
   day: -1.34
@@ -10695,7 +10695,7 @@
   stake: 1
   mcap: 249
   cap: smallcap
-  rank: 1189
+  rank: 0
   eps: <span class='epsdec epsneg'>-2.83</span><span class='epsinc epsneg'>-2.40</span><span class='epsinc epsneg'>-3.62</span><span class='epsinc epsneg'>-4.02</span><span class=''>-11.93</span>
   cmp: 3.80
   day: 0.00
@@ -10704,7 +10704,7 @@
   stake: 1
   mcap: 180
   cap: smallcap
-  rank: 1190
+  rank: 0
   eps: <span class='epsinc epspos'>0.82</span><span class='epsdec epspos'>0.69</span><span class='epsinc epspos'>1.07</span><span class='epsdec epsneg'>-0.42</span><span class=''>0.89</span>
   cmp: 22.45
   day: -1.97
@@ -10713,7 +10713,7 @@
   stake: 22
   mcap: 570977
   cap: largecap
-  rank: 1191
+  rank: 0
   eps: <span class='epsinc epspos'>12.24</span><span class='epsdec epspos'>11.96</span><span class='epsinc epspos'>12.25</span><span class='epsinc epspos'>11.42</span><span class=''>9.98</span>
   cmp: 1691.30
   day: -0.64
@@ -10722,7 +10722,7 @@
   stake: 5
   mcap: 27429
   cap: midcap
-  rank: 1192
+  rank: 0
   eps: <span class='epsinc epspos'>6.50</span><span class='epsdec epspos'>5.49</span><span class='epsinc epspos'>15.62</span><span class='epsinc epspos'>10.50</span><span class=''>6.58</span>
   cmp: 1116.40
   day: -3.19
@@ -10731,7 +10731,7 @@
   stake: 1
   mcap: 92
   cap: smallcap
-  rank: 1193
+  rank: 0
   eps: <span class='epsdec epsneg'>-5.01</span><span class='epsdec epsneg'>-0.50</span><span class='epsdec epsneg'>0.00</span><span class='epsinc epspos'>0.13</span><span class=''>0.08</span>
   cmp: 4.90
   day: 1.03
@@ -10740,7 +10740,7 @@
   stake: 0
   mcap: 3702
   cap: smallcap
-  rank: 1194
+  rank: 0
   eps: <span class='epsinc epspos'>2.24</span><span class='epsinc epspos'>1.74</span><span class='epsinc epspos'>1.55</span><span class='epsinc epspos'>1.04</span><span class=''>0.89</span>
   cmp: 319.45
   day: -1.77
@@ -10749,7 +10749,7 @@
   stake: 0
   mcap: 886
   cap: smallcap
-  rank: 1195
+  rank: 0
   eps: <span class='epsdec epspos'>0.89</span><span class='epsdec epspos'>1.04</span><span class='epsinc epspos'>1.67</span><span class='epsdec epspos'>0.16</span><span class=''>0.24</span>
   cmp: 67.25
   day: -2.39
@@ -10758,7 +10758,7 @@
   stake: 1
   mcap: 992
   cap: smallcap
-  rank: 1196
+  rank: 0
   eps: <span class='epsinc epsneg'>-0.25</span><span class='epsinc epsneg'>-0.28</span><span class='epsdec epsneg'>-0.39</span><span class='epsinc epsneg'>-0.17</span><span class=''>-0.29</span>
   cmp: 34.05
   day: -2.30
@@ -10767,7 +10767,7 @@
   stake: 0
   mcap: 57
   cap: smallcap
-  rank: 1197
+  rank: 0
   eps: <span class='epsdec epspos'>1.80</span><span class='epsinc epspos'>2.11</span><span class='epsdec epspos'>1.67</span><span class='epsinc epspos'>1.72</span><span class=''>1.51</span>
   cmp: 59.55
   day: -1.33
@@ -10776,7 +10776,7 @@
   stake: 2
   mcap: 215
   cap: smallcap
-  rank: 1198
+  rank: 0
   eps: <span class='epsdec epsneg'>-0.93</span><span class='epsinc epspos'>0.11</span><span class='epsinc epsneg'>-1.95</span><span class='epsdec epsneg'>-1.96</span><span class=''>-1.41</span>
   cmp: 18.70
   day: -1.84
@@ -10785,7 +10785,7 @@
   stake: 0
   mcap: 574
   cap: smallcap
-  rank: 1199
+  rank: 0
   eps: <span class='epsdec epsneg'>-0.56</span><span class='epsdec epspos'>1.46</span><span class='epsinc epspos'>4.32</span><span class='epsinc epspos'>2.68</span><span class=''>-1.92</span>
   cmp: 135.05
   day: -1.35
@@ -10794,7 +10794,7 @@
   stake: 2
   mcap: 1192
   cap: smallcap
-  rank: 1200
+  rank: 0
   eps: <span class='epsinc epspos'>1.12</span><span class='epsdec epsneg'>-24.03</span><span class='epsdec epspos'>0.48</span><span class='epsinc epspos'>1.41</span><span class=''>1.40</span>
   cmp: 176.45
   day: 2.65
@@ -10803,7 +10803,7 @@
   stake: 2
   mcap: 233
   cap: smallcap
-  rank: 1201
+  rank: 0
   eps: <span class='epsdec epsneg'>-0.06</span><span class='epsinc epsneg'>-0.02</span><span class='epsdec epsneg'>-0.03</span><span class='epsinc epspos'>0.05</span><span class=''>-0.03</span>
   cmp: 1.55
   day: 0.00
@@ -10812,7 +10812,7 @@
   stake: 0
   mcap: 490
   cap: smallcap
-  rank: 1202
+  rank: 0
   eps: <span class='epsdec epsneg'>-0.08</span><span class='epsinc epspos'>0.78</span><span class='epsinc epspos'>0.32</span><span class='epsinc epsneg'>-0.35</span><span class=''>-1.80</span>
   cmp: 48.05
   day: -2.83
@@ -10821,7 +10821,7 @@
   stake: 1
   mcap: 952
   cap: smallcap
-  rank: 1203
+  rank: 0
   eps: <span class='epsdec epspos'>0.96</span><span class='epsinc epspos'>7.94</span><span class='epsdec epspos'>0.91</span><span class='epsinc epspos'>0.96</span><span class=''>-1.14</span>
   cmp: 199.40
   day: -2.13
@@ -10830,7 +10830,7 @@
   stake: 0
   mcap: 256
   cap: smallcap
-  rank: 1204
+  rank: 0
   eps: <span class='epsdec epsneg'>-0.48</span><span class='epsinc epspos'>0.04</span><span class='epsinc epsneg'>-0.11</span><span class='epsinc epsneg'>-0.21</span><span class=''>-0.32</span>
   cmp: 17.35
   day: -2.53
@@ -10839,7 +10839,7 @@
   stake: 0
   mcap: 2313
   cap: smallcap
-  rank: 1205
+  rank: 0
   eps: <span class='epsdec epspos'>1.51</span><span class='epsinc epspos'>1.93</span><span class='epsinc epspos'>1.42</span><span class='epsinc epspos'>1.21</span><span class=''>1.20</span>
   cmp: 71.15
   day: 0.14
@@ -10848,7 +10848,7 @@
   stake: 1
   mcap: 789
   cap: smallcap
-  rank: 1206
+  rank: 0
   eps: <span class='epsinc epspos'>9.68</span><span class='epsdec epspos'>1.34</span><span class='epsdec epspos'>1.36</span><span class='epsinc epspos'>2.73</span><span class=''>-1.04</span>
   cmp: 1034.15
   day: -2.87
@@ -10857,7 +10857,7 @@
   stake: 45
   mcap: 655
   cap: smallcap
-  rank: 1207
+  rank: 0
   eps: <span class='epsdec epsneg'>-3.78</span><span class='epsdec epsneg'>-1.68</span><span class='epsinc epsneg'>-1.60</span><span class='epsinc epsneg'>-1.87</span><span class=''>-2.75</span>
   cmp: 17.80
   day: 2.30
@@ -10866,7 +10866,7 @@
   stake: 14
   mcap: 1261
   cap: smallcap
-  rank: 1208
+  rank: 0
   eps: <span class='epsdec epsneg'>-13.07</span><span class='epsinc epspos'>3.70</span><span class='epsdec epsneg'>-1.81</span><span class='epsinc epspos'>0.02</span><span class=''>-14.39</span>
   cmp: 433.95
   day: -1.25
@@ -10875,7 +10875,7 @@
   stake: 17
   mcap: 3746
   cap: smallcap
-  rank: 1209
+  rank: 0
   eps: <span class='epsdec epspos'>3.66</span><span class='epsinc epspos'>11.21</span><span class='epsdec epspos'>1.28</span><span class='epsdec epspos'>3.66</span><span class=''>6.32</span>
   cmp: 357.95
   day: -0.26
@@ -10884,7 +10884,7 @@
   stake: 0
   mcap: 254
   cap: smallcap
-  rank: 1210
+  rank: 0
   eps: <span class='epsdec epspos'>0.13</span><span class='epsinc epspos'>7.21</span><span class='epsinc epsneg'>-1.43</span><span class='epsinc epsneg'>-5.49</span><span class=''>-5.54</span>
   cmp: 368.50
   day: -1.71
@@ -10893,7 +10893,7 @@
   stake: 1
   mcap: 1177
   cap: smallcap
-  rank: 1211
+  rank: 0
   eps: <span class='epsinc epspos'>1.87</span><span class='epsdec epspos'>0.91</span><span class='epsdec epspos'>1.56</span><span class='epsinc epspos'>2.27</span><span class=''>-0.81</span>
   cmp: 184.00
   day: -2.75
@@ -10902,7 +10902,7 @@
   stake: 1
   mcap: 96
   cap: smallcap
-  rank: 1212
+  rank: 0
   eps: <span class='epsdec epspos'>0.16</span><span class='epsinc epspos'>1.29</span><span class='epsdec epspos'>0.94</span><span class='epsinc epspos'>1.05</span><span class=''>0.03</span>
   cmp: 24.85
   day: -2.74
@@ -10911,7 +10911,7 @@
   stake: 0
   mcap: 31
   cap: smallcap
-  rank: 1213
+  rank: 0
   eps: <span class='epsinc epspos'>18.15</span><span class='epsinc epsneg'>-1.47</span><span class='epsinc epsneg'>-1.81</span><span class='epsdec epsneg'>-2.39</span><span class=''>-0.61</span>
   cmp: 16.00
   day: 0.63
@@ -10920,7 +10920,7 @@
   stake: 0
   mcap: 468
   cap: smallcap
-  rank: 1214
+  rank: 0
   eps: <span class='epsdec epsneg'>-5.03</span><span class='epsinc epsneg'>-0.06</span><span class='epsdec epsneg'>-0.44</span><span class='epsinc epsneg'>-0.44</span><span class=''>-1.53</span>
   cmp: 1.85
   day: 0.00
@@ -10929,7 +10929,7 @@
   stake: 20
   mcap: 284
   cap: smallcap
-  rank: 1215
+  rank: 0
   eps: <span class='epsinc epsneg'>-4.70</span><span class='epsdec epsneg'>-4.89</span><span class='epsinc epspos'>0.41</span><span class='epsinc epsneg'>-3.55</span><span class=''>-6.12</span>
   cmp: 29.50
   day: -2.48
@@ -10938,7 +10938,7 @@
   stake: 0
   mcap: 95
   cap: smallcap
-  rank: 1216
+  rank: 0
   eps: <span class='epsinc epsneg'>-0.14</span><span class='epsdec epsneg'>-0.28</span><span class='epsdec epspos'>0.01</span><span class='epsinc epspos'>0.04</span><span class=''>-0.14</span>
   cmp: 2.10
   day: 0.00
@@ -10947,7 +10947,7 @@
   stake: 7
   mcap: 3685
   cap: smallcap
-  rank: 1217
+  rank: 0
   eps: <span class='epsinc epspos'>14.71</span><span class='epsdec epsneg'>-4.17</span><span class='epsinc epsneg'>-0.21</span><span class='epsdec epsneg'>-3.98</span><span class=''>3.71</span>
   cmp: 2210.00
   day: -1.56
@@ -10956,7 +10956,7 @@
   stake: 0
   mcap: 159
   cap: smallcap
-  rank: 1218
+  rank: 0
   eps: <span class='epsdec epspos'>12.84</span><span class='epsinc epspos'>23.11</span><span class='epsinc epspos'>10.38</span><span class='epsdec epspos'>2.12</span><span class=''>3.90</span>
   cmp: 303.35
   day: -1.57
@@ -10965,7 +10965,7 @@
   stake: 0
   mcap: 11
   cap: smallcap
-  rank: 1219
+  rank: 0
   eps: <span class='epsinc epsneg'>-1.43</span><span class='epsdec epsneg'>-2.07</span><span class='epsinc epspos'>0.13</span><span class='epsinc epsneg'>0.00</span><span class=''>-1.60</span>
   cmp: 1.25
   day: -3.85
@@ -10974,7 +10974,7 @@
   stake: 1
   mcap: 158
   cap: smallcap
-  rank: 1220
+  rank: 0
   eps: <span class='epsinc epspos'>1.01</span><span class='epsdec epspos'>0.14</span><span class='epsinc epspos'>0.66</span><span class='epsdec epspos'>0.07</span><span class=''>1.42</span>
   cmp: 32.95
   day: -1.79
@@ -10983,7 +10983,7 @@
   stake: 0
   mcap: 39
   cap: smallcap
-  rank: 1221
+  rank: 0
   eps: <span class='epsdec epspos'>0.13</span><span class='epsinc epspos'>0.30</span><span class='epsinc epspos'>0.21</span><span class='epsinc epspos'>0.14</span><span class=''>-0.38</span>
   cmp: 9.50
   day: -1.04
@@ -10992,7 +10992,7 @@
   stake: 2
   mcap: 173
   cap: smallcap
-  rank: 1222
+  rank: 0
   eps: <span class='epsdec epspos'>3.08</span><span class='epsdec epspos'>5.01</span><span class='epsinc epspos'>5.02</span><span class='epsinc epspos'>1.02</span><span class=''>0.17</span>
   cmp: 147.60
   day: -1.76
@@ -11001,7 +11001,7 @@
   stake: 0
   mcap: 184
   cap: smallcap
-  rank: 1223
+  rank: 0
   eps: <span class='epsdec epsneg'>-0.03</span><span class='epsinc epspos'>1.93</span><span class='epsinc epsneg'>-0.35</span><span class='epsinc epsneg'>-0.69</span><span class=''>-0.83</span>
   cmp: 36.20
   day: -2.56
@@ -11010,7 +11010,7 @@
   stake: 11
   mcap: 1183
   cap: smallcap
-  rank: 1224
+  rank: 0
   eps: <span class='epsdec epspos'>4.84</span><span class='epsinc epspos'>11.34</span><span class='epsinc epsneg'>-0.44</span><span class='epsinc epsneg'>-5.38</span><span class=''>-6.00</span>
   cmp: 237.55
   day: 0.25
@@ -11019,7 +11019,7 @@
   stake: 0
   mcap: 665
   cap: smallcap
-  rank: 1225
+  rank: 0
   eps: <span class='epsinc epspos'>1.46</span><span class='epsinc epspos'>0.07</span><span class='epsdec epsneg'>-0.02</span><span class='epsinc epspos'>0.41</span><span class=''>-1.76</span>
   cmp: 92.30
   day: -0.81
@@ -11028,7 +11028,7 @@
   stake: 2
   mcap: 2324
   cap: smallcap
-  rank: 1226
+  rank: 0
   eps: <span class='epsdec epspos'>11.66</span><span class='epsdec epspos'>18.74</span><span class='epsinc epspos'>21.23</span><span class='epsinc epspos'>21.05</span><span class=''>-1.95</span>
   cmp: 1034.65
   day: 0.55
@@ -11037,7 +11037,7 @@
   stake: 0
   mcap: 49
   cap: smallcap
-  rank: 1227
+  rank: 0
   eps: <span class='epsinc epsneg'>-0.27</span><span class='epsdec epsneg'>-1.00</span><span class='epsdec epspos'>0.25</span><span class='epsinc epspos'>1.17</span><span class=''>0.88</span>
   cmp: 56.00
   day: -0.18
@@ -11046,7 +11046,7 @@
   stake: 28
   mcap: 14829
   cap: midcap
-  rank: 1228
+  rank: 0
   eps: <span class='epsdec epspos'>10.09</span><span class='epsdec epspos'>13.43</span><span class='epsinc epspos'>16.89</span><span class='epsinc epspos'>12.20</span><span class=''>4.80</span>
   cmp: 614.35
   day: -1.95
@@ -11055,7 +11055,7 @@
   stake: 0
   mcap: 7
   cap: smallcap
-  rank: 1229
+  rank: 0
   eps: <span class='epsdec epsneg'>-0.54</span><span class='epsinc epsneg'>-0.48</span><span class='epsinc epsneg'>-0.54</span><span class='epsdec epsneg'>-0.88</span><span class=''>-0.49</span>
   cmp: 1.40
   day: 0.00
@@ -11064,7 +11064,7 @@
   stake: 7
   mcap: 12672
   cap: midcap
-  rank: 1230
+  rank: 0
   eps: <span class='epsdec epsneg'>-1.52</span><span class='epsdec epspos'>3.99</span><span class='epsinc epspos'>4.18</span><span class='epsinc epsneg'>-2.21</span><span class=''>-2.76</span>
   cmp: 851.00
   day: -1.80
@@ -11073,7 +11073,7 @@
   stake: 1
   mcap: 967
   cap: smallcap
-  rank: 1231
+  rank: 0
   eps: <span class='epsinc epspos'>6.94</span><span class='epsinc epspos'>3.89</span><span class='epsinc epspos'>3.36</span><span class='epsdec epsneg'>-1.37</span><span class=''>4.18</span>
   cmp: 126.25
   day: -0.63
@@ -11082,7 +11082,7 @@
   stake: 0
   mcap: 472
   cap: smallcap
-  rank: 1232
+  rank: 0
   eps: <span class='epsinc epspos'>0.08</span><span class='epsdec epsneg'>-1.83</span><span class='epsdec epsneg'>-0.36</span><span class='epsinc epsneg'>-0.33</span><span class=''>-0.75</span>
   cmp: 29.45
   day: -3.12
@@ -11091,7 +11091,7 @@
   stake: 0
   mcap: 417
   cap: smallcap
-  rank: 1233
+  rank: 0
   eps: <span class='epsinc epspos'>0.74</span><span class='epsdec epsneg'>-1.63</span><span class='epsinc epspos'>1.18</span><span class='epsinc epspos'>0.49</span><span class=''>0.20</span>
   cmp: 87.30
   day: 6.92
@@ -11100,7 +11100,7 @@
   stake: 0
   mcap: 31
   cap: smallcap
-  rank: 1234
+  rank: 0
   eps: <span class='epsdec epspos'>0.88</span><span class='epsinc epspos'>1.11</span><span class='epsinc epspos'>0.38</span><span class='epsdec epspos'>0.20</span><span class=''>7.66</span>
   cmp: 129.50
   day: -1.07
@@ -11109,7 +11109,7 @@
   stake: 0
   mcap: 56
   cap: smallcap
-  rank: 1235
+  rank: 0
   eps: <span class='epsdec epsneg'>0.00</span><span class='epsdec epspos'>0.01</span><span class='epsinc epspos'>0.01</span><span class='epsinc epsneg'>0.00</span><span class=''>-0.01</span>
   cmp: 0.80
   day: 6.67
@@ -11118,7 +11118,7 @@
   stake: 4
   mcap: 1168
   cap: smallcap
-  rank: 1236
+  rank: 0
   eps: <span class='epsdec epspos'>1.26</span><span class='epsinc epspos'>2.31</span><span class='epsinc epspos'>1.70</span><span class='epsinc epspos'>1.08</span><span class=''>-0.52</span>
   cmp: 74.10
   day: 2.70
@@ -11127,7 +11127,7 @@
   stake: 1
   mcap: 1656
   cap: smallcap
-  rank: 1237
+  rank: 0
   eps: <span class='epsdec epsneg'>-1.20</span><span class='epsinc epsneg'>-0.05</span><span class='epsinc epsneg'>-0.76</span><span class='epsinc epsneg'>-1.05</span><span class=''>-1.23</span>
   cmp: 28.25
   day: -1.40
@@ -11136,7 +11136,7 @@
   stake: 0
   mcap: 558
   cap: smallcap
-  rank: 1238
+  rank: 0
   eps: <span class='epsinc epspos'>1.57</span><span class='epsinc epspos'>1.43</span><span class='epsinc epspos'>1.09</span><span class='epsdec epspos'>0.74</span><span class=''>1.16</span>
   cmp: 119.30
   day: -2.97
@@ -11145,7 +11145,7 @@
   stake: 0
   mcap: 104
   cap: smallcap
-  rank: 1239
+  rank: 0
   eps: <span class='epsinc epspos'>0.71</span><span class='epsdec epspos'>0.21</span><span class='epsdec epspos'>0.42</span><span class='epsinc epspos'>0.47</span><span class=''>0.07</span>
   cmp: 49.00
   day: -2.20
@@ -11154,7 +11154,7 @@
   stake: 0
   mcap: 410
   cap: smallcap
-  rank: 1240
+  rank: 0
   eps: <span class='epsinc epsneg'>-0.19</span><span class='epsinc epsneg'>-2.09</span><span class='epsdec epsneg'>-11.02</span><span class='epsinc epsneg'>-0.68</span><span class=''>-23.68</span>
   cmp: 114.15
   day: -2.27
@@ -11163,7 +11163,7 @@
   stake: 2
   mcap: 206
   cap: smallcap
-  rank: 1241
+  rank: 0
   eps: <span class='epsdec epspos'>1.46</span><span class='epsinc epspos'>2.24</span><span class='epsdec epsneg'>-0.08</span><span class='epsinc epspos'>1.09</span><span class=''>-0.08</span>
   cmp: 39.50
   day: -1.37
@@ -11172,7 +11172,7 @@
   stake: 0
   mcap: 4
   cap: smallcap
-  rank: 1242
+  rank: 0
   eps: <span class='epsinc epspos'>5.75</span><span class='epsdec epspos'>1.07</span><span class='epsinc epspos'>4.68</span><span class='epsinc epspos'>1.98</span><span class=''>1.27</span>
   cmp: 31.00
   day: 4.91
@@ -11181,7 +11181,7 @@
   stake: 9
   mcap: 9848
   cap: smallcap
-  rank: 1243
+  rank: 0
   eps: <span class='epsinc epspos'>7.68</span><span class='epsinc epspos'>7.54</span><span class='epsinc epspos'>6.87</span><span class='epsinc epspos'>5.85</span><span class=''>5.16</span>
   cmp: 834.15
   day: -0.24
@@ -11190,7 +11190,7 @@
   stake: 0
   mcap: 216
   cap: smallcap
-  rank: 1244
+  rank: 0
   eps: <span class='epsinc epspos'>1.74</span><span class='epsdec epsneg'>-1.80</span><span class='epsinc epspos'>13.36</span><span class='epsdec epspos'>3.33</span><span class=''>4.27</span>
   cmp: 277.00
   day: -1.76
@@ -11199,7 +11199,7 @@
   stake: 0
   mcap: 121
   cap: smallcap
-  rank: 1245
+  rank: 0
   eps: <span class='epsdec epsneg'>-7.82</span><span class='epsdec epsneg'>-2.29</span><span class='epsinc epspos'>9.25</span><span class='epsdec epsneg'>-6.07</span><span class=''>-3.99</span>
   cmp: 172.65
   day: -3.87
@@ -11208,7 +11208,7 @@
   stake: 0
   mcap: 220
   cap: smallcap
-  rank: 1246
+  rank: 0
   eps: <span class='epsdec epsneg'>-0.02</span><span class='epsinc epspos'>0.12</span><span class='epsinc epspos'>0.04</span><span class='epsinc epsneg'>-0.08</span><span class=''>-0.10</span>
   cmp: 5.35
   day: -1.83
@@ -11217,7 +11217,7 @@
   stake: 1
   mcap: 9835
   cap: smallcap
-  rank: 1247
+  rank: 0
   eps: <span class='epsinc epspos'>1.90</span><span class='epsdec epspos'>1.87</span><span class='epsinc epspos'>2.06</span><span class='epsinc epspos'>1.66</span><span class=''>0.88</span>
   cmp: 241.70
   day: 1.17
@@ -11226,7 +11226,7 @@
   stake: 0
   mcap: 208
   cap: smallcap
-  rank: 1248
+  rank: 0
   eps: <span class='epsinc epspos'>0.01</span><span class='epsdec epsneg'>-5.54</span><span class='epsinc epspos'>7.43</span><span class='epsinc epspos'>4.04</span><span class=''>0.13</span>
   cmp: 19.35
   day: 0.52
@@ -11235,7 +11235,7 @@
   stake: 1
   mcap: 7598
   cap: smallcap
-  rank: 1249
+  rank: 0
   eps: <span class='epsdec epsneg'>-22.88</span><span class='epsinc epspos'>5.14</span><span class='epsdec epspos'>4.22</span><span class='epsdec epspos'>9.03</span><span class=''>11.56</span>
   cmp: 609.40
   day: -1.47
@@ -11244,7 +11244,7 @@
   stake: 0
   mcap: 6
   cap: smallcap
-  rank: 1250
+  rank: 0
   eps: <span class='epsdec epsneg'>-11.58</span><span class='epsinc epsneg'>-10.34</span><span class='epsdec epsneg'>-12.96</span><span class='epsinc epspos'>4.57</span><span class=''>-16.54</span>
   cmp: 4.70
   day: 4.44
@@ -11253,7 +11253,7 @@
   stake: 0
   mcap: 8
   cap: smallcap
-  rank: 1251
+  rank: 0
   eps: <span class='epsdec epsneg'>-0.25</span><span class='epsinc epsneg'>-0.23</span><span class='epsdec epsneg'>-0.26</span><span class='epsdec epsneg'>-0.26</span><span class=''>-0.26</span>
   cmp: 0.25
   day: 0.00
@@ -11262,7 +11262,7 @@
   stake: 1
   mcap: 94
   cap: smallcap
-  rank: 1252
+  rank: 0
   eps: <span class='epsinc epspos'>2.43</span><span class='epsinc epspos'>2.00</span><span class='epsdec epspos'>1.60</span><span class='epsdec epspos'>2.77</span><span class=''>3.77</span>
   cmp: 87.95
   day: -0.68
@@ -11271,7 +11271,7 @@
   stake: 0
   mcap: 37
   cap: smallcap
-  rank: 1253
+  rank: 0
   eps: <span class='epsinc epsneg'>-0.93</span><span class='epsdec epsneg'>-3.80</span><span class='epsinc epsneg'>-0.99</span><span class='epsdec epsneg'>-1.63</span><span class=''>-0.70</span>
   cmp: 6.50
   day: 0.00
@@ -11280,7 +11280,7 @@
   stake: 0
   mcap: 73
   cap: smallcap
-  rank: 1254
+  rank: 0
   eps: <span class='epsdec epspos'>3.85</span><span class='epsinc epspos'>3.89</span><span class='epsinc epspos'>3.38</span><span class='epsinc epspos'>2.49</span><span class=''>1.19</span>
   cmp: 136.65
   day: 1.45
@@ -11289,7 +11289,7 @@
   stake: 0
   mcap: 883
   cap: smallcap
-  rank: 1255
+  rank: 0
   eps: <span class='epsdec epspos'>1.52</span><span class='epsinc epspos'>1.93</span><span class='epsinc epspos'>0.99</span><span class='epsdec epspos'>0.18</span><span class=''>0.71</span>
   cmp: 78.65
   day: -0.69
@@ -11298,7 +11298,7 @@
   stake: 1
   mcap: 5545
   cap: smallcap
-  rank: 1256
+  rank: 0
   eps: <span class='epsdec epspos'>18.38</span><span class='epsinc epspos'>32.38</span><span class='epsdec epspos'>19.27</span><span class='epsinc epspos'>21.64</span><span class=''>8.54</span>
   cmp: 1303.60
   day: -1.59
@@ -11307,7 +11307,7 @@
   stake: 1
   mcap: 1156
   cap: smallcap
-  rank: 1257
+  rank: 0
   eps: <span class='epsinc epspos'>68.31</span><span class='epsinc epspos'>22.93</span><span class='epsinc epspos'>9.63</span><span class='epsinc epspos'>8.58</span><span class=''>1.37</span>
   cmp: 672.20
   day: -1.64
@@ -11316,7 +11316,7 @@
   stake: 1
   mcap: 401
   cap: smallcap
-  rank: 1258
+  rank: 0
   eps: <span class='epsdec epspos'>0.08</span><span class='epsinc epspos'>6.98</span><span class='epsdec epspos'>4.98</span><span class='epsinc epspos'>6.63</span><span class=''>-10.63</span>
   cmp: 325.05
   day: 0.03
@@ -11325,7 +11325,7 @@
   stake: 1
   mcap: 247
   cap: smallcap
-  rank: 1259
+  rank: 0
   eps: <span class='epsdec epspos'>2.48</span><span class='epsinc epspos'>4.05</span><span class='epsinc epspos'>3.15</span><span class='epsinc epspos'>2.73</span><span class=''>1.07</span>
   cmp: 72.60
   day: -1.29
@@ -11334,7 +11334,7 @@
   stake: 1
   mcap: 3168
   cap: smallcap
-  rank: 1260
+  rank: 0
   eps: <span class='epsdec epspos'>73.53</span><span class='epsinc epspos'>75.36</span><span class='epsinc epspos'>67.49</span><span class='epsinc epspos'>13.10</span><span class=''>-29.12</span>
   cmp: 898.80
   day: -0.28
@@ -11343,7 +11343,7 @@
   stake: 0
   mcap: 755
   cap: smallcap
-  rank: 1261
+  rank: 0
   eps: <span class='epsdec epsneg'>-23.11</span><span class='epsinc epsneg'>-13.90</span><span class='epsinc epsneg'>-18.24</span><span class='epsinc epsneg'>-23.99</span><span class=''>-36.11</span>
   cmp: 554.00
   day: -2.02
@@ -11352,7 +11352,7 @@
   stake: 0
   mcap: 260
   cap: smallcap
-  rank: 1262
+  rank: 0
   eps: <span class='epsinc epspos'>2.00</span><span class='epsdec epspos'>0.11</span><span class='epsdec epspos'>0.65</span><span class='epsinc epspos'>1.09</span><span class=''>0.72</span>
   cmp: 58.55
   day: -2.34
@@ -11361,7 +11361,7 @@
   stake: 0
   mcap: 17
   cap: smallcap
-  rank: 1263
+  rank: 0
   eps: <span class='epsdec epspos'>0.05</span><span class='epsinc epspos'>2.99</span><span class='epsdec epsneg'>-0.10</span><span class='epsinc epspos'>0.04</span><span class=''>-0.03</span>
   cmp: 2.25
   day: -4.26
@@ -11370,7 +11370,7 @@
   stake: 0
   mcap: 198
   cap: smallcap
-  rank: 1264
+  rank: 0
   eps: <span class='epsinc epspos'>0.32</span><span class='epsdec epsneg'>-2.81</span><span class='epsinc epspos'>1.45</span><span class='epsdec epsneg'>-4.12</span><span class=''>-0.26</span>
   cmp: 71.95
   day: -3.55
@@ -11379,7 +11379,7 @@
   stake: 0
   mcap: 496
   cap: smallcap
-  rank: 1265
+  rank: 0
   eps: <span class='epsinc epspos'>21.98</span><span class='epsinc epspos'>15.10</span><span class='epsdec epspos'>6.78</span><span class='epsinc epspos'>44.85</span><span class=''>17.27</span>
   cmp: 1703.75
   day: -1.02
@@ -11388,7 +11388,7 @@
   stake: 6
   mcap: 115
   cap: smallcap
-  rank: 1266
+  rank: 0
   eps: <span class='epsinc epsneg'>-0.04</span><span class='epsdec epsneg'>-0.32</span><span class='epsinc epsneg'>-0.26</span><span class='epsinc epsneg'>-0.30</span><span class=''>-0.68</span>
   cmp: 8.75
   day: -2.78
@@ -11397,7 +11397,7 @@
   stake: 0
   mcap: 93
   cap: smallcap
-  rank: 1267
+  rank: 0
   eps: <span class='epsdec epsneg'>-0.02</span><span class='epsinc epspos'>1.16</span><span class='epsdec epsneg'>-13.72</span><span class='epsinc epspos'>12.15</span><span class=''>-6.92</span>
   cmp: 46.65
   day: -1.79
@@ -11406,7 +11406,7 @@
   stake: 0
   mcap: 247
   cap: smallcap
-  rank: 1268
+  rank: 0
   eps: <span class='epsdec epsneg'>-4.07</span><span class='epsinc epsneg'>-2.02</span><span class='epsinc epsneg'>-3.03</span><span class='epsdec epsneg'>-5.91</span><span class=''>-5.82</span>
   cmp: 54.45
   day: -4.39
@@ -11415,7 +11415,7 @@
   stake: 0
   mcap: 42
   cap: smallcap
-  rank: 1269
+  rank: 0
   eps: <span class='epsdec epsneg'>-0.71</span><span class='epsinc epsneg'>-0.21</span><span class='epsdec epsneg'>-1.07</span><span class='epsinc epsneg'>-0.02</span><span class=''>-2.48</span>
   cmp: 36.60
   day: -0.14
@@ -11424,7 +11424,7 @@
   stake: 1
   mcap: 3307
   cap: smallcap
-  rank: 1270
+  rank: 0
   eps: <span class='epsdec epspos'>2.60</span><span class='epsinc epspos'>4.89</span><span class='epsinc epspos'>2.17</span><span class='epsinc epspos'>0.31</span><span class=''>0.08</span>
   cmp: 162.90
   day: -3.72
@@ -11433,7 +11433,7 @@
   stake: 3
   mcap: 6498
   cap: smallcap
-  rank: 1271
+  rank: 0
   eps: <span class='epsdec epspos'>0.80</span><span class='epsdec epspos'>82.62</span><span class='epsinc epspos'>100.02</span><span class='epsinc epspos'>54.76</span><span class=''>-77.42</span>
   cmp: 3457.10
   day: -0.96
@@ -11442,7 +11442,7 @@
   stake: 0
   mcap: 151
   cap: smallcap
-  rank: 1272
+  rank: 0
   eps: <span class='epsinc epsneg'>-9.74</span><span class='epsinc epsneg'>-11.19</span><span class='epsdec epsneg'>-12.02</span><span class='epsdec epsneg'>-9.92</span><span class=''>1.66</span>
   cmp: 53.00
   day: -3.37
@@ -11451,7 +11451,7 @@
   stake: 1
   mcap: 926
   cap: smallcap
-  rank: 1273
+  rank: 0
   eps: <span class='epsinc epspos'>4.96</span><span class='epsdec epsneg'>-0.70</span><span class='epsinc epspos'>10.34</span><span class='epsinc epspos'>5.73</span><span class=''>2.83</span>
   cmp: 323.85
   day: -3.23
@@ -11460,7 +11460,7 @@
   stake: 0
   mcap: 42
   cap: smallcap
-  rank: 1274
+  rank: 0
   eps: <span class='epsinc epsneg'>-0.32</span><span class='epsdec epsneg'>-0.33</span><span class='epsinc epspos'>0.38</span><span class='epsinc epspos'>0.19</span><span class=''>-0.95</span>
   cmp: 17.75
   day: -1.39
@@ -11469,7 +11469,7 @@
   stake: 0
   mcap: 2059
   cap: smallcap
-  rank: 1275
+  rank: 0
   eps: <span class='epsdec epsneg'>-1.63</span><span class='epsdec epsneg'>-0.06</span><span class='epsinc epspos'>3.35</span><span class='epsinc epspos'>1.24</span><span class=''>0.35</span>
   cmp: 273.85
   day: -1.53
@@ -11478,7 +11478,7 @@
   stake: 0
   mcap: 848
   cap: smallcap
-  rank: 1276
+  rank: 0
   eps: <span class='epsinc epsneg'>-0.22</span><span class='epsdec epsneg'>-4.66</span><span class='epsinc epsneg'>-1.74</span><span class='epsinc epsneg'>-7.96</span><span class=''>-16.55</span>
   cmp: 52.40
   day: -1.69
@@ -11487,7 +11487,7 @@
   stake: 0
   mcap: 162
   cap: smallcap
-  rank: 1277
+  rank: 0
   eps: <span class='epsinc epsneg'>0.00</span><span class='epsdec epsneg'>-0.09</span><span class='epsdec epsneg'>0.00</span><span class='epsdec epspos'>0.01</span><span class=''>0.01</span>
   cmp: 1.35
   day: -3.57
@@ -11496,7 +11496,7 @@
   stake: 0
   mcap: 85
   cap: smallcap
-  rank: 1278
+  rank: 0
   eps: <span class='epsdec epspos'>0.23</span><span class='epsdec epspos'>2.02</span><span class='epsinc epspos'>2.39</span><span class='epsinc epspos'>0.45</span><span class=''>-0.25</span>
   cmp: 46.50
   day: -2.62
@@ -11505,7 +11505,7 @@
   stake: 7
   mcap: 35057
   cap: midcap
-  rank: 1279
+  rank: 0
   eps: <span class='epsdec epspos'>2.12</span><span class='epsdec epspos'>2.31</span><span class='epsinc epspos'>3.78</span><span class='epsinc epspos'>3.12</span><span class=''>0.62</span>
   cmp: 613.95
   day: -1.55
@@ -11514,7 +11514,7 @@
   stake: 1
   mcap: 9308
   cap: smallcap
-  rank: 1280
+  rank: 0
   eps: <span class='epsdec epspos'>4.10</span><span class='epsinc epspos'>10.91</span><span class='epsdec epspos'>8.42</span><span class='epsinc epspos'>10.54</span><span class=''>7.45</span>
   cmp: 3139.90
   day: -0.26
@@ -11523,7 +11523,7 @@
   stake: 0
   mcap: 61
   cap: smallcap
-  rank: 1281
+  rank: 0
   eps: <span class='epsdec epsneg'>-0.56</span><span class='epsinc epspos'>1.38</span><span class='epsinc epspos'>0.19</span><span class='epsinc epspos'>0.10</span><span class=''>-0.99</span>
   cmp: 50.20
   day: -2.14
@@ -11532,7 +11532,7 @@
   stake: 2
   mcap: 1098
   cap: smallcap
-  rank: 1282
+  rank: 0
   eps: <span class='epsinc epsneg'>-1.74</span><span class='epsdec epsneg'>-13.48</span><span class='epsdec epsneg'>-2.10</span><span class='epsinc epsneg'>-0.92</span><span class=''>-2.21</span>
   cmp: 139.10
   day: -0.82
@@ -11541,7 +11541,7 @@
   stake: 1
   mcap: 4706
   cap: smallcap
-  rank: 1283
+  rank: 0
   eps: <span class='epsinc epspos'>8.39</span><span class='epsinc epspos'>7.63</span><span class='epsdec epsneg'>-4.62</span><span class='epsinc epspos'>10.38</span><span class=''>9.16</span>
   cmp: 629.15
   day: -3.24
@@ -11550,7 +11550,7 @@
   stake: 1
   mcap: 4226
   cap: smallcap
-  rank: 1284
+  rank: 0
   eps: <span class='epsdec epspos'>0.29</span><span class='epsinc epspos'>3.30</span><span class='epsinc epspos'>1.10</span><span class='epsinc epspos'>0.58</span><span class=''>-1.59</span>
   cmp: 123.05
   day: 0.00
@@ -11559,7 +11559,7 @@
   stake: 4
   mcap: 462
   cap: smallcap
-  rank: 1285
+  rank: 0
   eps: <span class='epsdec epsneg'>-0.62</span><span class='epsinc epspos'>1.19</span><span class='epsinc epsneg'>-0.14</span><span class='epsdec epsneg'>-0.65</span><span class=''>-0.19</span>
   cmp: 74.85
   day: -1.77
@@ -11568,7 +11568,7 @@
   stake: 4
   mcap: 7052
   cap: smallcap
-  rank: 1286
+  rank: 0
   eps: <span class='epsinc epspos'>45.60</span><span class='epsdec epspos'>12.90</span><span class='epsdec epspos'>26.60</span><span class='epsinc epspos'>95.40</span><span class=''>-7.20</span>
   cmp: 3425.35
   day: -1.26
@@ -11577,7 +11577,7 @@
   stake: 1
   mcap: 5687
   cap: smallcap
-  rank: 1287
+  rank: 0
   eps: <span class='epsinc epsneg'>-1.15</span><span class='epsdec epsneg'>-8.38</span><span class='epsinc epspos'>1.38</span><span class='epsdec epspos'>0.32</span><span class=''>68.64</span>
   cmp: 440.20
   day: 0.18
@@ -11586,7 +11586,7 @@
   stake: 20
   mcap: 99250
   cap: largecap
-  rank: 1288
+  rank: 0
   eps: <span class='epsdec epspos'>3.82</span><span class='epsinc epspos'>9.64</span><span class='epsinc epspos'>6.35</span><span class='epsinc epspos'>1.22</span><span class=''>-0.88</span>
   cmp: 754.15
   day: -0.37
@@ -11595,7 +11595,7 @@
   stake: 30
   mcap: 90791
   cap: largecap
-  rank: 1289
+  rank: 0
   eps: <span class='epsinc epspos'>24.53</span><span class='epsinc epspos'>17.45</span><span class='epsinc epspos'>11.15</span><span class='epsinc epspos'>6.63</span><span class=''>-2.34</span>
   cmp: 682.30
   day: -1.04
@@ -11604,7 +11604,7 @@
   stake: 0
   mcap: 204
   cap: smallcap
-  rank: 1290
+  rank: 0
   eps: <span class='epsinc epspos'>0.11</span><span class='epsdec epsneg'>-0.25</span><span class='epsdec epspos'>0.31</span><span class='epsinc epspos'>0.57</span><span class=''>0.13</span>
   cmp: 63.15
   day: -0.55
@@ -11613,7 +11613,7 @@
   stake: 13
   mcap: 8456
   cap: smallcap
-  rank: 1291
+  rank: 0
   eps: <span class='epsinc epspos'>6.07</span><span class='epsdec epspos'>0.69</span><span class='epsinc epspos'>5.70</span><span class='epsinc epspos'>4.36</span><span class=''>0.65</span>
   cmp: 718.70
   day: -3.46
@@ -11622,7 +11622,7 @@
   stake: 17
   mcap: 24070
   cap: midcap
-  rank: 1292
+  rank: 0
   eps: <span class='epsinc epspos'>6.92</span><span class='epsdec epspos'>5.10</span><span class='epsdec epspos'>5.70</span><span class='epsinc epspos'>6.91</span><span class=''>0.86</span>
   cmp: 663.25
   day: -2.78
@@ -11631,7 +11631,7 @@
   stake: 1
   mcap: 148
   cap: smallcap
-  rank: 1293
+  rank: 0
   eps: <span class='epsinc epspos'>0.04</span><span class='epsinc epsneg'>-0.11</span><span class='epsdec epsneg'>-0.27</span><span class='epsdec epsneg'>-0.12</span><span class=''>0.07</span>
   cmp: 7.15
   day: -0.69
@@ -11640,7 +11640,7 @@
   stake: 0
   mcap: 175
   cap: smallcap
-  rank: 1294
+  rank: 0
   eps: <span class='epsinc epspos'>24.75</span><span class='epsdec epsneg'>-23.45</span><span class='epsinc epspos'>22.90</span><span class='epsinc epspos'>15.57</span><span class=''>14.22</span>
   cmp: 287.40
   day: -2.03
@@ -11649,7 +11649,7 @@
   stake: 0
   mcap: 237
   cap: smallcap
-  rank: 1295
+  rank: 0
   eps: <span class='epsinc epspos'>0.12</span><span class='epsdec epsneg'>-0.38</span><span class='epsdec epspos'>0.67</span><span class='epsdec epspos'>0.81</span><span class=''>0.82</span>
   cmp: 28.75
   day: -0.86
@@ -11658,7 +11658,7 @@
   stake: 0
   mcap: 196
   cap: smallcap
-  rank: 1296
+  rank: 0
   eps: <span class='epsinc epspos'>3.02</span><span class='epsdec epspos'>0.44</span><span class='epsinc epspos'>5.51</span><span class='epsdec epspos'>4.79</span><span class=''>8.81</span>
   cmp: 407.20
   day: -0.10
@@ -11667,7 +11667,7 @@
   stake: 0
   mcap: 29
   cap: smallcap
-  rank: 1297
+  rank: 0
   eps: <span class='epsinc epsneg'>-0.13</span><span class='epsinc epsneg'>-0.91</span><span class='epsinc epsneg'>-2.29</span><span class='epsdec epsneg'>-3.07</span><span class=''>-0.65</span>
   cmp: 12.05
   day: -0.82
@@ -11676,7 +11676,7 @@
   stake: 1
   mcap: 57
   cap: smallcap
-  rank: 1298
+  rank: 0
   eps: <span class='epsinc epsneg'>-11.20</span><span class='epsdec epsneg'>-102.62</span><span class='epsinc epsneg'>-7.55</span><span class='epsdec epsneg'>-10.33</span><span class=''>-8.18</span>
   cmp: 47.30
   day: -1.46
@@ -11685,7 +11685,7 @@
   stake: 0
   mcap: 1491
   cap: smallcap
-  rank: 1299
+  rank: 0
   eps: <span class='epsdec epspos'>0.33</span><span class='epsinc epspos'>2.34</span><span class='epsinc epspos'>2.04</span><span class='epsinc epspos'>1.51</span><span class=''>-0.92</span>
   cmp: 176.05
   day: 0.72
@@ -11694,7 +11694,7 @@
   stake: 0
   mcap: 71
   cap: smallcap
-  rank: 1300
+  rank: 0
   eps: <span class='epsdec epsneg'>-0.58</span><span class='epsinc epspos'>0.42</span><span class='epsdec epsneg'>-0.26</span><span class='epsinc epspos'>1.00</span><span class=''>0.74</span>
   cmp: 78.70
   day: -1.62
@@ -11703,7 +11703,7 @@
   stake: 6
   mcap: 3522
   cap: smallcap
-  rank: 1301
+  rank: 0
   eps: <span class='epsdec epspos'>1.30</span><span class='epsdec epspos'>1.76</span><span class='epsinc epspos'>2.55</span><span class='epsinc epspos'>2.09</span><span class=''>-2.21</span>
   cmp: 727.40
   day: 1.50
@@ -11712,7 +11712,7 @@
   stake: 5
   mcap: 1106
   cap: smallcap
-  rank: 1302
+  rank: 0
   eps: <span class='epsinc epspos'>15.36</span><span class='epsinc epspos'>6.41</span><span class='epsdec epspos'>4.58</span><span class='epsdec epspos'>6.86</span><span class=''>15.55</span>
   cmp: 414.35
   day: -1.60
@@ -11721,7 +11721,7 @@
   stake: 0
   mcap: 46
   cap: smallcap
-  rank: 1303
+  rank: 0
   eps: <span class='epsinc epspos'>0.04</span><span class='epsdec epspos'>0.01</span><span class='epsinc epspos'>0.01</span><span class='epsdec epsneg'>-0.02</span><span class=''>0.04</span>
   cmp: 8.85
   day: -1.67
@@ -11730,7 +11730,7 @@
   stake: 1
   mcap: 2859
   cap: smallcap
-  rank: 1304
+  rank: 0
   eps: <span class='epsinc epspos'>4.28</span><span class='epsdec epspos'>0.85</span><span class='epsdec epspos'>5.09</span><span class='epsinc epspos'>7.30</span><span class=''>3.28</span>
   cmp: 278.15
   day: -1.92
@@ -11739,7 +11739,7 @@
   stake: 0
   mcap: 104
   cap: smallcap
-  rank: 1305
+  rank: 0
   eps: <span class='epsinc epspos'>1.52</span><span class='epsinc epspos'>0.67</span><span class='epsdec epspos'>0.46</span><span class='epsdec epspos'>0.72</span><span class=''>1.01</span>
   cmp: 25.85
   day: -2.64
@@ -11748,7 +11748,7 @@
   stake: 0
   mcap: 1187
   cap: smallcap
-  rank: 1306
+  rank: 0
   eps: <span class='epsdec epspos'>16.02</span><span class='epsinc epspos'>17.34</span><span class='epsinc epspos'>13.85</span><span class='epsinc epspos'>10.39</span><span class=''>2.01</span>
   cmp: 406.00
   day: 4.21
@@ -11757,7 +11757,7 @@
   stake: 1
   mcap: 6163
   cap: smallcap
-  rank: 1307
+  rank: 0
   eps: <span class='epsinc epspos'>2.62</span><span class='epsdec epspos'>1.55</span><span class='epsdec epspos'>2.80</span><span class='epsinc epspos'>3.48</span><span class=''>2.26</span>
   cmp: 502.35
   day: 0.13
@@ -11766,7 +11766,7 @@
   stake: 0
   mcap: 192
   cap: smallcap
-  rank: 1308
+  rank: 0
   eps: <span class='epsdec epspos'>1.94</span><span class='epsinc epspos'>9.86</span><span class='epsinc epspos'>6.93</span><span class='epsinc epspos'>0.50</span><span class=''>-8.82</span>
   cmp: 165.75
   day: -2.13
@@ -11775,7 +11775,7 @@
   stake: 0
   mcap: 122
   cap: smallcap
-  rank: 1309
+  rank: 0
   eps: <span class='epsdec epsneg'>-1.24</span><span class='epsinc epspos'>2.01</span><span class='epsinc epspos'>0.92</span><span class='epsinc epspos'>0.20</span><span class=''>-1.46</span>
   cmp: 29.35
   day: -1.01
@@ -11784,7 +11784,7 @@
   stake: 0
   mcap: 138
   cap: smallcap
-  rank: 1310
+  rank: 0
   eps: <span class='epsdec epsneg'>-2.46</span><span class='epsinc epsneg'>-0.31</span><span class='epsinc epsneg'>-2.68</span><span class='epsdec epsneg'>-14.28</span><span class=''>0.53</span>
   cmp: 29.20
   day: -2.01
@@ -11793,7 +11793,7 @@
   stake: 0
   mcap: 198
   cap: smallcap
-  rank: 1311
+  rank: 0
   eps: <span class='epsdec epspos'>0.59</span><span class='epsinc epspos'>0.70</span><span class='epsinc epspos'>0.45</span><span class='epsinc epspos'>0.39</span><span class=''>0.30</span>
   cmp: 28.00
   day: -1.23
@@ -11802,7 +11802,7 @@
   stake: 1
   mcap: 2972
   cap: smallcap
-  rank: 1312
+  rank: 0
   eps: <span class='epsdec epspos'>3.10</span><span class='epsinc epspos'>4.11</span><span class='epsinc epspos'>3.69</span><span class='epsinc epspos'>3.44</span><span class=''>-1.04</span>
   cmp: 326.40
   day: 0.12
@@ -11811,7 +11811,7 @@
   stake: 3
   mcap: 4066
   cap: smallcap
-  rank: 1313
+  rank: 0
   eps: <span class='epsinc epspos'>13.46</span><span class='epsdec epspos'>10.05</span><span class='epsdec epspos'>13.68</span><span class='epsinc epspos'>35.67</span><span class=''>8.56</span>
   cmp: 4690.70
   day: -1.75
@@ -11820,7 +11820,7 @@
   stake: 0
   mcap: 108
   cap: smallcap
-  rank: 1314
+  rank: 0
   eps: <span class='epsdec epspos'>0.15</span><span class='epsinc epspos'>0.26</span><span class='epsdec epspos'>0.09</span><span class='epsinc epspos'>0.36</span><span class=''>0.07</span>
   cmp: 27.65
   day: -1.07
@@ -11829,7 +11829,7 @@
   stake: 0
   mcap: 35
   cap: smallcap
-  rank: 1315
+  rank: 0
   eps: <span class='epsdec epsneg'>-2.71</span><span class='epsinc epspos'>2.43</span><span class='epsinc epspos'>0.67</span><span class='epsinc epspos'>0.17</span><span class=''>-1.66</span>
   cmp: 61.25
   day: -3.54
@@ -11838,7 +11838,7 @@
   stake: 0
   mcap: 91
   cap: smallcap
-  rank: 1316
+  rank: 0
   eps: <span class='epsdec epspos'>0.85</span><span class='epsinc epspos'>5.33</span><span class='epsdec epspos'>0.58</span><span class='epsinc epspos'>1.37</span><span class=''>0.79</span>
   cmp: 69.85
   day: -1.48
@@ -11847,7 +11847,7 @@
   stake: 2
   mcap: 412
   cap: smallcap
-  rank: 1317
+  rank: 0
   eps: <span class='epsdec epspos'>9.47</span><span class='epsinc epspos'>28.28</span><span class='epsdec epspos'>1.86</span><span class='epsdec epspos'>3.60</span><span class=''>5.02</span>
   cmp: 417.45
   day: -2.11
@@ -11856,7 +11856,7 @@
   stake: 0
   mcap: 224
   cap: smallcap
-  rank: 1318
+  rank: 0
   eps: <span class='epsinc epsneg'>-0.35</span><span class='epsinc epsneg'>-0.74</span><span class='epsdec epsneg'>-1.80</span><span class='epsdec epsneg'>-1.31</span><span class=''>-0.78</span>
   cmp: 30.80
   day: -1.44
@@ -11865,7 +11865,7 @@
   stake: 8
   mcap: 854
   cap: smallcap
-  rank: 1319
+  rank: 0
   eps: <span class='epsdec epsneg'>-1.99</span><span class='epsinc epsneg'>-0.57</span><span class='epsdec epsneg'>-4.57</span><span class='epsinc epsneg'>-1.38</span><span class=''>-2.89</span>
   cmp: 132.25
   day: 0.19
@@ -11874,7 +11874,7 @@
   stake: 1
   mcap: 5482
   cap: smallcap
-  rank: 1320
+  rank: 0
   eps: <span class='epsdec epspos'>0.04</span><span class='epsdec epspos'>0.84</span><span class='epsinc epspos'>1.45</span><span class='epsdec epspos'>0.86</span><span class=''>0.93</span>
   cmp: 218.80
   day: -3.72
@@ -11883,7 +11883,7 @@
   stake: 0
   mcap: 6541
   cap: smallcap
-  rank: 1321
+  rank: 0
   eps: <span class='epsdec epsneg'>-1.35</span><span class='epsinc epspos'>0.79</span><span class='epsdec epsneg'>-1.61</span><span class='epsinc epspos'>0.56</span><span class=''>0.32</span>
   cmp: 20.65
   day: 0.24
@@ -11892,7 +11892,7 @@
   stake: 0
   mcap: 25
   cap: smallcap
-  rank: 1322
+  rank: 0
   eps: <span class='epsdec epspos'>1.50</span><span class='epsinc epspos'>4.14</span><span class='epsinc epsneg'>-1.57</span><span class='epsinc epsneg'>-2.61</span><span class=''>-6.63</span>
   cmp: 33.45
   day: -1.33
@@ -11901,7 +11901,7 @@
   stake: 3
   mcap: 6257
   cap: smallcap
-  rank: 1323
+  rank: 0
   eps: <span class='epsinc epspos'>3.59</span><span class='epsdec epspos'>0.27</span><span class='epsinc epspos'>2.94</span><span class='epsinc epspos'>1.59</span><span class=''>-3.40</span>
   cmp: 236.00
   day: 3.94
@@ -11910,7 +11910,7 @@
   stake: 0
   mcap: 7
   cap: smallcap
-  rank: 1324
+  rank: 0
   eps: <span class='epsdec epsneg'>-0.77</span><span class='epsdec epsneg'>-0.14</span><span class='epsdec epsneg'>-0.10</span><span class='epsinc epspos'>0.20</span><span class=''>-0.58</span>
   cmp: 9.05
   day: 4.62
@@ -11919,7 +11919,7 @@
   stake: 1
   mcap: 2926
   cap: smallcap
-  rank: 1325
+  rank: 0
   eps: <span class='epsinc epsneg'>-3.76</span><span class='epsdec epsneg'>-26.42</span><span class='epsdec epspos'>1.16</span><span class='epsdec epspos'>2.40</span><span class=''>4.53</span>
   cmp: 290.80
   day: -0.99
@@ -11928,7 +11928,7 @@
   stake: 1
   mcap: 273
   cap: smallcap
-  rank: 1326
+  rank: 0
   eps: <span class='epsdec epspos'>0.98</span><span class='epsinc epspos'>2.59</span><span class='epsinc epspos'>1.65</span><span class='epsinc epspos'>1.09</span><span class=''>0.43</span>
   cmp: 102.40
   day: 2.25
@@ -11937,7 +11937,7 @@
   stake: 0
   mcap: 331
   cap: smallcap
-  rank: 1327
+  rank: 0
   eps: <span class='epsdec epspos'>8.57</span><span class='epsinc epspos'>9.92</span><span class='epsinc epspos'>9.33</span><span class='epsinc epspos'>6.30</span><span class=''>2.43</span>
   cmp: 451.90
   day: -2.59
@@ -11946,7 +11946,7 @@
   stake: 0
   mcap: 109
   cap: smallcap
-  rank: 1328
+  rank: 0
   eps: <span class='epsinc epspos'>1.62</span><span class='epsinc epspos'>1.41</span><span class='epsdec epspos'>0.23</span><span class='epsinc epspos'>0.81</span><span class=''>0.35</span>
   cmp: 82.70
   day: -1.37
@@ -11955,7 +11955,7 @@
   stake: 8
   mcap: 834
   cap: smallcap
-  rank: 1329
+  rank: 0
   eps: <span class='epsdec epspos'>6.57</span><span class='epsinc epspos'>8.13</span><span class='epsinc epspos'>1.02</span><span class='epsinc epsneg'>-4.01</span><span class=''>-6.31</span>
   cmp: 228.25
   day: -1.40
@@ -11964,7 +11964,7 @@
   stake: 9
   mcap: 19850
   cap: midcap
-  rank: 1330
+  rank: 0
   eps: <span class='epsdec epspos'>6.86</span><span class='epsdec epspos'>13.32</span><span class='epsinc epspos'>13.51</span><span class='epsinc epspos'>11.88</span><span class=''>-1.77</span>
   cmp: 1588.90
   day: -2.22
@@ -11973,7 +11973,7 @@
   stake: 0
   mcap: 1052
   cap: smallcap
-  rank: 1331
+  rank: 0
   eps: <span class='epsinc epspos'>36.68</span><span class='epsinc epspos'>24.24</span><span class='epsdec epspos'>12.17</span><span class='epsinc epspos'>15.94</span><span class=''>9.15</span>
   cmp: 719.75
   day: -0.74
@@ -11982,7 +11982,7 @@
   stake: 0
   mcap: 113
   cap: smallcap
-  rank: 1332
+  rank: 0
   eps: <span class='epsdec epsneg'>-5.56</span><span class='epsdec epsneg'>-4.83</span><span class='epsdec epsneg'>-1.88</span><span class='epsinc epspos'>1.36</span><span class=''>-11.21</span>
   cmp: 4.35
   day: -1.14
@@ -11991,7 +11991,7 @@
   stake: 0
   mcap: 400
   cap: smallcap
-  rank: 1333
+  rank: 0
   eps: <span class='epsinc epspos'>1.25</span><span class='epsinc epspos'>1.20</span><span class='epsdec epspos'>0.56</span><span class='epsdec epspos'>0.87</span><span class=''>3.96</span>
   cmp: 2701.60
   day: -2.04
@@ -12000,7 +12000,7 @@
   stake: 1
   mcap: 2359
   cap: smallcap
-  rank: 1334
+  rank: 0
   eps: <span class='epsinc epspos'>29.99</span><span class='epsdec epspos'>23.75</span><span class='epsdec epspos'>23.81</span><span class='epsinc epspos'>28.96</span><span class=''>-4.40</span>
   cmp: 1026.05
   day: -3.44
@@ -12009,7 +12009,7 @@
   stake: 2
   mcap: 926
   cap: smallcap
-  rank: 1335
+  rank: 0
   eps: <span class='epsdec epsneg'>-0.01</span><span class='epsdec epsneg'>0.00</span><span class='epsdec epsneg'>0.00</span><span class='epsdec epsneg'>0.00</span><span class=''>0.00</span>
   cmp: 47.15
   day: 0.21
@@ -12018,7 +12018,7 @@
   stake: 0
   mcap: 142
   cap: smallcap
-  rank: 1336
+  rank: 0
   eps: <span class='epsdec epsneg'>-0.77</span><span class='epsinc epspos'>0.42</span><span class='epsinc epspos'>0.14</span><span class='epsinc epsneg'>-0.60</span><span class=''>-0.68</span>
   cmp: 45.80
   day: -2.55
@@ -12027,7 +12027,7 @@
   stake: 0
   mcap: 240
   cap: smallcap
-  rank: 1337
+  rank: 0
   eps: <span class='epsdec epspos'>0.07</span><span class='epsdec epspos'>0.12</span><span class='epsinc epspos'>1.00</span><span class='epsdec epspos'>0.02</span><span class=''>0.58</span>
   cmp: 178.70
   day: -0.86
@@ -12036,7 +12036,7 @@
   stake: 7
   mcap: 34277
   cap: midcap
-  rank: 1338
+  rank: 0
   eps: <span class='epsinc epspos'>10.87</span><span class='epsinc epspos'>9.64</span><span class='epsinc epspos'>7.05</span><span class='epsinc epspos'>2.46</span><span class=''>1.73</span>
   cmp: 147.40
   day: -3.09
@@ -12045,7 +12045,7 @@
   stake: 8
   mcap: 9803
   cap: smallcap
-  rank: 1339
+  rank: 0
   eps: <span class='epsdec epspos'>15.39</span><span class='epsinc epspos'>18.14</span><span class='epsinc epspos'>12.83</span><span class='epsinc epspos'>10.35</span><span class=''>9.65</span>
   cmp: 3953.60
   day: -2.35
@@ -12054,7 +12054,7 @@
   stake: 0
   mcap: 27
   cap: smallcap
-  rank: 1340
+  rank: 0
   eps: <span class='epsinc epsneg'>-0.63</span><span class='epsdec epsneg'>-0.66</span><span class='epsdec epsneg'>-0.41</span><span class='epsinc epspos'>0.11</span><span class=''>-0.31</span>
   cmp: 14.70
   day: -2.65
@@ -12063,7 +12063,7 @@
   stake: 1
   mcap: 55
   cap: smallcap
-  rank: 1341
+  rank: 0
   eps: <span class='epsinc epspos'>1.86</span><span class='epsdec epsneg'>-1.22</span><span class='epsdec epspos'>1.55</span><span class='epsinc epspos'>3.34</span><span class=''>-1.27</span>
   cmp: 45.65
   day: 2.93
@@ -12072,7 +12072,7 @@
   stake: 1
   mcap: 900
   cap: smallcap
-  rank: 1342
+  rank: 0
   eps: <span class='epsdec epspos'>10.50</span><span class='epsinc epspos'>18.47</span><span class='epsinc epspos'>17.11</span><span class='epsinc epspos'>8.86</span><span class=''>-1.93</span>
   cmp: 418.75
   day: 0.06
@@ -12081,7 +12081,7 @@
   stake: 0
   mcap: 320
   cap: smallcap
-  rank: 1343
+  rank: 0
   eps: <span class='epsdec epspos'>4.33</span><span class='epsinc epspos'>11.51</span><span class='epsinc epspos'>3.99</span><span class='epsinc epsneg'>-5.90</span><span class=''>-7.12</span>
   cmp: 151.65
   day: -1.53
@@ -12090,7 +12090,7 @@
   stake: 0
   mcap: 275
   cap: smallcap
-  rank: 1344
+  rank: 0
   eps: <span class='epsdec epsneg'>-3.87</span><span class='epsdec epsneg'>-3.66</span><span class='epsinc epsneg'>-1.44</span><span class='epsdec epsneg'>-3.76</span><span class=''>-1.43</span>
   cmp: 11.25
   day: 1.81
@@ -12099,7 +12099,7 @@
   stake: 0
   mcap: 456
   cap: smallcap
-  rank: 1345
+  rank: 0
   eps: <span class='epsinc epspos'>13.02</span><span class='epsinc epspos'>7.82</span><span class='epsdec epspos'>3.44</span><span class='epsdec epspos'>11.44</span><span class=''>13.37</span>
   cmp: 429.35
   day: -2.89
@@ -12108,7 +12108,7 @@
   stake: 1
   mcap: 1076
   cap: smallcap
-  rank: 1346
+  rank: 0
   eps: <span class='epsinc epspos'>17.04</span><span class='epsdec epspos'>15.99</span><span class='epsinc epspos'>20.80</span><span class='epsinc epspos'>13.22</span><span class=''>6.54</span>
   cmp: 1065.80
   day: -0.55
@@ -12117,7 +12117,7 @@
   stake: 0
   mcap: 208
   cap: smallcap
-  rank: 1347
+  rank: 0
   eps: <span class='epsdec epspos'>2.31</span><span class='epsinc epspos'>6.61</span><span class='epsdec epspos'>2.26</span><span class='epsinc epspos'>3.15</span><span class=''>0.00</span>
   cmp: 153.00
   day: -5.00
@@ -12126,7 +12126,7 @@
   stake: 0
   mcap: 7
   cap: smallcap
-  rank: 1348
+  rank: 0
   eps: <span class='epsinc epspos'>16.75</span><span class='epsdec epspos'>0.12</span><span class='epsinc epspos'>10.19</span><span class='epsdec epspos'>0.86</span><span class=''>5.30</span>
   cmp: 37.55
   day: 0.27
@@ -12135,7 +12135,7 @@
   stake: 2
   mcap: 3539
   cap: smallcap
-  rank: 1349
+  rank: 0
   eps: <span class='epsdec epspos'>10.43</span><span class='epsinc epspos'>10.45</span><span class='epsdec epspos'>8.54</span><span class='epsinc epspos'>14.73</span><span class=''>10.89</span>
   cmp: 839.10
   day: -1.34
@@ -12144,7 +12144,7 @@
   stake: 1
   mcap: 1886
   cap: smallcap
-  rank: 1350
+  rank: 0
   eps: <span class='epsdec epspos'>2.22</span><span class='epsinc epspos'>5.40</span><span class='epsinc epspos'>4.59</span><span class='epsinc epspos'>3.98</span><span class=''>-0.48</span>
   cmp: 213.05
   day: 1.33
@@ -12153,7 +12153,7 @@
   stake: 8
   mcap: 14795
   cap: midcap
-  rank: 1351
+  rank: 0
   eps: <span class='epsinc epspos'>4.12</span><span class='epsdec epsneg'>-0.47</span><span class='epsdec epspos'>3.92</span><span class='epsinc epspos'>4.45</span><span class=''>2.04</span>
   cmp: 546.80
   day: -1.47
@@ -12162,7 +12162,7 @@
   stake: 0
   mcap: 174
   cap: smallcap
-  rank: 1352
+  rank: 0
   eps: <span class='epsinc epspos'>3.97</span><span class='epsinc epspos'>2.48</span><span class='epsdec epspos'>0.51</span><span class='epsinc epspos'>1.49</span><span class=''>0.04</span>
   cmp: 119.45
   day: -0.71
@@ -12171,7 +12171,7 @@
   stake: 0
   mcap: 1136
   cap: smallcap
-  rank: 1353
+  rank: 0
   eps: <span class='epsinc epspos'>41.05</span><span class='epsdec epspos'>8.72</span><span class='epsinc epspos'>10.42</span><span class='epsinc epspos'>6.95</span><span class=''>-3.67</span>
   cmp: 620.75
   day: -0.02
@@ -12180,7 +12180,7 @@
   stake: 0
   mcap: 87
   cap: smallcap
-  rank: 1354
+  rank: 0
   eps: <span class='epsinc epspos'>0.99</span><span class='epsinc epspos'>0.94</span><span class='epsinc epspos'>0.83</span><span class='epsdec epspos'>0.64</span><span class=''>0.80</span>
   cmp: 38.80
   day: 0.78
@@ -12189,7 +12189,7 @@
   stake: 5
   mcap: 77
   cap: smallcap
-  rank: 1355
+  rank: 0
   eps: <span class='epsdec epsneg'>-7.54</span><span class='epsinc epspos'>3.24</span><span class='epsdec epspos'>1.83</span><span class='epsinc epspos'>1.83</span><span class=''>0.75</span>
   cmp: 3.35
   day: 3.08
@@ -12198,7 +12198,7 @@
   stake: 6
   mcap: 1514
   cap: smallcap
-  rank: 1356
+  rank: 0
   eps: <span class='epsinc epsneg'>-0.17</span><span class='epsdec epsneg'>-0.54</span><span class='epsdec epsneg'>-0.16</span><span class='epsinc epsneg'>-0.13</span><span class=''>-0.16</span>
   cmp: 1.75
   day: 2.94
@@ -12207,7 +12207,7 @@
   stake: 1
   mcap: 6395
   cap: smallcap
-  rank: 1357
+  rank: 0
   eps: <span class='epsdec epspos'>5.25</span><span class='epsdec epspos'>5.54</span><span class='epsdec epspos'>7.30</span><span class='epsinc epspos'>32.30</span><span class=''>2.29</span>
   cmp: 627.30
   day: 1.73
@@ -12216,7 +12216,7 @@
   stake: 0
   mcap: 4
   cap: smallcap
-  rank: 1358
+  rank: 0
   eps: <span class='epsinc epspos'>0.04</span><span class='epsdec epsneg'>-0.18</span><span class='epsdec epsneg'>0.00</span><span class='epsdec epspos'>0.02</span><span class=''>0.10</span>
   cmp: 2.30
   day: 0.00
@@ -12225,7 +12225,7 @@
   stake: 0
   mcap: 374
   cap: smallcap
-  rank: 1359
+  rank: 0
   eps: <span class='epsdec epspos'>15.67</span><span class='epsinc epspos'>30.31</span><span class='epsinc epspos'>12.98</span><span class='epsinc epsneg'>-6.37</span><span class=''>-28.07</span>
   cmp: 308.30
   day: -3.76
@@ -12234,7 +12234,7 @@
   stake: 2
   mcap: 1427
   cap: smallcap
-  rank: 1360
+  rank: 0
   eps: <span class='epsinc epsneg'>-2.37</span><span class='epsdec epsneg'>-4.77</span><span class='epsinc epsneg'>-2.34</span><span class='epsdec epsneg'>-3.42</span><span class=''>-3.30</span>
   cmp: 102.85
   day: -1.91
@@ -12243,7 +12243,7 @@
   stake: 66
   mcap: 101493
   cap: largecap
-  rank: 1361
+  rank: 0
   eps: <span class='epsinc epspos'>6.45</span><span class='epsdec epspos'>3.80</span><span class='epsinc epspos'>4.83</span><span class='epsinc epspos'>4.43</span><span class=''>2.21</span>
   cmp: 178.80
   day: -0.36
@@ -12252,7 +12252,7 @@
   stake: 0
   mcap: 11
   cap: smallcap
-  rank: 1362
+  rank: 0
   eps: <span class='epsdec epsneg'>-1.12</span><span class='epsinc epspos'>1.37</span><span class='epsdec epsneg'>-2.79</span><span class='epsinc epsneg'>-0.92</span><span class=''>-1.63</span>
   cmp: 36.65
   day: 1.81
@@ -12261,7 +12261,7 @@
   stake: 0
   mcap: 307
   cap: smallcap
-  rank: 1363
+  rank: 0
   eps: <span class='epsinc epspos'>33.93</span><span class='epsdec epspos'>8.76</span><span class='epsinc epspos'>12.80</span><span class='epsinc epspos'>8.85</span><span class=''>8.44</span>
   cmp: 1011.55
   day: -1.71
@@ -12270,7 +12270,7 @@
   stake: 1
   mcap: 205
   cap: smallcap
-  rank: 1364
+  rank: 0
   eps: <span class='epsinc epsneg'>-0.63</span><span class='epsdec epsneg'>-3.23</span><span class='epsinc epsneg'>-0.71</span><span class='epsinc epsneg'>-1.24</span><span class=''>-5.09</span>
   cmp: 4.10
   day: 1.23
@@ -12279,7 +12279,7 @@
   stake: 0
   mcap: 27
   cap: smallcap
-  rank: 1365
+  rank: 0
   eps: <span class='epsinc epspos'>0.55</span><span class='epsinc epspos'>0.13</span><span class='epsdec epspos'>0.03</span><span class='epsinc epspos'>0.19</span><span class=''>0.02</span>
   cmp: 82.00
   day: -3.59
@@ -12288,7 +12288,7 @@
   stake: 2
   mcap: 13976
   cap: midcap
-  rank: 1366
+  rank: 0
   eps: <span class='epsinc epspos'>10.86</span><span class='epsdec epspos'>8.29</span><span class='epsinc epspos'>8.80</span><span class='epsdec epspos'>8.29</span><span class=''>9.00</span>
   cmp: 518.85
   day: -3.09
@@ -12297,7 +12297,7 @@
   stake: 1
   mcap: 733
   cap: smallcap
-  rank: 1367
+  rank: 0
   eps: <span class='epsdec epspos'>0.87</span><span class='epsdec epspos'>2.92</span><span class='epsinc epspos'>3.20</span><span class='epsinc epspos'>2.97</span><span class=''>-2.56</span>
   cmp: 198.70
   day: -1.37
@@ -12306,7 +12306,7 @@
   stake: 0
   mcap: 26
   cap: smallcap
-  rank: 1368
+  rank: 0
   eps: <span class='epsdec epspos'>0.03</span><span class='epsdec epspos'>0.22</span><span class='epsinc epspos'>0.59</span><span class='epsinc epspos'>0.20</span><span class=''>-1.16</span>
   cmp: 13.45
   day: -2.18
@@ -12315,7 +12315,7 @@
   stake: 6
   mcap: 6066
   cap: smallcap
-  rank: 1369
+  rank: 0
   eps: <span class='epsinc epspos'>7.70</span><span class='epsinc epspos'>3.29</span><span class='epsinc epspos'>1.19</span><span class='epsinc epsneg'>-2.09</span><span class=''>-4.04</span>
   cmp: 622.35
   day: -1.58
@@ -12324,7 +12324,7 @@
   stake: 0
   mcap: 114
   cap: smallcap
-  rank: 1370
+  rank: 0
   eps: <span class='epsdec epspos'>0.39</span><span class='epsdec epspos'>0.56</span><span class='epsdec epspos'>2.35</span><span class='epsinc epspos'>20.22</span><span class=''>0.79</span>
   cmp: 94.45
   day: 1.50
@@ -12333,7 +12333,7 @@
   stake: 2
   mcap: 314
   cap: smallcap
-  rank: 1371
+  rank: 0
   eps: <span class='epsdec epspos'>6.54</span><span class='epsinc epspos'>13.54</span><span class='epsdec epspos'>10.94</span><span class='epsinc epspos'>11.54</span><span class=''>0.77</span>
   cmp: 531.00
   day: 0.67
@@ -12342,7 +12342,7 @@
   stake: 0
   mcap: 46
   cap: smallcap
-  rank: 1372
+  rank: 0
   eps: <span class='epsdec epspos'>0.01</span><span class='epsinc epspos'>2.39</span><span class='epsinc epsneg'>-0.43</span><span class='epsinc epsneg'>-0.86</span><span class=''>-5.77</span>
   cmp: 2.30
   day: 0.00
@@ -12351,7 +12351,7 @@
   stake: 1
   mcap: 2071
   cap: smallcap
-  rank: 1373
+  rank: 0
   eps: <span class='epsinc epspos'>10.08</span><span class='epsinc epspos'>9.78</span><span class='epsinc epspos'>8.57</span><span class='epsinc epspos'>4.75</span><span class=''>-1.24</span>
   cmp: 240.65
   day: 2.01
@@ -12360,7 +12360,7 @@
   stake: 8
   mcap: 24037
   cap: midcap
-  rank: 1374
+  rank: 0
   eps: <span class='epsinc epspos'>9.44</span><span class='epsinc epspos'>8.40</span><span class='epsinc epspos'>3.55</span><span class='epsinc epspos'>1.06</span><span class=''>-2.97</span>
   cmp: 115.15
   day: -3.72
@@ -12369,7 +12369,7 @@
   stake: 0
   mcap: 93
   cap: smallcap
-  rank: 1375
+  rank: 0
   eps: <span class='epsdec epspos'>1.06</span><span class='epsinc epspos'>2.29</span><span class='epsinc epspos'>1.06</span><span class='epsinc epspos'>0.70</span><span class=''>-0.03</span>
   cmp: 68.15
   day: -4.01
@@ -12378,7 +12378,7 @@
   stake: 7
   mcap: 9082
   cap: smallcap
-  rank: 1376
+  rank: 0
   eps: <span class='epsdec epspos'>15.07</span><span class='epsinc epspos'>30.58</span><span class='epsinc epspos'>22.84</span><span class='epsinc epspos'>20.07</span><span class=''>11.28</span>
   cmp: 818.30
   day: 4.22
@@ -12387,7 +12387,7 @@
   stake: 0
   mcap: 932
   cap: smallcap
-  rank: 1377
+  rank: 0
   eps: <span class='epsdec epspos'>1.12</span><span class='epsinc epspos'>1.23</span><span class='epsinc epspos'>1.00</span><span class='epsinc epspos'>0.86</span><span class=''>-0.47</span>
   cmp: 170.30
   day: -0.76
@@ -12396,7 +12396,7 @@
   stake: 0
   mcap: 172
   cap: smallcap
-  rank: 1378
+  rank: 0
   eps: <span class='epsdec epsneg'>-0.40</span><span class='epsinc epspos'>0.57</span><span class='epsdec epsneg'>-1.09</span><span class='epsinc epspos'>0.53</span><span class=''>-1.11</span>
   cmp: 11.40
   day: -4.60
@@ -12405,7 +12405,7 @@
   stake: 0
   mcap: 75
   cap: smallcap
-  rank: 1379
+  rank: 0
   eps: <span class='epsinc epspos'>1.96</span><span class='epsinc epspos'>1.86</span><span class='epsdec epspos'>0.71</span><span class='epsinc epspos'>1.23</span><span class=''>0.22</span>
   cmp: 66.90
   day: -2.83
@@ -12414,7 +12414,7 @@
   stake: 8
   mcap: 29423
   cap: midcap
-  rank: 1380
+  rank: 0
   eps: <span class='epsdec epspos'>10.39</span><span class='epsdec epspos'>10.50</span><span class='epsdec epspos'>10.85</span><span class='epsinc epspos'>13.49</span><span class=''>9.05</span>
   cmp: 1406.85
   day: 1.76
@@ -12423,7 +12423,7 @@
   stake: 0
   mcap: 150
   cap: smallcap
-  rank: 1381
+  rank: 0
   eps: <span class='epsinc epspos'>1.70</span><span class='epsdec epspos'>1.18</span><span class='epsdec epspos'>1.58</span><span class='epsinc epspos'>1.58</span><span class=''>0.23</span>
   cmp: 35.05
   day: -1.68
@@ -12432,7 +12432,7 @@
   stake: 0
   mcap: 10
   cap: smallcap
-  rank: 1382
+  rank: 0
   eps: <span class='epsinc epspos'>0.08</span><span class='epsinc epsneg'>-0.02</span><span class='epsdec epsneg'>-0.06</span><span class='epsdec epspos'>0.04</span><span class=''>0.10</span>
   cmp: 1.67
   day: 1.83
@@ -12441,7 +12441,7 @@
   stake: 1
   mcap: 373
   cap: smallcap
-  rank: 1383
+  rank: 0
   eps: <span class='epsinc epspos'>3.65</span><span class='epsdec epspos'>3.50</span><span class='epsinc epspos'>3.65</span><span class='epsinc epspos'>3.41</span><span class=''>-0.88</span>
   cmp: 286.05
   day: -2.47
@@ -12450,7 +12450,7 @@
   stake: 0
   mcap: 28
   cap: smallcap
-  rank: 1384
+  rank: 0
   eps: <span class='epsinc epspos'>0.63</span><span class='epsdec epsneg'>-0.10</span><span class='epsinc epspos'>0.88</span><span class='epsinc epspos'>0.57</span><span class=''>0.21</span>
   cmp: 15.35
   day: -4.95
@@ -12459,7 +12459,7 @@
   stake: 2
   mcap: 174
   cap: smallcap
-  rank: 1385
+  rank: 0
   eps: <span class='epsdec epspos'>0.12</span><span class='epsinc epspos'>0.20</span><span class='epsinc epspos'>0.16</span><span class='epsinc epspos'>0.15</span><span class=''>0.00</span>
   cmp: 9.85
   day: -2.96
@@ -12468,7 +12468,7 @@
   stake: 2
   mcap: 994
   cap: smallcap
-  rank: 1386
+  rank: 0
   eps: <span class='epsdec epspos'>2.58</span><span class='epsinc epspos'>3.61</span><span class='epsinc epspos'>2.13</span><span class='epsinc epspos'>1.39</span><span class=''>1.23</span>
   cmp: 92.05
   day: -2.33
@@ -12477,7 +12477,7 @@
   stake: 0
   mcap: 127
   cap: smallcap
-  rank: 1387
+  rank: 0
   eps: <span class='epsinc epspos'>1.09</span><span class='epsinc epspos'>0.93</span><span class='epsdec epspos'>0.86</span><span class='epsinc epspos'>1.65</span><span class=''>0.91</span>
   cmp: 48.95
   day: -1.21
@@ -12486,7 +12486,7 @@
   stake: 6
   mcap: 470
   cap: smallcap
-  rank: 1388
+  rank: 0
   eps: <span class='epsdec epsneg'>-0.58</span><span class='epsinc epspos'>1.80</span><span class='epsdec epsneg'>-3.01</span><span class='epsinc epsneg'>-1.00</span><span class=''>-2.97</span>
   cmp: 175.10
   day: -1.10
@@ -12495,7 +12495,7 @@
   stake: 4
   mcap: 37276
   cap: midcap
-  rank: 1389
+  rank: 0
   eps: <span class='epsinc epspos'>21.41</span><span class='epsinc epspos'>15.93</span><span class='epsdec epspos'>12.83</span><span class='epsdec epspos'>13.38</span><span class=''>20.24</span>
   cmp: 3962.90
   day: -1.99
@@ -12504,7 +12504,7 @@
   stake: 0
   mcap: 117
   cap: smallcap
-  rank: 1390
+  rank: 0
   eps: <span class='epsinc epspos'>8.51</span><span class='epsinc epspos'>2.15</span><span class='epsdec epspos'>0.58</span><span class='epsinc epspos'>0.92</span><span class=''>0.66</span>
   cmp: 88.90
   day: -0.17
@@ -12513,7 +12513,7 @@
   stake: 0
   mcap: 369
   cap: smallcap
-  rank: 1391
+  rank: 0
   eps: <span class='epsdec epspos'>1.02</span><span class='epsdec epspos'>3.81</span><span class='epsinc epspos'>12.15</span><span class='epsinc epspos'>2.33</span><span class=''>0.11</span>
   cmp: 75.00
   day: -1.45
@@ -12522,7 +12522,7 @@
   stake: 2
   mcap: 19867
   cap: midcap
-  rank: 1392
+  rank: 0
   eps: <span class='epsdec epspos'>4.50</span><span class='epsinc epspos'>5.53</span><span class='epsinc epspos'>5.09</span><span class='epsinc epspos'>4.53</span><span class=''>0.64</span>
   cmp: 651.15
   day: 0.21
@@ -12531,7 +12531,7 @@
   stake: 0
   mcap: 36
   cap: smallcap
-  rank: 1393
+  rank: 0
   eps: <span class='epsinc epspos'>0.14</span><span class='epsdec epsneg'>-0.07</span><span class='epsinc epspos'>0.01</span><span class='epsdec epsneg'>-0.05</span><span class=''>0.18</span>
   cmp: 3.80
   day: 2.70
@@ -12540,7 +12540,7 @@
   stake: 1
   mcap: 12368
   cap: midcap
-  rank: 1394
+  rank: 0
   eps: <span class='epsinc epspos'>4.13</span><span class='epsdec epspos'>3.27</span><span class='epsinc epspos'>4.46</span><span class='epsinc epspos'>2.91</span><span class=''>1.80</span>
   cmp: 525.65
   day: -2.30
@@ -12549,7 +12549,7 @@
   stake: 0
   mcap: 18
   cap: smallcap
-  rank: 1395
+  rank: 0
   eps: <span class='epsdec epsneg'>-0.19</span><span class='epsinc epspos'>2.56</span><span class='epsinc epspos'>0.14</span><span class='epsinc epsneg'>-0.38</span><span class=''>-1.89</span>
   cmp: 8.00
   day: 0.00
@@ -12558,7 +12558,7 @@
   stake: 1
   mcap: 113
   cap: smallcap
-  rank: 1396
+  rank: 0
   eps: <span class='epsinc epspos'>6.59</span><span class='epsinc epspos'>5.85</span><span class='epsdec epsneg'>-3.06</span><span class='epsdec epsneg'>-1.34</span><span class=''>4.90</span>
   cmp: 118.80
   day: -3.06
@@ -12567,7 +12567,7 @@
   stake: 0
   mcap: 239
   cap: smallcap
-  rank: 1397
+  rank: 0
   eps: <span class='epsinc epspos'>0.28</span><span class='epsdec epsneg'>-1.62</span><span class='epsinc epspos'>0.17</span><span class='epsdec epsneg'>-1.02</span><span class=''>-0.12</span>
   cmp: 24.00
   day: -3.23
@@ -12576,7 +12576,7 @@
   stake: 2
   mcap: 4535
   cap: smallcap
-  rank: 1398
+  rank: 0
   eps: <span class='epsdec epsneg'>-14.57</span><span class='epsdec epsneg'>-0.77</span><span class='epsinc epspos'>26.34</span><span class='epsinc epsneg'>-10.44</span><span class=''>-18.52</span>
   cmp: 3423.45
   day: -2.03
@@ -12585,7 +12585,7 @@
   stake: 0
   mcap: 128
   cap: smallcap
-  rank: 1399
+  rank: 0
   eps: <span class='epsdec epspos'>0.01</span><span class='epsinc epspos'>0.08</span><span class='epsdec epspos'>0.02</span><span class='epsinc epspos'>0.09</span><span class=''>-0.01</span>
   cmp: 7.70
   day: -1.28
@@ -12594,7 +12594,7 @@
   stake: 0
   mcap: 6
   cap: smallcap
-  rank: 1400
+  rank: 0
   eps: <span class='epsinc epsneg'>-0.15</span><span class='epsinc epsneg'>-0.16</span><span class='epsdec epsneg'>-0.23</span><span class='epsinc epsneg'>-0.15</span><span class=''>-0.18</span>
   cmp: 1.90
   day: 2.70
@@ -12603,7 +12603,7 @@
   stake: 0
   mcap: 39
   cap: smallcap
-  rank: 1401
+  rank: 0
   eps: <span class='epsinc epspos'>0.48</span><span class='epsdec epspos'>0.47</span><span class='epsdec epspos'>0.91</span><span class='epsinc epspos'>1.31</span><span class=''>0.92</span>
   cmp: 65.00
   day: -1.52
@@ -12612,7 +12612,7 @@
   stake: 0
   mcap: 158
   cap: smallcap
-  rank: 1402
+  rank: 0
   eps: <span class='epsinc epsneg'>-0.04</span><span class='epsinc epsneg'>-0.07</span><span class='epsdec epsneg'>-0.26</span><span class='epsdec epsneg'>-0.16</span><span class=''>0.02</span>
   cmp: 3.65
   day: -1.35
@@ -12621,7 +12621,7 @@
   stake: 0
   mcap: 567
   cap: smallcap
-  rank: 1403
+  rank: 0
   eps: <span class='epsinc epsneg'>-3.58</span><span class='epsdec epsneg'>-5.26</span><span class='epsdec epsneg'>-1.29</span><span class='epsinc epsneg'>-0.68</span><span class=''>-1.95</span>
   cmp: 95.80
   day: -1.29
@@ -12630,7 +12630,7 @@
   stake: 2
   mcap: 76
   cap: smallcap
-  rank: 1404
+  rank: 0
   eps: <span class='epsinc epspos'>0.40</span><span class='epsinc epspos'>0.19</span><span class='epsdec epspos'>0.02</span><span class='epsdec epspos'>0.02</span><span class=''>0.02</span>
   cmp: 13.80
   day: -4.50
@@ -12639,7 +12639,7 @@
   stake: 73
   mcap: 5360
   cap: smallcap
-  rank: 1405
+  rank: 0
   eps: <span class='epsdec epspos'>3.04</span><span class='epsinc epspos'>3.89</span><span class='epsinc epspos'>2.44</span><span class='epsinc epspos'>2.26</span><span class=''>1.14</span>
   cmp: 143.40
   day: -1.21
@@ -12648,7 +12648,7 @@
   stake: 0
   mcap: 35
   cap: smallcap
-  rank: 1406
+  rank: 0
   eps: <span class='epsinc epspos'>0.54</span><span class='epsinc epspos'>0.02</span><span class='epsdec epsneg'>-0.49</span><span class='epsinc epspos'>0.36</span><span class=''>0.19</span>
   cmp: 18.40
   day: -2.39
@@ -12657,7 +12657,7 @@
   stake: 1
   mcap: 147
   cap: smallcap
-  rank: 1407
+  rank: 0
   eps: <span class='epsdec epsneg'>-0.28</span><span class='epsinc epsneg'>0.00</span><span class='epsdec epsneg'>-0.01</span><span class='epsinc epspos'>0.06</span><span class=''>0.03</span>
   cmp: 2.20
   day: -2.22
@@ -12666,7 +12666,7 @@
   stake: 0
   mcap: 126
   cap: smallcap
-  rank: 1408
+  rank: 0
   eps: <span class='epsinc epspos'>0.10</span><span class='epsinc epspos'>0.07</span><span class='epsdec epspos'>0.02</span><span class='epsinc epspos'>0.33</span><span class=''>0.11</span>
   cmp: 43.80
   day: 0.57
@@ -12675,7 +12675,7 @@
   stake: 0
   mcap: 76
   cap: smallcap
-  rank: 1409
+  rank: 0
   eps: <span class='epsinc epspos'>1.39</span><span class='epsdec epspos'>0.58</span><span class='epsinc epspos'>2.08</span><span class='epsinc epspos'>1.95</span><span class=''>1.41</span>
   cmp: 86.45
   day: 0.52
@@ -12684,7 +12684,7 @@
   stake: 0
   mcap: 224
   cap: smallcap
-  rank: 1410
+  rank: 0
   eps: <span class='epsdec epspos'>2.45</span><span class='epsinc epspos'>24.21</span><span class='epsdec epsneg'>-28.62</span><span class='epsdec epsneg'>-13.58</span><span class=''>-0.86</span>
   cmp: 98.90
   day: -3.98
@@ -12693,7 +12693,7 @@
   stake: 1
   mcap: 462
   cap: smallcap
-  rank: 1411
+  rank: 0
   eps: <span class='epsinc epsneg'>-1.09</span><span class='epsdec epsneg'>-4.11</span><span class='epsinc epsneg'>-0.53</span><span class='epsdec epsneg'>-2.03</span><span class=''>-1.15</span>
   cmp: 103.95
   day: -0.53
@@ -12702,7 +12702,7 @@
   stake: 0
   mcap: 524
   cap: smallcap
-  rank: 1412
+  rank: 0
   eps: <span class='epsdec epspos'>9.12</span><span class='epsinc epspos'>9.56</span><span class='epsinc epspos'>8.34</span><span class='epsinc epspos'>8.14</span><span class=''>7.57</span>
   cmp: 404.50
   day: 0.25
@@ -12711,7 +12711,7 @@
   stake: 0
   mcap: 595
   cap: smallcap
-  rank: 1413
+  rank: 0
   eps: <span class='epsdec epspos'>0.59</span><span class='epsinc epspos'>1.95</span><span class='epsdec epspos'>0.57</span><span class='epsinc epspos'>0.75</span><span class=''>-1.22</span>
   cmp: 57.90
   day: -2.28
@@ -12720,7 +12720,7 @@
   stake: 0
   mcap: 36
   cap: smallcap
-  rank: 1414
+  rank: 0
   eps: <span class='epsinc epsneg'>-4.72</span><span class='epsdec epsneg'>-20.63</span><span class='epsinc epsneg'>-2.15</span><span class='epsinc epsneg'>-2.51</span><span class=''>-6.33</span>
   cmp: 4.75
   day: -3.06
@@ -12729,7 +12729,7 @@
   stake: 0
   mcap: 46
   cap: smallcap
-  rank: 1415
+  rank: 0
   eps: <span class='epsdec epspos'>0.01</span><span class='epsdec epspos'>0.03</span><span class='epsinc epspos'>0.32</span><span class='epsinc epspos'>0.19</span><span class=''>0.00</span>
   cmp: 11.80
   day: -1.26
@@ -12738,7 +12738,7 @@
   stake: 0
   mcap: 547
   cap: smallcap
-  rank: 1416
+  rank: 0
   eps: <span class='epsdec epsneg'>-0.03</span><span class='epsinc epspos'>0.63</span><span class='epsdec epspos'>0.30</span><span class='epsinc epspos'>0.84</span><span class=''>-0.13</span>
   cmp: 37.55
   day: -0.79
@@ -12747,7 +12747,7 @@
   stake: 0
   mcap: 989
   cap: smallcap
-  rank: 1417
+  rank: 0
   eps: <span class='epsdec epsneg'>-6.39</span><span class='epsinc epspos'>0.24</span><span class='epsinc epsneg'>-1.42</span><span class='epsinc epsneg'>-2.41</span><span class=''>-5.49</span>
   cmp: 51.15
   day: -2.57
@@ -12756,7 +12756,7 @@
   stake: 0
   mcap: 102
   cap: smallcap
-  rank: 1418
+  rank: 0
   eps: <span class='epsdec epspos'>13.36</span><span class='epsinc epspos'>24.21</span><span class='epsinc epspos'>5.69</span><span class='epsinc epspos'>4.67</span><span class=''>-9.28</span>
   cmp: 227.55
   day: -3.70
@@ -12765,7 +12765,7 @@
   stake: 2
   mcap: 1706
   cap: smallcap
-  rank: 1419
+  rank: 0
   eps: <span class='epsdec epspos'>2.07</span><span class='epsinc epspos'>9.42</span><span class='epsdec epspos'>8.55</span><span class='epsdec epspos'>10.14</span><span class=''>12.51</span>
   cmp: 541.85
   day: -0.17
@@ -12774,7 +12774,7 @@
   stake: 1
   mcap: 1165
   cap: smallcap
-  rank: 1420
+  rank: 0
   eps: <span class='epsdec epspos'>2.34</span><span class='epsinc epspos'>2.92</span><span class='epsdec epspos'>2.11</span><span class='epsdec epspos'>3.10</span><span class=''>3.93</span>
   cmp: 82.25
   day: -1.38
@@ -12783,7 +12783,7 @@
   stake: 1
   mcap: 1748
   cap: smallcap
-  rank: 1421
+  rank: 0
   eps: <span class='epsinc epspos'>4.06</span><span class='epsdec epspos'>2.32</span><span class='epsdec epspos'>3.61</span><span class='epsinc epspos'>6.17</span><span class=''>3.07</span>
   cmp: 98.85
   day: -1.40
@@ -12792,7 +12792,7 @@
   stake: 1
   mcap: 141
   cap: smallcap
-  rank: 1422
+  rank: 0
   eps: <span class='epsinc epspos'>6.03</span><span class='epsdec epspos'>1.33</span><span class='epsdec epspos'>1.45</span><span class='epsinc epspos'>1.50</span><span class=''>0.24</span>
   cmp: 228.35
   day: -0.41
@@ -12801,7 +12801,7 @@
   stake: 1
   mcap: 1141
   cap: smallcap
-  rank: 1423
+  rank: 0
   eps: <span class='epsdec epspos'>1.52</span><span class='epsinc epspos'>2.17</span><span class='epsinc epspos'>1.63</span><span class='epsinc epspos'>1.14</span><span class=''>-0.58</span>
   cmp: 79.90
   day: -0.68
@@ -12810,7 +12810,7 @@
   stake: 14
   mcap: 8186
   cap: smallcap
-  rank: 1424
+  rank: 0
   eps: <span class='epsinc epspos'>2.13</span><span class='epsdec epspos'>1.90</span><span class='epsinc epspos'>1.96</span><span class='epsinc epspos'>1.53</span><span class=''>1.01</span>
   cmp: 90.55
   day: -0.93
@@ -12819,7 +12819,7 @@
   stake: 0
   mcap: 77
   cap: smallcap
-  rank: 1425
+  rank: 0
   eps: <span class='epsdec epspos'>0.05</span><span class='epsinc epspos'>0.37</span><span class='epsdec epspos'>0.02</span><span class='epsinc epspos'>0.34</span><span class=''>-0.07</span>
   cmp: 30.00
   day: 0.33
@@ -12828,7 +12828,7 @@
   stake: 0
   mcap: 281
   cap: smallcap
-  rank: 1426
+  rank: 0
   eps: <span class='epsdec epsneg'>-9.16</span><span class='epsinc epspos'>4.03</span><span class='epsinc epsneg'>-6.17</span><span class='epsinc epsneg'>-13.32</span><span class=''>-16.12</span>
   cmp: 129.60
   day: 0.04
@@ -12837,7 +12837,7 @@
   stake: 0
   mcap: 70
   cap: smallcap
-  rank: 1427
+  rank: 0
   eps: <span class='epsdec epspos'>1.05</span><span class='epsinc epspos'>1.55</span><span class='epsinc epspos'>0.97</span><span class='epsdec epspos'>0.66</span><span class=''>0.68</span>
   cmp: 63.25
   day: -1.33
@@ -12846,7 +12846,7 @@
   stake: 0
   mcap: 48
   cap: smallcap
-  rank: 1428
+  rank: 0
   eps: <span class='epsdec epsneg'>-1.72</span><span class='epsinc epspos'>0.73</span><span class='epsinc epsneg'>-1.02</span><span class='epsinc epsneg'>-1.26</span><span class=''>-1.89</span>
   cmp: 34.40
   day: -1.29
@@ -12855,7 +12855,7 @@
   stake: 0
   mcap: 30
   cap: smallcap
-  rank: 1429
+  rank: 0
   eps: <span class='epsdec epsneg'>-1.13</span><span class='epsinc epspos'>5.91</span><span class='epsinc epsneg'>-0.49</span><span class='epsdec epsneg'>-5.55</span><span class=''>-1.16</span>
   cmp: 27.25
   day: -3.54
@@ -12864,7 +12864,7 @@
   stake: 0
   mcap: 7
   cap: smallcap
-  rank: 1430
+  rank: 0
   eps: <span class='epsinc epsneg'>-0.16</span><span class='epsdec epsneg'>-0.86</span><span class='epsdec epsneg'>-0.12</span><span class='epsdec epsneg'>-0.01</span><span class=''>1.14</span>
   cmp: 2.60
   day: 0.00
@@ -12873,7 +12873,7 @@
   stake: 0
   mcap: 6
   cap: smallcap
-  rank: 1431
+  rank: 0
   eps: <span class='epsinc epspos'>0.02</span><span class='epsdec epspos'>0.01</span><span class='epsdec epspos'>0.01</span><span class='epsdec epspos'>0.01</span><span class=''>0.02</span>
   cmp: 1.60
   day: 0.00
@@ -12882,7 +12882,7 @@
   stake: 3
   mcap: 1947
   cap: smallcap
-  rank: 1432
+  rank: 0
   eps: <span class='epsdec epspos'>3.49</span><span class='epsinc epspos'>3.82</span><span class='epsinc epspos'>2.76</span><span class='epsdec epspos'>0.34</span><span class=''>1.01</span>
   cmp: 262.40
   day: 1.71
@@ -12891,7 +12891,7 @@
   stake: 8
   mcap: 541
   cap: smallcap
-  rank: 1433
+  rank: 0
   eps: <span class='epsdec epspos'>20.14</span><span class='epsdec epspos'>25.33</span><span class='epsinc epspos'>53.82</span><span class='epsinc epspos'>33.31</span><span class=''>25.67</span>
   cmp: 797.30
   day: 0.16
@@ -12900,7 +12900,7 @@
   stake: 0
   mcap: 283
   cap: smallcap
-  rank: 1434
+  rank: 0
   eps: <span class='epsinc epspos'>2.04</span><span class='epsinc epspos'>1.78</span><span class='epsinc epspos'>1.25</span><span class='epsinc epsneg'>-2.04</span><span class=''>-7.85</span>
   cmp: 52.05
   day: -1.79
@@ -12909,7 +12909,7 @@
   stake: 1
   mcap: 4081
   cap: smallcap
-  rank: 1435
+  rank: 0
   eps: <span class='epsdec epspos'>1.65</span><span class='epsinc epspos'>2.07</span><span class='epsdec epsneg'>-0.04</span><span class='epsinc epspos'>1.46</span><span class=''>1.05</span>
   cmp: 108.65
   day: 0.79
@@ -12918,7 +12918,7 @@
   stake: 1
   mcap: 1605
   cap: smallcap
-  rank: 1436
+  rank: 0
   eps: <span class='epsdec epspos'>3.66</span><span class='epsdec epspos'>4.23</span><span class='epsdec epspos'>4.50</span><span class='epsinc epspos'>4.89</span><span class=''>2.78</span>
   cmp: 448.85
   day: -1.82
@@ -12927,7 +12927,7 @@
   stake: 17
   mcap: 25324
   cap: midcap
-  rank: 1437
+  rank: 0
   eps: <span class='epsinc epspos'>56.45</span><span class='epsinc epspos'>13.77</span><span class='epsdec epsneg'>-10.03</span><span class='epsdec epspos'>49.97</span><span class=''>56.01</span>
   cmp: 5355.85
   day: -2.39
@@ -12936,7 +12936,7 @@
   stake: 0
   mcap: 8
   cap: smallcap
-  rank: 1438
+  rank: 0
   eps: <span class='epsdec epsneg'>-3.39</span><span class='epsdec epsneg'>-2.70</span><span class='epsinc epsneg'>-2.68</span><span class='epsinc epsneg'>-3.57</span><span class=''>-6.20</span>
   cmp: 2.20
   day: 0.00
@@ -12945,7 +12945,7 @@
   stake: 0
   mcap: 892
   cap: smallcap
-  rank: 1439
+  rank: 0
   eps: <span class='epsinc epspos'>5.43</span><span class='epsdec epsneg'>-4.34</span><span class='epsinc epspos'>4.56</span><span class='epsinc epsneg'>-5.87</span><span class=''>-8.77</span>
   cmp: 142.95
   day: -0.66
@@ -12954,7 +12954,7 @@
   stake: 0
   mcap: 110
   cap: smallcap
-  rank: 1440
+  rank: 0
   eps: <span class='epsdec epspos'>1.37</span><span class='epsinc epspos'>3.44</span><span class='epsinc epspos'>1.24</span><span class='epsinc epspos'>0.88</span><span class=''>0.46</span>
   cmp: 179.00
   day: 0.90
@@ -12963,7 +12963,7 @@
   stake: 0
   mcap: 348
   cap: smallcap
-  rank: 1441
+  rank: 0
   eps: <span class='epsinc epspos'>14.26</span><span class='epsdec epsneg'>-18.17</span><span class='epsdec epspos'>4.90</span><span class='epsinc epspos'>9.14</span><span class=''>-2.06</span>
   cmp: 503.65
   day: -2.19
@@ -12972,7 +12972,7 @@
   stake: 1
   mcap: 575
   cap: smallcap
-  rank: 1442
+  rank: 0
   eps: <span class='epsdec epspos'>5.61</span><span class='epsdec epspos'>8.34</span><span class='epsinc epspos'>13.79</span><span class='epsinc epspos'>7.28</span><span class=''>2.64</span>
   cmp: 438.35
   day: -0.53
@@ -12981,7 +12981,7 @@
   stake: 0
   mcap: 973
   cap: smallcap
-  rank: 1443
+  rank: 0
   eps: <span class='epsinc epspos'>2.78</span><span class='epsinc epspos'>2.73</span><span class='epsinc epspos'>2.53</span><span class='epsinc epspos'>1.30</span><span class=''>0.83</span>
   cmp: 160.50
   day: 0.19
@@ -12990,7 +12990,7 @@
   stake: 0
   mcap: 22
   cap: smallcap
-  rank: 1444
+  rank: 0
   eps: <span class='epsinc epspos'>0.10</span><span class='epsdec epsneg'>-0.93</span><span class='epsdec epsneg'>-0.69</span><span class='epsinc epspos'>0.23</span><span class=''>0.02</span>
   cmp: 17.55
   day: -1.40
@@ -12999,7 +12999,7 @@
   stake: 2
   mcap: 481
   cap: smallcap
-  rank: 1445
+  rank: 0
   eps: <span class='epsdec epsneg'>-2.25</span><span class='epsdec epspos'>0.85</span><span class='epsinc epspos'>8.11</span><span class='epsinc epsneg'>-3.15</span><span class=''>-3.77</span>
   cmp: 135.65
   day: -3.35
@@ -13008,7 +13008,7 @@
   stake: 1
   mcap: 1387
   cap: smallcap
-  rank: 1446
+  rank: 0
   eps: <span class='epsinc epspos'>5.86</span><span class='epsdec epspos'>3.82</span><span class='epsinc epspos'>4.58</span><span class='epsinc epspos'>0.39</span><span class=''>-14.20</span>
   cmp: 243.70
   day: -0.91
@@ -13017,7 +13017,7 @@
   stake: 0
   mcap: 6
   cap: smallcap
-  rank: 1447
+  rank: 0
   eps: <span class='epsdec epsneg'>-4.19</span><span class='epsinc epspos'>1.73</span><span class='epsinc epsneg'>-4.40</span><span class='epsdec epsneg'>-4.41</span><span class=''>-4.34</span>
   cmp: 2.35
   day: -2.08
@@ -13026,7 +13026,7 @@
   stake: 9
   mcap: 11290
   cap: midcap
-  rank: 1448
+  rank: 0
   eps: <span class='epsinc epspos'>16.67</span><span class='epsdec epspos'>16.31</span><span class='epsinc epspos'>19.18</span><span class='epsinc epspos'>14.56</span><span class=''>-4.45</span>
   cmp: 2211.15
   day: 0.59
@@ -13035,7 +13035,7 @@
   stake: 0
   mcap: 23
   cap: smallcap
-  rank: 1449
+  rank: 0
   eps: <span class='epsdec epspos'>0.75</span><span class='epsinc epspos'>4.97</span><span class='epsinc epspos'>0.72</span><span class='epsdec epsneg'>-0.03</span><span class=''>1.62</span>
   cmp: 43.40
   day: -4.72
@@ -13044,7 +13044,7 @@
   stake: 0
   mcap: 27
   cap: smallcap
-  rank: 1450
+  rank: 0
   eps: <span class='epsdec epspos'>0.37</span><span class='epsinc epspos'>13.73</span><span class='epsinc epspos'>0.46</span><span class='epsinc epsneg'>-0.03</span><span class=''>-0.27</span>
   cmp: 13.65
   day: 5.00
@@ -13053,7 +13053,7 @@
   stake: 0
   mcap: 95
   cap: smallcap
-  rank: 1451
+  rank: 0
   eps: <span class='epsinc epspos'>4.41</span><span class='epsdec epsneg'>-122.36</span><span class='epsdec epspos'>52.48</span><span class='epsinc epspos'>281.23</span><span class=''>29.75</span>
   cmp: 1028.45
   day: -1.25
@@ -13062,7 +13062,7 @@
   stake: 0
   mcap: 1193
   cap: smallcap
-  rank: 1452
+  rank: 0
   eps: <span class='epsdec epsneg'>-0.05</span><span class='epsinc epspos'>2.13</span><span class='epsinc epspos'>0.13</span><span class='epsdec epspos'>0.09</span><span class=''>0.22</span>
   cmp: 8.45
   day: 4.97
@@ -13071,7 +13071,7 @@
   stake: 0
   mcap: 219
   cap: smallcap
-  rank: 1453
+  rank: 0
   eps: <span class='epsdec epspos'>8.07</span><span class='epsinc epspos'>22.22</span><span class='epsinc epspos'>8.55</span><span class='epsinc epspos'>8.10</span><span class=''>-7.17</span>
   cmp: 276.65
   day: -1.34
@@ -13080,7 +13080,7 @@
   stake: 0
   mcap: 71
   cap: smallcap
-  rank: 1454
+  rank: 0
   eps: <span class='epsinc epspos'>0.32</span><span class='epsdec epsneg'>-0.08</span><span class='epsinc epspos'>0.95</span><span class='epsinc epsneg'>-0.17</span><span class=''>-0.40</span>
   cmp: 15.25
   day: 3.04
@@ -13089,7 +13089,7 @@
   stake: 0
   mcap: 713
   cap: smallcap
-  rank: 1455
+  rank: 0
   eps: <span class='epsdec epspos'>0.10</span><span class='epsinc epspos'>0.21</span><span class='epsinc epspos'>0.06</span><span class='epsinc epspos'>0.03</span><span class=''>0.01</span>
   cmp: 17.30
   day: -2.81
@@ -13098,7 +13098,7 @@
   stake: 1
   mcap: 345
   cap: smallcap
-  rank: 1456
+  rank: 0
   eps: <span class='epsdec epsneg'>-11.52</span><span class='epsdec epsneg'>-5.12</span><span class='epsinc epsneg'>-4.78</span><span class='epsinc epsneg'>-8.12</span><span class=''>-18.98</span>
   cmp: 7.45
   day: 0.00
@@ -13107,7 +13107,7 @@
   stake: 2
   mcap: 195
   cap: smallcap
-  rank: 1457
+  rank: 0
   eps: <span class='epsdec epspos'>0.40</span><span class='epsinc epspos'>1.45</span><span class='epsinc epspos'>0.61</span><span class='epsdec epsneg'>-0.26</span><span class=''>0.39</span>
   cmp: 57.60
   day: -1.79
@@ -13116,7 +13116,7 @@
   stake: 0
   mcap: 703
   cap: smallcap
-  rank: 1458
+  rank: 0
   eps: <span class='epsdec epspos'>0.20</span><span class='epsinc epspos'>0.67</span><span class='epsinc epspos'>0.57</span><span class='epsinc epspos'>0.11</span><span class=''>-0.48</span>
   cmp: 59.00
   day: -1.58
@@ -13125,7 +13125,7 @@
   stake: 0
   mcap: 18
   cap: smallcap
-  rank: 1459
+  rank: 0
   eps: <span class='epsinc epsneg'>-1.23</span><span class='epsdec epsneg'>-3.22</span><span class='epsinc epsneg'>-3.11</span><span class='epsinc epsneg'>-4.03</span><span class=''>-4.05</span>
   cmp: 0.65
   day: -7.14
@@ -13134,7 +13134,7 @@
   stake: 1
   mcap: 48
   cap: smallcap
-  rank: 1460
+  rank: 0
   eps: <span class='epsdec epspos'>0.01</span><span class='epsinc epspos'>0.07</span><span class='epsinc epspos'>0.03</span><span class='epsinc epspos'>0.02</span><span class=''>-0.20</span>
   cmp: 2.90
   day: 0.00
@@ -13143,7 +13143,7 @@
   stake: 0
   mcap: 919
   cap: smallcap
-  rank: 1461
+  rank: 0
   eps: <span class='epsinc epspos'>32.73</span><span class='epsinc epspos'>28.55</span><span class='epsinc epspos'>18.43</span><span class='epsinc epspos'>9.00</span><span class=''>-24.43</span>
   cmp: 1734.60
   day: -3.52
@@ -13152,7 +13152,7 @@
   stake: 7
   mcap: 10057
   cap: midcap
-  rank: 1462
+  rank: 0
   eps: <span class='epsdec epspos'>9.16</span><span class='epsdec epspos'>10.76</span><span class='epsinc epspos'>11.31</span><span class='epsinc epspos'>10.50</span><span class=''>7.18</span>
   cmp: 312.60
   day: -2.31
@@ -13161,7 +13161,7 @@
   stake: 0
   mcap: 1131
   cap: smallcap
-  rank: 1463
+  rank: 0
   eps: <span class='epsdec epsneg'>-2.34</span><span class='epsinc epsneg'>-0.86</span><span class='epsinc epsneg'>-2.61</span><span class='epsdec epsneg'>-2.79</span><span class=''>-2.57</span>
   cmp: 227.25
   day: -1.79
@@ -13170,7 +13170,7 @@
   stake: 2
   mcap: 3567
   cap: smallcap
-  rank: 1464
+  rank: 0
   eps: <span class='epsdec epspos'>0.10</span><span class='epsinc epspos'>2.09</span><span class='epsinc epspos'>1.77</span><span class='epsinc epsneg'>-1.67</span><span class=''>-2.08</span>
   cmp: 134.70
   day: -3.68
@@ -13179,7 +13179,7 @@
   stake: 0
   mcap: 137
   cap: smallcap
-  rank: 1465
+  rank: 0
   eps: <span class='epsdec epsneg'>-1.46</span><span class='epsinc epsneg'>-0.06</span><span class='epsinc epsneg'>-0.71</span><span class='epsdec epsneg'>-1.75</span><span class=''>-1.33</span>
   cmp: 9.00
   day: 0.56
@@ -13188,7 +13188,7 @@
   stake: 0
   mcap: 276
   cap: smallcap
-  rank: 1466
+  rank: 0
   eps: <span class='epsdec epspos'>0.20</span><span class='epsinc epspos'>0.88</span><span class='epsinc epspos'>0.27</span><span class='epsdec epsneg'>-1.07</span><span class=''>0.97</span>
   cmp: 120.55
   day: -0.21
@@ -13197,7 +13197,7 @@
   stake: 1
   mcap: 191
   cap: smallcap
-  rank: 1467
+  rank: 0
   eps: <span class='epsdec epspos'>1.00</span><span class='epsinc epspos'>2.11</span><span class='epsdec epspos'>0.10</span><span class='epsdec epspos'>0.11</span><span class=''>0.42</span>
   cmp: 84.35
   day: -1.58
@@ -13206,7 +13206,7 @@
   stake: 0
   mcap: 51
   cap: smallcap
-  rank: 1468
+  rank: 0
   eps: <span class='epsinc epspos'>0.77</span><span class='epsdec epsneg'>-1.37</span><span class='epsinc epspos'>0.78</span><span class='epsinc epspos'>0.73</span><span class=''>0.01</span>
   cmp: 37.50
   day: -0.27
@@ -13215,7 +13215,7 @@
   stake: 0
   mcap: 135
   cap: smallcap
-  rank: 1469
+  rank: 0
   eps: <span class='epsdec epspos'>2.17</span><span class='epsinc epspos'>3.18</span><span class='epsinc epspos'>0.63</span><span class='epsinc epsneg'>-3.68</span><span class=''>-4.02</span>
   cmp: 73.00
   day: -2.47
@@ -13224,7 +13224,7 @@
   stake: 1
   mcap: 4478
   cap: smallcap
-  rank: 1470
+  rank: 0
   eps: <span class='epsinc epspos'>22.66</span><span class='epsinc epspos'>17.50</span><span class='epsinc epspos'>8.35</span><span class='epsinc epspos'>3.13</span><span class=''>-5.95</span>
   cmp: 90.60
   day: -2.79
@@ -13233,7 +13233,7 @@
   stake: 10
   mcap: 12502
   cap: midcap
-  rank: 1471
+  rank: 0
   eps: <span class='epsinc epspos'>3.49</span><span class='epsinc epspos'>0.57</span><span class='epsinc epspos'>0.40</span><span class='epsinc epsneg'>-0.05</span><span class=''>-2.37</span>
   cmp: 267.95
   day: -1.96
@@ -13242,7 +13242,7 @@
   stake: 0
   mcap: 39
   cap: smallcap
-  rank: 1472
+  rank: 0
   eps: <span class='epsdec epsneg'>-1.30</span><span class='epsinc epsneg'>-0.64</span><span class='epsinc epsneg'>-1.86</span><span class='epsdec epsneg'>-5.56</span><span class=''>-1.30</span>
   cmp: 12.65
   day: -3.07
@@ -13251,7 +13251,7 @@
   stake: 1
   mcap: 220
   cap: smallcap
-  rank: 1473
+  rank: 0
   eps: <span class='epsdec epsneg'>-6.06</span><span class='epsinc epspos'>6.42</span><span class='epsinc epspos'>2.47</span><span class='epsinc epsneg'>-11.76</span><span class=''>-15.45</span>
   cmp: 238.80
   day: -1.61
@@ -13260,7 +13260,7 @@
   stake: 1
   mcap: 151
   cap: smallcap
-  rank: 1474
+  rank: 0
   eps: <span class='epsdec epspos'>1.86</span><span class='epsinc epspos'>4.07</span><span class='epsinc epspos'>0.17</span><span class='epsinc epsneg'>-0.31</span><span class=''>-1.87</span>
   cmp: 79.50
   day: -2.51
@@ -13269,7 +13269,7 @@
   stake: 0
   mcap: 1631
   cap: smallcap
-  rank: 1475
+  rank: 0
   eps: <span class='epsinc epspos'>132.84</span><span class='epsinc epspos'>83.55</span><span class='epsdec epspos'>70.11</span><span class='epsinc epspos'>125.97</span><span class=''>67.25</span>
   cmp: 5286.05
   day: 0.14
@@ -13278,7 +13278,7 @@
   stake: 0
   mcap: 216
   cap: smallcap
-  rank: 1476
+  rank: 0
   eps: <span class='epsdec epspos'>5.89</span><span class='epsinc epspos'>6.79</span><span class='epsinc epspos'>4.08</span><span class='epsdec epspos'>1.61</span><span class=''>2.75</span>
   cmp: 412.95
   day: -2.35
@@ -13287,7 +13287,7 @@
   stake: 4
   mcap: 23921
   cap: midcap
-  rank: 1477
+  rank: 0
   eps: <span class='epsdec epsneg'>-5.93</span><span class='epsinc epspos'>7.57</span><span class='epsinc epspos'>5.31</span><span class='epsinc epspos'>1.30</span><span class=''>-2.83</span>
   cmp: 147.80
   day: 0.37
@@ -13296,7 +13296,7 @@
   stake: 0
   mcap: 70
   cap: smallcap
-  rank: 1478
+  rank: 0
   eps: <span class='epsdec epsneg'>-0.05</span><span class='epsdec epsneg'>-0.03</span><span class='epsinc epspos'>0.02</span><span class=''>0.00</span>
   cmp: 10.45
   day: -4.57
@@ -13305,7 +13305,7 @@
   stake: 0
   mcap: 12
   cap: smallcap
-  rank: 1479
+  rank: 0
   eps: <span class='epsdec epsneg'>-0.09</span><span class='epsinc epspos'>0.14</span><span class='epsinc epspos'>0.03</span><span class='epsdec epsneg'>-0.12</span><span class=''>-0.09</span>
   cmp: 17.35
   day: -3.07
@@ -13314,7 +13314,7 @@
   stake: 0
   mcap: 13
   cap: smallcap
-  rank: 1480
+  rank: 0
   eps: <span class='epsdec epsneg'>-0.28</span><span class='epsdec epsneg'>-0.26</span><span class='epsinc epsneg'>0.00</span><span class='epsinc epsneg'>-0.11</span><span class=''>-1.92</span>
   cmp: 1.20
   day: 0.00
@@ -13323,7 +13323,7 @@
   stake: 0
   mcap: 22
   cap: smallcap
-  rank: 1481
+  rank: 0
   eps: <span class='epsdec epspos'>0.98</span><span class='epsinc epspos'>1.93</span><span class='epsinc epspos'>1.56</span><span class='epsdec epsneg'>-0.79</span><span class=''>-0.74</span>
   cmp: 22.05
   day: -1.34
@@ -13332,7 +13332,7 @@
   stake: 1
   mcap: 4338
   cap: smallcap
-  rank: 1482
+  rank: 0
   eps: <span class='epsdec epspos'>1.87</span><span class='epsinc epspos'>2.46</span><span class='epsinc epspos'>2.31</span><span class='epsinc epspos'>1.67</span><span class=''>1.27</span>
   cmp: 4431.75
   day: 0.92
@@ -13341,7 +13341,7 @@
   stake: 90
   mcap: 59223
   cap: largecap
-  rank: 1483
+  rank: 0
   eps: <span class='epsdec epspos'>3.90</span><span class='epsinc epspos'>9.39</span><span class='epsdec epspos'>8.30</span><span class='epsinc epspos'>9.28</span><span class=''>-0.05</span>
   cmp: 2180.55
   day: -0.87
@@ -13350,7 +13350,7 @@
   stake: 1
   mcap: 98
   cap: smallcap
-  rank: 1484
+  rank: 0
   eps: <span class='epsinc epspos'>0.60</span><span class='epsinc epsneg'>-0.20</span><span class='epsdec epsneg'>-0.34</span><span class='epsdec epsneg'>-0.34</span><span class=''>-0.33</span>
   cmp: 2.25
   day: -2.17
@@ -13359,7 +13359,7 @@
   stake: 0
   mcap: 39
   cap: smallcap
-  rank: 1485
+  rank: 0
   eps: <span class='epsinc epspos'>0.12</span><span class='epsdec epspos'>0.06</span><span class='epsinc epspos'>0.06</span><span class='epsdec epsneg'>-0.17</span><span class=''>0.02</span>
   cmp: 6.20
   day: -3.13
@@ -13368,7 +13368,7 @@
   stake: 1
   mcap: 6191
   cap: smallcap
-  rank: 1486
+  rank: 0
   eps: <span class='epsinc epspos'>14.45</span><span class='epsdec epspos'>7.55</span><span class='epsdec epspos'>13.82</span><span class='epsinc epspos'>18.63</span><span class=''>15.29</span>
   cmp: 660.65
   day: 3.96
@@ -13377,7 +13377,7 @@
   stake: 3
   mcap: 704
   cap: smallcap
-  rank: 1487
+  rank: 0
   eps: <span class='epsinc epsneg'>-0.11</span><span class='epsdec epsneg'>-0.23</span><span class='epsdec epspos'>0.08</span><span class='epsinc epspos'>0.57</span><span class=''>0.08</span>
   cmp: 49.85
   day: -4.59
@@ -13386,7 +13386,7 @@
   stake: 2
   mcap: 5194
   cap: smallcap
-  rank: 1488
+  rank: 0
   eps: <span class='epsinc epspos'>4.00</span><span class='epsinc epspos'>3.72</span><span class='epsdec epspos'>3.47</span><span class='epsinc epspos'>5.63</span><span class=''>1.66</span>
   cmp: 301.55
   day: -2.44
@@ -13395,7 +13395,7 @@
   stake: 0
   mcap: 34
   cap: smallcap
-  rank: 1489
+  rank: 0
   eps: <span class='epsdec epspos'>0.46</span><span class='epsinc epspos'>1.83</span><span class='epsinc epspos'>0.03</span><span class='epsdec epsneg'>-0.46</span><span class=''>-0.04</span>
   cmp: 10.55
   day: -2.31
@@ -13404,7 +13404,7 @@
   stake: 0
   mcap: 60
   cap: smallcap
-  rank: 1490
+  rank: 0
   eps: <span class='epsdec epspos'>1.30</span><span class='epsdec epspos'>3.84</span><span class='epsdec epspos'>6.34</span><span class='epsinc epspos'>9.19</span><span class=''>1.00</span>
   cmp: 95.90
   day: -1.79
@@ -13413,7 +13413,7 @@
   stake: 0
   mcap: 317
   cap: smallcap
-  rank: 1491
+  rank: 0
   eps: <span class='epsdec epsneg'>-0.33</span><span class='epsinc epsneg'>-0.06</span><span class='epsinc epsneg'>-0.43</span><span class='epsdec epsneg'>-0.71</span><span class=''>-0.61</span>
   cmp: 28.05
   day: -0.88
@@ -13422,7 +13422,7 @@
   stake: 0
   mcap: 65
   cap: smallcap
-  rank: 1492
+  rank: 0
   eps: <span class='epsinc epspos'>0.09</span><span class='epsinc epsneg'>-0.90</span><span class='epsdec epsneg'>-1.48</span><span class='epsdec epsneg'>0.00</span><span class=''>0.17</span>
   cmp: 27.00
   day: -0.55
@@ -13431,7 +13431,7 @@
   stake: 0
   mcap: 1639
   cap: smallcap
-  rank: 1493
+  rank: 0
   eps: <span class='epsdec epspos'>5.16</span><span class='epsdec epspos'>10.39</span><span class='epsdec epspos'>13.13</span><span class='epsinc epspos'>13.36</span><span class=''>11.11</span>
   cmp: 310.05
   day: 2.75
@@ -13440,7 +13440,7 @@
   stake: 0
   mcap: 579
   cap: smallcap
-  rank: 1494
+  rank: 0
   eps: <span class='epsdec epspos'>17.67</span><span class='epsinc epspos'>23.01</span><span class='epsdec epsneg'>-1.66</span><span class='epsinc epspos'>0.95</span><span class=''>-15.86</span>
   cmp: 1053.70
   day: -1.88
@@ -13449,7 +13449,7 @@
   stake: 0
   mcap: 675
   cap: smallcap
-  rank: 1495
+  rank: 0
   eps: <span class='epsinc epspos'>7.62</span><span class='epsdec epspos'>6.91</span><span class='epsdec epspos'>9.20</span><span class='epsinc epspos'>9.48</span><span class=''>7.06</span>
   cmp: 239.30
   day: -0.60
@@ -13458,7 +13458,7 @@
   stake: 1
   mcap: 470
   cap: smallcap
-  rank: 1496
+  rank: 0
   eps: <span class='epsdec epspos'>3.38</span><span class='epsdec epspos'>4.53</span><span class='epsinc epspos'>5.35</span><span class='epsinc epspos'>4.78</span><span class=''>2.64</span>
   cmp: 111.15
   day: -1.46
@@ -13467,7 +13467,7 @@
   stake: 1
   mcap: 1617
   cap: smallcap
-  rank: 1497
+  rank: 0
   eps: <span class='epsinc epspos'>12.47</span><span class='epsinc epspos'>11.03</span><span class='epsdec epspos'>8.74</span><span class='epsdec epspos'>8.89</span><span class=''>12.70</span>
   cmp: 430.05
   day: 3.58
@@ -13476,7 +13476,7 @@
   stake: 39
   mcap: 18221
   cap: midcap
-  rank: 1498
+  rank: 0
   eps: <span class='epsdec epspos'>5.87</span><span class='epsinc epspos'>10.63</span><span class='epsinc epspos'>7.69</span><span class='epsinc epspos'>4.29</span><span class=''>0.41</span>
   cmp: 1051.15
   day: -0.65
@@ -13485,7 +13485,7 @@
   stake: 0
   mcap: 69
   cap: smallcap
-  rank: 1499
+  rank: 0
   eps: <span class='epsdec epsneg'>-0.05</span><span class='epsinc epspos'>0.41</span><span class='epsdec epsneg'>-0.48</span><span class='epsdec epsneg'>-0.44</span><span class=''>-0.21</span>
   cmp: 21.40
   day: 4.90
@@ -13494,7 +13494,7 @@
   stake: 15
   mcap: 6893
   cap: smallcap
-  rank: 1500
+  rank: 0
   eps: <span class='epsinc epspos'>5.35</span><span class='epsdec epspos'>5.12</span><span class='epsdec epspos'>5.50</span><span class='epsinc epspos'>8.17</span><span class=''>7.64</span>
   cmp: 554.30
   day: -1.20
@@ -13503,7 +13503,7 @@
   stake: 0
   mcap: 734
   cap: smallcap
-  rank: 1501
+  rank: 0
   eps: <span class='epsinc epspos'>24.66</span><span class='epsinc epspos'>18.73</span><span class='epsinc epspos'>14.18</span><span class='epsdec epspos'>13.92</span><span class=''>21.67</span>
   cmp: 689.50
   day: -1.20
@@ -13512,7 +13512,7 @@
   stake: 0
   mcap: 150
   cap: smallcap
-  rank: 1502
+  rank: 0
   eps: <span class='epsinc epsneg'>-0.40</span><span class='epsdec epsneg'>-0.64</span><span class='epsinc epsneg'>-0.59</span><span class='epsdec epsneg'>-0.62</span><span class=''>-0.62</span>
   cmp: 1.55
   day: 0.00
@@ -13521,7 +13521,7 @@
   stake: 0
   mcap: 24
   cap: smallcap
-  rank: 1503
+  rank: 0
   eps: <span class='epsinc epsneg'>-14.01</span><span class='epsinc epsneg'>-17.05</span><span class='epsdec epsneg'>-21.51</span><span class='epsdec epsneg'>-21.07</span><span class=''>-16.33</span>
   cmp: 5.40
   day: 0.00
@@ -13530,7 +13530,7 @@
   stake: 1
   mcap: 1365
   cap: smallcap
-  rank: 1504
+  rank: 0
   eps: <span class='epsdec epsneg'>-2.38</span><span class='epsinc epspos'>0.01</span><span class='epsdec epsneg'>-5.22</span><span class='epsdec epsneg'>-4.16</span><span class=''>-3.49</span>
   cmp: 73.95
   day: 0.00
@@ -13539,7 +13539,7 @@
   stake: 0
   mcap: 18
   cap: smallcap
-  rank: 1505
+  rank: 0
   eps: <span class='epsdec epsneg'>-0.60</span><span class='epsinc epsneg'>-0.44</span><span class='epsdec epsneg'>-0.56</span><span class='epsinc epsneg'>-0.56</span><span class=''>-0.60</span>
   cmp: 12.00
   day: 4.80
@@ -13548,7 +13548,7 @@
   stake: 9
   mcap: 922
   cap: smallcap
-  rank: 1506
+  rank: 0
   eps: <span class='epsdec epspos'>3.30</span><span class='epsinc epspos'>10.56</span><span class='epsdec epspos'>0.77</span><span class='epsdec epspos'>2.98</span><span class=''>3.20</span>
   cmp: 175.40
   day: -2.72
@@ -13557,7 +13557,7 @@
   stake: 0
   mcap: 1100
   cap: smallcap
-  rank: 1507
+  rank: 0
   eps: <span class='epsdec epspos'>4.24</span><span class='epsdec epspos'>4.32</span><span class='epsinc epspos'>5.94</span><span class='epsinc epspos'>0.94</span><span class=''>-2.75</span>
   cmp: 194.20
   day: -1.45
@@ -13566,7 +13566,7 @@
   stake: 0
   mcap: 855
   cap: smallcap
-  rank: 1508
+  rank: 0
   eps: <span class='epsinc epspos'>12.72</span><span class='epsdec epsneg'>-15.63</span><span class='epsinc epspos'>17.32</span><span class='epsinc epspos'>2.92</span><span class=''>-40.03</span>
   cmp: 624.15
   day: -1.37
@@ -13575,7 +13575,7 @@
   stake: 0
   mcap: 142
   cap: smallcap
-  rank: 1509
+  rank: 0
   eps: <span class='epsdec epspos'>9.93</span><span class='epsinc epspos'>13.20</span><span class='epsdec epspos'>9.51</span><span class='epsinc epspos'>10.40</span><span class=''>3.96</span>
   cmp: 786.30
   day: -3.35
@@ -13584,7 +13584,7 @@
   stake: 0
   mcap: 107
   cap: smallcap
-  rank: 1510
+  rank: 0
   eps: <span class='epsdec epsneg'>-5.15</span><span class='epsinc epspos'>12.87</span><span class='epsinc epspos'>0.90</span><span class='epsinc epsneg'>-3.07</span><span class=''>-4.77</span>
   cmp: 155.00
   day: -1.18
@@ -13593,7 +13593,7 @@
   stake: 2
   mcap: 2141
   cap: smallcap
-  rank: 1511
+  rank: 0
   eps: <span class='epsinc epspos'>9.55</span><span class='epsdec epspos'>7.95</span><span class='epsinc epspos'>8.00</span><span class='epsinc epspos'>6.02</span><span class=''>2.92</span>
   cmp: 1143.85
   day: -2.39
@@ -13602,7 +13602,7 @@
   stake: 0
   mcap: 372
   cap: smallcap
-  rank: 1512
+  rank: 0
   eps: <span class='epsinc epspos'>4.96</span><span class='epsdec epsneg'>-5.89</span><span class='epsinc epspos'>2.54</span><span class='epsdec epsneg'>-4.15</span><span class=''>-0.14</span>
   cmp: 660.00
   day: -2.37
@@ -13611,7 +13611,7 @@
   stake: 1
   mcap: 1038
   cap: smallcap
-  rank: 1513
+  rank: 0
   eps: <span class='epsdec epsneg'>-5.88</span><span class='epsdec epspos'>8.16</span><span class='epsinc epspos'>9.21</span><span class='epsinc epspos'>5.44</span><span class=''>-2.87</span>
   cmp: 491.75
   day: 0.11
@@ -13620,7 +13620,7 @@
   stake: 0
   mcap: 361
   cap: smallcap
-  rank: 1514
+  rank: 0
   eps: <span class='epsdec epspos'>2.54</span><span class='epsdec epspos'>3.62</span><span class='epsinc epspos'>4.36</span><span class='epsinc epspos'>3.08</span><span class=''>0.08</span>
   cmp: 280.15
   day: -2.88
@@ -13629,7 +13629,7 @@
   stake: 0
   mcap: 147
   cap: smallcap
-  rank: 1515
+  rank: 0
   eps: <span class='epsdec epsneg'>-0.01</span><span class='epsinc epspos'>0.14</span><span class='epsdec epspos'>0.01</span><span class='epsdec epspos'>0.03</span><span class=''>0.07</span>
   cmp: 6.30
   day: -4.55
@@ -13638,7 +13638,7 @@
   stake: 4
   mcap: 16712
   cap: midcap
-  rank: 1516
+  rank: 0
   eps: <span class='epsinc epspos'>2.18</span><span class='epsdec epspos'>0.25</span><span class='epsinc epspos'>1.86</span><span class='epsdec epspos'>1.66</span><span class=''>2.58</span>
   cmp: 58.25
   day: -3.00
@@ -13647,7 +13647,7 @@
   stake: 0
   mcap: 25
   cap: smallcap
-  rank: 1517
+  rank: 0
   eps: <span class='epsinc epsneg'>-4.37</span><span class='epsdec epsneg'>-50.48</span><span class='epsdec epsneg'>-1.14</span><span class='epsinc epspos'>102.89</span><span class=''>-4.76</span>
   cmp: 20.50
   day: -2.15
@@ -13656,7 +13656,7 @@
   stake: 1
   mcap: 2794
   cap: smallcap
-  rank: 1518
+  rank: 0
   eps: <span class='epsdec epsneg'>-1.63</span><span class='epsinc epsneg'>-1.47</span><span class='epsinc epsneg'>-1.52</span><span class='epsinc epsneg'>-1.75</span><span class=''>-5.47</span>
   cmp: 37.15
   day: 2.91
@@ -13665,7 +13665,7 @@
   stake: 0
   mcap: 64
   cap: smallcap
-  rank: 1519
+  rank: 0
   eps: <span class='epsinc epsneg'>-0.18</span><span class='epsdec epsneg'>-0.55</span><span class='epsdec epsneg'>-0.19</span><span class='epsinc epspos'>0.37</span><span class=''>-0.96</span>
   cmp: 9.15
   day: -3.17
@@ -13674,7 +13674,7 @@
   stake: 0
   mcap: 3495
   cap: smallcap
-  rank: 1520
+  rank: 0
   eps: <span class='epsdec epspos'>0.19</span><span class='epsinc epspos'>0.96</span><span class='epsdec epspos'>0.94</span><span class='epsdec epspos'>5.57</span><span class=''>10.59</span>
   cmp: 569.60
   day: -1.86
@@ -13683,7 +13683,7 @@
   stake: 0
   mcap: 173
   cap: smallcap
-  rank: 1521
+  rank: 0
   eps: <span class='epsdec epsneg'>-4.00</span><span class='epsinc epspos'>6.39</span><span class='epsdec epspos'>1.79</span><span class='epsinc epspos'>7.55</span><span class=''>-20.56</span>
   cmp: 210.25
   day: 0.05
@@ -13692,7 +13692,7 @@
   stake: 0
   mcap: 699
   cap: smallcap
-  rank: 1522
+  rank: 0
   eps: <span class='epsdec epspos'>7.95</span><span class='epsinc epspos'>16.37</span><span class='epsinc epspos'>13.50</span><span class='epsinc epspos'>8.89</span><span class=''>3.67</span>
   cmp: 761.05
   day: -0.18
@@ -13701,7 +13701,7 @@
   stake: 2
   mcap: 371
   cap: smallcap
-  rank: 1523
+  rank: 0
   eps: <span class='epsinc epspos'>8.96</span><span class='epsinc epspos'>7.30</span><span class='epsinc epspos'>3.07</span><span class='epsdec epsneg'>-2.22</span><span class=''>7.52</span>
   cmp: 187.20
   day: -2.58
@@ -13710,7 +13710,7 @@
   stake: 0
   mcap: 47
   cap: smallcap
-  rank: 1524
+  rank: 0
   eps: <span class='epsinc epsneg'>-1.22</span><span class='epsdec epsneg'>-9.34</span><span class='epsinc epsneg'>-4.98</span><span class='epsdec epsneg'>-10.63</span><span class=''>3.36</span>
   cmp: 18.65
   day: -3.37
@@ -13719,7 +13719,7 @@
   stake: 1
   mcap: 1487
   cap: smallcap
-  rank: 1525
+  rank: 0
   eps: <span class='epsdec epsneg'>-1.54</span><span class='epsinc epspos'>0.08</span><span class='epsinc epsneg'>-0.14</span><span class='epsdec epsneg'>-0.94</span><span class=''>-0.91</span>
   cmp: 4.70
   day: 2.17
@@ -13728,7 +13728,7 @@
   stake: 0
   mcap: 39
   cap: smallcap
-  rank: 1526
+  rank: 0
   eps: <span class='epsinc epspos'>0.52</span><span class='epsdec epsneg'>-0.63</span><span class='epsinc epspos'>1.46</span><span class='epsinc epspos'>0.55</span><span class=''>-0.32</span>
   cmp: 24.00
   day: 0.00
@@ -13737,7 +13737,7 @@
   stake: 2
   mcap: 15022
   cap: midcap
-  rank: 1527
+  rank: 0
   eps: <span class='epsinc epspos'>20.08</span><span class='epsdec epspos'>18.40</span><span class='epsinc epspos'>20.41</span><span class='epsinc epspos'>19.51</span><span class=''>16.93</span>
   cmp: 2185.15
   day: -0.77
@@ -13746,7 +13746,7 @@
   stake: 4
   mcap: 4848
   cap: smallcap
-  rank: 1528
+  rank: 0
   eps: <span class='epsinc epspos'>10.51</span><span class='epsinc epspos'>7.14</span><span class='epsdec epspos'>6.13</span><span class='epsinc epspos'>8.15</span><span class=''>0.04</span>
   cmp: 1268.75
   day: -0.49
@@ -13755,7 +13755,7 @@
   stake: 5
   mcap: 3134
   cap: smallcap
-  rank: 1529
+  rank: 0
   eps: <span class='epsdec epsneg'>-0.75</span><span class='epsdec epspos'>0.63</span><span class='epsinc epspos'>2.18</span><span class='epsinc epspos'>0.34</span><span class=''>-0.79</span>
   cmp: 131.75
   day: -0.98
@@ -13764,7 +13764,7 @@
   stake: 0
   mcap: 17
   cap: smallcap
-  rank: 1530
+  rank: 0
   eps: <span class='epsdec epsneg'>-23.11</span><span class='epsinc epsneg'>-11.61</span><span class='epsdec epsneg'>-12.95</span><span class='epsinc epsneg'>-10.71</span><span class='hasrating'>-15.82</span>
   cmp: 3.90
   day: -3.70
@@ -13773,7 +13773,7 @@
   stake: 0
   mcap: 28
   cap: smallcap
-  rank: 1531
+  rank: 0
   eps: <span class='epsinc epsneg'>-10.54</span><span class='epsinc epsneg'>-91.42</span><span class='epsinc epsneg'>-108.22</span><span class='epsdec epsneg'>-376.36</span><span class='hasrating'>47.28</span>
   cmp: 1.70
   day: -2.86
@@ -13782,7 +13782,7 @@
   stake: 0
   mcap: 101
   cap: smallcap
-  rank: 1532
+  rank: 0
   eps: <span class='epsdec epsneg'>-188.63</span><span class='epsinc epsneg'>-1.93</span><span class='epsinc epsneg'>-3.17</span><span class='epsdec epsneg'>-4.43</span><span class='hasrating'>-1.41</span>
   cmp: 12.50
   day: 9.65
@@ -13791,7 +13791,7 @@
   stake: 0
   mcap: 274
   cap: smallcap
-  rank: 1533
+  rank: 0
   eps: <span class='epsdec epsneg'>-284.55</span><span class='epsinc epspos'>0.18</span><span class='hasrating'>0.17</span>
   cmp: 4.65
   day: -1.06
@@ -13800,7 +13800,7 @@
   stake: 0
   mcap: 32
   cap: smallcap
-  rank: 1534
+  rank: 0
   eps: 
   cmp: 
   day: 0
@@ -13809,7 +13809,7 @@
   stake: 0
   mcap: 6
   cap: smallcap
-  rank: 1535
+  rank: 0
   eps: 
   cmp: 
   day: 0
@@ -13818,7 +13818,7 @@
   stake: 0
   mcap: 6
   cap: smallcap
-  rank: 1536
+  rank: 0
   eps: 
   cmp: 
   day: 0
@@ -13827,7 +13827,7 @@
   stake: 0
   mcap: 2
   cap: smallcap
-  rank: 1537
+  rank: 0
   eps: 
   cmp: 
   day: 0
@@ -13836,7 +13836,7 @@
   stake: 0
   mcap: 21
   cap: smallcap
-  rank: 1538
+  rank: 0
   eps: 
   cmp: 
   day: 0
@@ -13845,7 +13845,7 @@
   stake: 0
   mcap: 15
   cap: smallcap
-  rank: 1539
+  rank: 0
   eps: 
   cmp: 
   day: 0
@@ -13854,7 +13854,7 @@
   stake: 0
   mcap: 22
   cap: smallcap
-  rank: 1540
+  rank: 0
   eps: 
   cmp: 
   day: 0
@@ -13863,7 +13863,7 @@
   stake: 0
   mcap: 10
   cap: smallcap
-  rank: 1541
+  rank: 0
   eps: 
   cmp: 
   day: 0
@@ -13872,7 +13872,7 @@
   stake: 2
   mcap: 1994
   cap: smallcap
-  rank: 1542
+  rank: 0
   eps: 
   cmp: 
   day: 0
@@ -13881,7 +13881,7 @@
   stake: 0
   mcap: 4
   cap: smallcap
-  rank: 1543
+  rank: 0
   eps: 
   cmp: 
   day: 0
@@ -13890,7 +13890,7 @@
   stake: 0
   mcap: 102
   cap: smallcap
-  rank: 1544
+  rank: 0
   eps: 
   cmp: 
   day: 0
@@ -13899,7 +13899,7 @@
   stake: 0
   mcap: 23
   cap: smallcap
-  rank: 1545
+  rank: 0
   eps: 
   cmp: 
   day: 0
@@ -13908,7 +13908,7 @@
   stake: 0
   mcap: 57
   cap: smallcap
-  rank: 1546
+  rank: 0
   eps: 
   cmp: 
   day: 0
@@ -13917,7 +13917,7 @@
   stake: 0
   mcap: 29
   cap: smallcap
-  rank: 1547
+  rank: 0
   eps: 
   cmp: 
   day: 0
@@ -13926,7 +13926,7 @@
   stake: 0
   mcap: 38
   cap: smallcap
-  rank: 1548
+  rank: 0
   eps: 
   cmp: 
   day: 0
