@@ -1,0 +1,648 @@
+body{
+	margin:0;
+	padding: 0;
+	font-family: Roboto,"Helvetica Neue",sans-serif;
+	counter-reset: Serial;
+}
+@-webkit-keyframes spin {
+  0% { -webkit-transform: rotate(0deg); }
+  100% { -webkit-transform: rotate(360deg); }
+}
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+.hidden{
+	display:none;
+}
+.loader {
+  border: 5px solid #f3f3f3;
+  border-radius: 50%;
+  border-top: 5px solid #3498db;
+  width: 25px;
+  height: 25px;
+  -webkit-animation: spin 2s linear infinite; /* Safari */
+  animation: spin 2s linear infinite;
+}
+.error{
+	color: #cc0000;
+}
+.bold{
+	font-weight: bold;
+}
+.clear{
+	clear:both;
+}
+.color-primary{
+	color: #175874;
+}
+.color-primary-bg{
+	background-color: #175874;
+}
+.content-wrap{
+	margin: 4% 4%;
+	word-break: break-word;
+}
+.site-header{
+	font-family: sans-serif;
+	font-size: 26px;
+	line-height: 32px;
+	font-weight: 700;
+	margin-bottom: 5%;
+	user-select: none;
+}
+.step-header{
+	display: flex;
+	flex-direction: row;
+	min-width: 0;
+	padding-bottom: 12px;
+	user-select: none;
+}
+.step-inputs{
+	user-select: none;
+}
+.step-no{
+	background-color: #039be5;
+	color: #ffffff;
+	border-radius: 50%;
+	flex: 0 0 auto;
+	font-weight: 600;
+	font-size: 16px;
+	line-height: 24px;
+	font-family: Roboto,"Helvetica Neue",sans-serif;
+	height: 24px;
+	position: relative;
+	text-align: center;
+	width: 24px;
+	user-select: none;
+}
+.step-title{
+	color: rgba(0,0,0,0.87);
+	font-weight: 600;
+	font-size: 16px;
+	line-height: 24px;
+	font-family: Roboto,"Helvetica Neue",sans-serif;
+	margin-left: 20px;
+	user-select: none;
+}
+.step-wrap{
+	margin: 0 0 40px 44px;
+}
+.step-description{
+	color:#777777;
+	margin-bottom: 20px;
+	user-select: none;
+}
+.input-description{
+	color:#777777;
+	margin-bottom: 5px;
+	font-size: 13px;
+	user-select: none;
+}
+.input-container{
+	margin-bottom: 20px;
+}
+.input-container textarea, .input-container select, .input-container input[type="text"], .input-container input[type="date"], .input-container input[type="password"], .input-container input[type="url"], .input-container input[type="number"], .input-container input[type="email"], .input-container input[type="tel"], .input-container input[type="file"],.input-element {
+    background-color: #fff;
+    border: 0;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+    box-sizing: border-box;
+    color: rgba(0,0,0,0.87);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    margin: 0;
+    max-width: 100%;
+    outline: 0;
+    padding: 6px !important;
+    transition: box-shadow .15s;
+    vertical-align: middle;
+    -moz-box-shadow: 0 0 0 2px transparent inset,0 0 0 1px #e0e0e0 inset;
+    box-shadow: 0 0 0 2px transparent inset,0 0 0 1px #e0e0e0 inset;
+    width: 390px;
+    max-height: 36px;
+}
+.input-container textarea {
+	max-height:500px;
+	width:100%;
+}
+textarea {
+	font-family: Roboto,"Helvetica Neue",sans-serif !important;
+}
+button {
+    box-sizing: border-box;
+    position: relative;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    cursor: pointer;
+    outline: none;
+    border: none;
+    -webkit-tap-highlight-color: transparent;
+    display: inline-block;
+    white-space: nowrap;
+    text-decoration: none;
+    vertical-align: baseline;
+    text-align: center;
+    margin: 0;
+    min-width: 88px;
+    line-height: 36px;
+    padding: 0 16px;
+        padding-right: 16px;
+        padding-left: 16px;
+    border-radius: 2px;
+    overflow: visible;
+    transform: translate3d(0, 0, 0);
+    transition: box-shadow .2s ease,background-color .2s ease;
+	background-color: #039be5;
+	-moz-box-shadow: none;
+	box-shadow: none;
+	color: #fff;
+	font-family: Roboto,"Helvetica Neue",sans-serif;
+	font-size: 14px;
+	font-weight: 600;
+}
+.logsection {
+  margin: 5px 0;
+}
+.step-outputs {
+  font-size: 13px;
+}
+
+a, a:active, a:focus, a:hover, a:visited {
+    color: white;
+    padding: 3px 10px;
+    text-decoration: none;
+    border-radius: 8px;
+	margin: 1px;
+	display: inline-block;
+	background-color: red;
+}
+a[href="#"], a[href="#"]:active, a[href="#"]:focus, a[href="#"]:hover, a[href="#"]:visited,
+a[target="_blank"], a[target="_blank"]:active, a[target="_blank"]:focus, a[target="_blank"]:hover, a[target="_blank"]:visited {
+    padding: 3px 30px 3px 10px;
+	background-color: black;
+	background-image: url('assets/images/ic_new_tab.png');
+	background-repeat: no-repeat;
+	background-position: right;
+	background-size: contain;
+}
+
+.collapsehandle{
+	width: 15px;
+    background: #888;
+    display: table-cell;
+	cursor: pointer;
+}
+.logtext{
+    display: table-cell;
+    padding-left: 10px;
+    color: #888;
+}
+.showall{
+	cursor: pointer;
+    color: #888;
+    font-weight: 400;
+	display:none;
+	padding-left: 10px;
+	font-style: italic;
+}
+.collapsed .showall{
+	display:table-cell;
+}
+.collapsed .logtext{
+	display:none;
+}
+.message.failed{
+	color: red;
+}.message.success{
+	color: green;
+}
+#total-wealth {
+	max-width: 300px;
+}
+#reports-table {
+	max-width: 350px;
+}
+#reports-table .month{
+	cursor: pointer;
+	width: 150px;
+}
+#reports-table .month-total{
+	width: 100px;
+}
+#reports-table .estimated {
+	color: crimson;
+}
+/* Step 1*/
+.img-preview{
+	margin-right: 10px;
+	margin-bottom: 10px;
+	display: inline-block;
+}
+.img-preview img{
+	background: #eee;
+	height:50px;
+	padding: 10px;
+}
+/* Step 9*/
+.excel-table{
+	/*! width: 100%; */
+	/*! border-collapse: collapse; */
+	margin-bottom: 20px;
+	border: 1px solid #ccc;
+}
+.excel-table  td{
+	border: 1px solid #ccc;
+}
+.excel-table .td-padding{
+	padding:5px;
+}
+.excel-table input {
+    border: 1px solid transparent;
+}
+.excel-table input:focus {
+    border: 1px solid #999;
+}
+.excel-table .colored{
+	background: #EEE;
+	user-select: none;
+}
+.excel-table .col-no{
+	width: 30px;
+}
+.excel-table .col-data * {
+	user-select: text;
+}
+.excel-table .col-data input{
+	width: 100%;
+	font-size: 16px;
+	background-color: transparent;
+}
+.excel-table .price {
+	width: 130px;
+}
+.excel-table .percent {
+	width: 75px;
+}
+.excel-table .date {
+	width: 142px;
+}
+.excel-table .col-sector-p .td-padding {
+	width: 100px;
+	overflow: hidden;
+	line-break: anywhere;
+	white-space: nowrap;
+	margin: 5px;
+	padding: 0;
+}
+.excel-table .col-eps {
+	width: 335px;
+}
+.excel-table .col-eps span:nth-child(n+6) {
+	display:none;
+}
+.excel-table .col-eps span {
+	margin: 0 10px 0 0;
+}
+.align-right {
+	text-align: right;
+}
+.excel-table .new-row {
+	order: 9999;
+}
+.excel-table .align-right input {
+	text-align: right;
+}
+.switch {
+	display: flex;
+}
+.switch label {
+	padding: 10px;
+	border-radius: 3px;
+	margin-right: 10px;
+	cursor: pointer;
+	user-select: none;
+	white-space: nowrap;
+}
+.news-row .switch input + label {
+	background-color: #039be5;
+	color: white;
+}
+.news-row .switch input:checked + label {
+	background-color: #FF0000;
+}
+.switch input:checked + label {
+	background-color: #039be5;
+	color: white;
+}
+.switch input {
+	display:none;
+}
+.switch input:checked {
+	display:none;
+}
+.alert-r {
+	background-color: #ffc7ce;
+	color: cc0000;
+}
+.alert-g {
+	background-color: #c6efce;
+	color: 005500;
+}
+.excel-table .sortable {
+	cursor: pointer;
+	color: white;
+	background-color: #039be5;
+	user-select: none;
+}
+.excel-table input.modified{
+	color: red;
+}
+#chart {
+	height: 500px;
+	width: 500px;
+	margin-top: 20px;
+}
+.chart-title{
+	color: rgba(0,0,0,0.5);
+	font-weight: 600;
+	font-size: 20px;
+	line-height: 20px;
+	font-family: Roboto,"Helvetica Neue",sans-serif;
+	margin-bottom: 5px;
+}
+.chart-card {
+	display: inline-block;
+	padding: 20px;
+	border: 1px solid #aaa;
+	border-radius: 10px;
+}
+.chart-st-info-row {
+	display: flex;
+}
+.chart-st-info {
+    max-width: 200px;
+	padding: 16px;
+}
+.chart-st-info-row .legend {
+    width: 75px;
+}
+.chart-st-info-row .value {
+    text-align: right;
+	flex-grow: 1;
+}
+
+.tab-wrapper {
+	margin-bottom: 20px;
+}
+.tab {
+	background-color: #eee;
+	color: black;
+}
+.tab.active {
+	background-color: #039be5;
+	color: #ffffff;
+}
+/*
+.auto-index::before {
+	counter-increment: Serial;
+	content: counter(Serial);
+}
+*/
+.options {
+	cursor: pointer;
+}
+.options-selected {
+	background-color: lightsteelblue;
+}
+
+.tr{
+	display: flex;
+}
+.td {
+    border: 1px solid #ccc;
+}
+
+.hiddentr{
+	display:none;
+}
+
+#watchlistTable { 
+	display: inline-flex; 
+	flex-direction: column;
+}
+.sticky-row {
+	position: sticky;
+	top: 0;
+	z-index: 3;
+	box-shadow: 0 4px 10px rgba(5,27,44,.06),0 5px 6px rgba(5,27,44,.08) !important;
+}
+.sticky-col {
+	position: sticky;
+	left: 0;
+	z-index: 2;
+	background-color: #ffffff;
+    box-shadow: 4px 0px 10px rgba(5,27,44,.06),5px 0 3px rgba(5,27,44,.04);
+}
+
+.field-symbol a, .field-symbol a:hover, .field-symbol a:visited, .field-symbol a:focus {
+	cursor: pointer;
+	background: none;
+	color: black;
+	margin: 0;
+	padding: 0;
+	width: 100%;
+}
+.field-comment{
+	font-size: 12px;
+}
+.notooltip{
+	color: transparent;
+}
+
+.field_cmt_comment{
+	height: 200px;
+	width: 400px;
+	margin-top: 20px;
+	max-width: 100%;
+}
+
+ /* Tooltip container */
+.tooltip {
+  position: relative;
+  display: inline-block;
+}
+
+/* Tooltip text */
+.col-stake .tooltiptext {
+	left: 50px;
+}
+.field-comment .tooltiptext {
+	left: 250%;
+	margin-left: -60px;
+}
+.tooltip .tooltiptext {
+  visibility: hidden;
+  width: 140px;
+  background-color: #000;
+  color: #fff;
+  text-align: left;
+  padding: 5px;
+  border-radius: 6px;
+  font-size: 12px;
+
+  /* Position the tooltip text */
+  position: absolute;
+  z-index: 4;
+  bottom: 125%;
+
+  /* Fade in tooltip */
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+/* Tooltip arrow */
+.tooltip .tooltiptext::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 7%;
+  margin-left: -5px;
+  border-width: 5px;
+  border-style: solid;
+  border-color: #000 transparent transparent transparent;
+}
+
+/* Show the tooltip text when you mouse over the tooltip container */
+.tooltip:hover .tooltiptext {
+  visibility: visible;
+  opacity: 1;
+} 
+.news-table {
+	max-width: 700px;
+}
+.news-new {
+	display: list-item;
+	color: darkorange;
+	font-size: 22px;
+	list-style: square;
+}
+.news-row {
+	padding: 20px;
+	margin-bottom: 20px;
+    border: 1px solid #ddd;
+}
+.news-unread {
+	background: #f0f0f0;
+    border: 1px solid #f0f0f0;
+}
+.news-title {
+	font-size: 28px;
+}
+.news-date {
+	color: grey;
+	margin-bottom: 16px;
+}
+.news-symbols {
+	margin-bottom: 16px;
+}
+.news-row.selected {
+	border-left: 10px solid red;
+}
+.news-desc a, .news-desc a:active, .news-desc a:hover, .news-desc a:focus, .news-desc a:visited {
+	padding: inherit;
+	background: transparent;
+	color: black;
+	cursor: pointer;
+}
+
+.news-type {
+	font-size: 30px;
+	padding: 16px;
+	font-weight: bold;
+	margin: 20px 0;
+	background: darkcyan;
+	color: white;
+}
+
+.chart-row{
+	margin-bottom: 25px;
+}
+.chart-wrapper {
+	flex-grow: 1;
+	overflow-x: auto;
+	direction: rtl;
+}
+.chart-scroll {
+	width: 2000px;
+}
+.sector-list {
+	min-width: 350px;
+	max-height: 525px;
+    overflow-y: scroll;
+}
+.sector-name {
+	cursor: pointer;
+}
+.sector-name .mark {
+	width: 14px;
+	margin-right: 2px;
+	display: inline-block;
+	content: '';
+	height: 14px;
+	border-radius: 7px;
+}
+.sector-name.not-showing .mark {
+	display: none;
+}
+.holdings-on .watchlist, .holdings-on .suggested, .holdings-on .chart-row, .holdings-on .filter-row, 
+.watchlist-on .holdings, .watchlist-on .suggested, .watchlist-on .chart-row, .watchlist-on .filter-row, 
+.suggested-on .holdings, .suggested-on .watchlist, .suggested-on .suggested{
+	display: none;
+}
+.holdings-on .col-buy, .holdings-on .col-cmp-p, .holdings-on .col-stake, .holdings-on .new-row{
+	display: none;
+}
+.watchlist-on .col-invested, .watchlist-on .col-unrealized, .watchlist-on .col-avg, .watchlist-on .col-stt-p, .watchlist-on .col-acheived-p{
+	display: none;
+}
+.suggested-on .col-invested, .suggested-on .col-avg, .suggested-on .col-by, .suggested-on .col-stt-p, .suggested-on .new-row{
+	display: none;
+}
+.suggested-on .sec-showing, .suggested-on .filter-row, .suggested-on .searched {
+	display: flex;
+}
+.suggested-on .chart-row {
+	display: flex;
+}
+.filter-row {
+	background: #eee;
+	width: 260px;
+	padding: 10px;
+	margin-bottom: 20px;
+}
+.filter-row .field-symbol {
+	background: transparent;
+	width: 255px;
+	border: none;
+}
+.filter-row .field-symbol:focus {
+	border: none;
+	outline: none;
+}
+.epsinc.epspos {
+	background-color: green;
+	color: white;
+	padding: 4px;
+	border-radius: 5px;
+}
+
+@media screen and (max-width: 500px) {
+	#chart {
+		height: 280px;
+		width: 280px;
+	}
+}

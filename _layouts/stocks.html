@@ -1,0 +1,42 @@
+<html><head>
+	<link href="style.css" rel="stylesheet">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale = 1, maximum-scale= 1"> 
+</head>
+
+<body class="suggested-on">
+	<div class="content-wrap">
+	
+		<div class="site-header">Stock Market Monitor</div>
+		
+		<div id="watchlistTable" class="excel-table" cellpadding="0" cellspacing="0">
+			<div class="tr sticky-row">
+				<div class="td colored col-no"><div class="td-padding field-comment notooltip"></div></div>
+				<div class="td colored price sticky-col"><div class="td-padding">SYMBOL</div></div>
+				<div class="td colored percent align-right col-rating"><div class="td-padding">RANK</div></div>
+				<div class="td colored col-eps"><div class="td-padding">EPS</div></div>
+				<div class="td colored price align-right col-cmp"><div class="td-padding">CMP</div></div>
+				<div class="td colored percent align-right col-day-p"><div class="td-padding">DAY%</div></div>
+			</div>
+			{% for stock in site.stocks %}
+			<div class="tr updatable">
+				<div class="td col-no colored options"></div>
+				<div class="td col-data price sticky-col">
+					<div class="td-padding field-symbol">
+					{{ stock.symbol }}
+					</div>
+				</div>
+				<div class="td col-data percent align-right col-rating">
+					<div class="td-padding">{{ stock.rank }}</div>
+				</div>
+				<div class="td col-data col-eps"><div class="td-padding">
+					{{ stock.eps }}
+				</div></div>
+				<div class="td col-data price align-right col-cmp"><div class="td-padding field-cmp">{{ stock.cmp }}</div></div>				
+				<div class="td col-data percent align-right col-day-p"><div class="td-padding field-day-p">{{ stock.day }}</div></div>
+			</div>
+			{% endfor %}
+		</div>
+		
+	</div>
+	
+</body></html>
