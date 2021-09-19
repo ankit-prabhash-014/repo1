@@ -637,10 +637,18 @@ a[target="_blank"], a[target="_blank"]:active, a[target="_blank"]:focus, a[targe
 	outline: none;
 }
 .epsinc.epspos {
-	background-color: green;
-	color: white;
+    background-color: #FCCF14;
+	color: black;
 	padding: 4px;
 	border-radius: 5px;
+}
+.largecap {
+	background-color: deeppink;
+	color: white;
+}
+.midcap {
+	background-color: #00D2E8;
+	color: white;
 }
 
 @media screen and (max-width: 500px) {
