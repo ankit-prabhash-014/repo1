@@ -5,13 +5,16 @@
 
 <body class="suggested-on">
 	<div class="content-wrap">
-	
+
 		<div class="site-header">Stock Market Monitor</div>
-		
+		<div class="site-description">Last updated on: {{ site.last_updated_on }}</div>
+
 		<div id="watchlistTable" class="excel-table" cellpadding="0" cellspacing="0">
 			<div class="tr sticky-row">
 				<div class="td colored col-no"><div class="td-padding field-comment notooltip"></div></div>
 				<div class="td colored price sticky-col"><div class="td-padding">SYMBOL</div></div>
+				<div class="td colored col-sector-p"><div class="td-padding">SECTOR</div></div>
+				<div class="td colored percent align-right col-stake"><div class="td-padding">SEC%</div></div>
 				<div class="td colored percent align-right col-rating"><div class="td-padding">RANK</div></div>
 				<div class="td colored col-eps"><div class="td-padding">EPS</div></div>
 				<div class="td colored price align-right col-cmp"><div class="td-padding">CMP</div></div>
@@ -24,6 +27,13 @@
 					<div class="td-padding field-symbol">
 					{{ stock.symbol }}
 					</div>
+				</div>
+				<div class="td col-data col-sector-p">
+					<div class="td-padding">{{ stock.sector }}</div>
+				</div>
+				<div class="td col-data percent align-right col-stake tooltip {{ stock.cap }}">
+					<span class='tooltiptext'>{{ stock.mcap }} Cr</span>
+					<div class="td-padding">{{ stock.stake }}</div>
 				</div>
 				<div class="td col-data percent align-right col-rating">
 					<div class="td-padding">{{ stock.rank }}</div>

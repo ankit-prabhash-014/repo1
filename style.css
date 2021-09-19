@@ -51,6 +51,9 @@ body{
 	margin-bottom: 5%;
 	user-select: none;
 }
+.site-description{
+    margin-bottom: 30px;
+}
 .step-header{
 	display: flex;
 	flex-direction: row;
