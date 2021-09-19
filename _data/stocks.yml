@@ -1055,7 +1055,7 @@
   sector: Asset Management
   stake: 24
   mcap: 36528
-  cap: midcap
+  cap: largecap
   rank: 118
   eps: <span class='epsdec epspos'>70.00</span><span class='epsdec epspos'>85.30</span><span class='epsinc epspos'>103.30</span><span class='epsinc epspos'>78.40</span><span class='hasrating'>61.00</span>
   cmp: 4398.85
@@ -1082,7 +1082,7 @@
   sector: Public Banks
   stake: 8
   mcap: 36201
-  cap: midcap
+  cap: largecap
   rank: 121
   eps: <span class='epsinc epspos'>1.09</span><span class='epsdec epspos'>0.67</span><span class='epsinc epspos'>0.78</span><span class='epsinc epspos'>0.61</span><span class='hasrating'>0.57</span>
   cmp: 39.75
@@ -1811,7 +1811,7 @@
   sector: Private Banks
   stake: 2
   mcap: 42593
-  cap: midcap
+  cap: largecap
   rank: 202
   eps: <span class='epsinc epspos'>0.08</span><span class='epsdec epsneg'>-1.51</span><span class='epsinc epspos'>0.06</span><span class='epsinc epspos'>0.05</span><span class='hasrating'>0.03</span>
   cmp: 13.25
@@ -3791,7 +3791,7 @@
   sector: Oil & Gas
   stake: 2
   mcap: 36203
-  cap: midcap
+  cap: largecap
   rank: 422
   eps: <span class='epsinc epspos'>4.47</span><span class='epsdec epspos'>4.25</span><span class='epsdec epspos'>5.88</span><span class='epsinc epspos'>6.13</span><span class='hasrating'>3.33</span>
   cmp: 232.20
@@ -4691,7 +4691,7 @@
   sector: Pharmaceuticals
   stake: 4
   mcap: 36274
-  cap: midcap
+  cap: largecap
   rank: 522
   eps: <span class='epsinc epspos'>39.15</span><span class='epsdec epspos'>20.07</span><span class='epsdec epspos'>37.72</span><span class='epsinc epspos'>39.48</span><span class='hasrating'>35.30</span>
   cmp: 3824.95
@@ -5096,7 +5096,7 @@
   sector: Fertilizers & Agro Chemicals
   stake: 30
   mcap: 43306
-  cap: midcap
+  cap: largecap
   rank: 567
   eps: <span class='epsdec epspos'>8.08</span><span class='epsinc epspos'>12.75</span><span class='epsinc epspos'>10.38</span><span class='epsdec epspos'>6.07</span><span class='hasrating'>7.20</span>
   cmp: 742.35
@@ -6410,7 +6410,7 @@
   sector: Gas Distribution
   stake: 26
   mcap: 37394
-  cap: midcap
+  cap: largecap
   rank: 713
   eps: <span class='epsdec epspos'>3.97</span><span class='epsdec epspos'>5.36</span><span class='epsinc epspos'>5.45</span><span class='epsinc epspos'>5.44</span><span class='hasrating'>0.50</span>
   cmp: 561.35
@@ -6851,7 +6851,7 @@
   sector: Electronic Equipments
   stake: 50
   mcap: 35284
-  cap: midcap
+  cap: largecap
   rank: 762
   eps: <span class='epsdec epspos'>103.52</span><span class='epsdec epspos'>117.65</span><span class='epsinc epspos'>169.53</span><span class='epsinc epspos'>122.21</span><span class='hasrating'>110.93</span>
   cmp: 42571.15
@@ -6923,7 +6923,7 @@
   sector: Restaurants & Cafes
   stake: 83
   mcap: 36247
-  cap: midcap
+  cap: largecap
   rank: 770
   eps: <span class='epsdec epspos'>5.27</span><span class='epsdec epspos'>7.99</span><span class='epsinc epspos'>9.41</span><span class='epsinc epspos'>5.76</span><span class='hasrating'>-5.60</span>
   cmp: 4102.80
@@ -6932,7 +6932,7 @@
   sector: Hospitals & Diagnostic Centres
   stake: 30
   mcap: 36170
-  cap: midcap
+  cap: largecap
   rank: 771
   eps: <span class='epsinc epspos'>34.03</span><span class='epsinc epspos'>11.77</span><span class='epsinc epspos'>9.38</span><span class='epsinc epspos'>4.33</span><span class='hasrating'>-14.96</span>
   cmp: 4908.25
@@ -7355,7 +7355,7 @@
   sector: Tires & Rubber
   stake: 39
   mcap: 39151
-  cap: midcap
+  cap: largecap
   rank: 818
   eps: <span class='epsdec epspos'>390.41</span><span class='epsdec epspos'>783.16</span><span class='epsinc epspos'>1227.36</span><span class='epsinc epspos'>968.89</span><span class='hasrating'>31.73</span>
   cmp: 79397.25
@@ -7508,7 +7508,7 @@
   sector: FMCG
   stake: 6
   mcap: 41335
-  cap: midcap
+  cap: largecap
   rank: 835
   eps: <span class='epsdec epspos'>8.58</span><span class='epsinc epspos'>11.57</span><span class='epsdec epspos'>9.13</span><span class='epsinc epspos'>10.08</span><span class='hasrating'>7.29</span>
   cmp: 1732.55
@@ -7823,7 +7823,7 @@
   sector: FMCG
   stake: 6
   mcap: 36662
-  cap: midcap
+  cap: largecap
   rank: 870
   eps: <span class='epsdec epspos'>15.09</span><span class='epsdec epspos'>30.29</span><span class='epsdec epspos'>77.21</span><span class='epsinc epspos'>78.21</span><span class='hasrating'>21.32</span>
   cmp: 13923.20
@@ -8390,7 +8390,7 @@
   sector: Industrials
   stake: 9
   mcap: 35902
-  cap: midcap
+  cap: largecap
   rank: 933
   eps: <span class='epsdec epsneg'>-0.93</span><span class='epsinc epspos'>1.20</span><span class='epsinc epspos'>0.05</span><span class='epsinc epsneg'>-0.42</span><span class='hasrating'>-1.39</span>
   cmp: 125.15
@@ -9299,7 +9299,7 @@
   sector: Four Wheelers
   stake: 8
   mcap: 41102
-  cap: midcap
+  cap: largecap
   rank: 1034
   eps: <span class='epsdec epsneg'>-20.24</span><span class='epsinc epspos'>8.07</span><span class='hasrating'>-27.50</span>
   cmp: 146.55
@@ -9650,7 +9650,7 @@
   sector: Telecom Services
   stake: 9
   mcap: 36494
-  cap: midcap
+  cap: largecap
   rank: 1073
   eps: <span class='epsdec epsneg'>-2.55</span><span class='epsdec epsneg'>-2.44</span><span class='epsinc epsneg'>-1.58</span><span class='epsinc epsneg'>-2.51</span><span class='hasrating'>-8.86</span>
   cmp: 11.15
@@ -11504,7 +11504,7 @@
   sector: Materials
   stake: 7
   mcap: 35057
-  cap: midcap
+  cap: largecap
   rank: 0
   eps: <span class='epsdec epspos'>2.12</span><span class='epsdec epspos'>2.31</span><span class='epsinc epspos'>3.78</span><span class='epsinc epspos'>3.12</span><span class=''>0.62</span>
   cmp: 613.95
@@ -12494,7 +12494,7 @@
   sector: Pharmaceuticals
   stake: 4
   mcap: 37276
-  cap: midcap
+  cap: largecap
   rank: 0
   eps: <span class='epsinc epspos'>21.41</span><span class='epsinc epspos'>15.93</span><span class='epsdec epspos'>12.83</span><span class='epsdec epspos'>13.38</span><span class=''>20.24</span>
   cmp: 3962.90
