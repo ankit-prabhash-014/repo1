@@ -451,7 +451,7 @@ a[target="_blank"], a[target="_blank"]:active, a[target="_blank"]:focus, a[targe
     box-shadow: 4px 0px 10px rgba(5,27,44,.06),5px 0 3px rgba(5,27,44,.04);
 }
 
-.field-symbol a, .field-symbol a:hover, .field-symbol a:visited, .field-symbol a:focus {
+.field-symbol a, .field-symbol a:hover, .field-symbol a:visited, .field-symbol a:focus, .field-symbol a:active {
 	cursor: pointer;
 	background: none;
 	color: black;
