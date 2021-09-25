@@ -488,11 +488,14 @@ a[target="_blank"], a[target="_blank"]:active, a[target="_blank"]:focus, a[targe
 	margin-left: -60px;
 }
 .non-zero, .zero {
-	background-color: #fffd93;
-	margin-right: 5px;
+	background-color: #25990D;
+	margin: 5px 2px;
 	padding: 2px;
 	border-radius: 5px;
-	color: black;
+	color: white;
+	min-width: 30px;
+	display: inline-block;
+	text-align: center;
 }
 .zero {
     background-color: #ff0909;

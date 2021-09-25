@@ -53,7 +53,7 @@ function sortTable(n, direction) {
 	rows = $("#watchlistTable .tr");
 	var map = [];
 	
-    for (i = 0; i < (rows.length - 1); i++) {
+    for (i = 0; i < (rows.length); i++) {
 		x = rows[i].getElementsByClassName("td")[n];
 		map.push({"position": i, "value": Number($(x).text())});
 	}
