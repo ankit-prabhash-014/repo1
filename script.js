@@ -41,7 +41,7 @@ $(document).ready(function(){
 			if(val.startsWith('.')){
 				$(val).closest('.updatable').addClass('searched');
 			} else {
-				$('input[name="symbol[]"][value*="'+val.toUpperCase()+'"]').closest('.updatable').addClass('searched');
+				$('.field-symbol a:contains('+val.toUpperCase()+')').closest('.updatable').addClass('searched');
 			}
 		}
 	});	
