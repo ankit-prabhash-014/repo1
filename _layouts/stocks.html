@@ -59,7 +59,7 @@
 				<div class="td colored percent align-right col-day-p sortable" sortorder="1"><div class="td-padding">DAY%</div></div>
 			</div>
 			{% for stock in site.data.stocks %}
-			<div class="tr updatable suggested">
+			<div class="tr updatable suggested" sector='{{ stock.sector }}'>
 				<div class="td col-no colored options"></div>
 				<div class="td col-data price sticky-col">
 					<div class="td-padding field-symbol">
