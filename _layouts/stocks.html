@@ -1,5 +1,5 @@
 <html><head>
-	<link href="_assets/style.css" rel="stylesheet">
+	<link href="style.css" rel="stylesheet">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale = 1, maximum-scale= 1"> 
 </head>
 
@@ -51,10 +51,10 @@
 				<div class="td colored price sticky-col"><div class="td-padding">SYMBOL</div></div>
 				<div class="td colored col-sector-p"><div class="td-padding">SECTOR</div></div>
 				<div class="td colored percent align-right col-stake"><div class="td-padding">SEC%</div></div>
-				<div class="td colored percent align-right col-rating"><div class="td-padding">RANK</div></div>
+				<div class="td colored percent align-right col-rating sortable" sortorder="1"><div class="td-padding">RANK</div></div>
 				<div class="td colored col-eps"><div class="td-padding">EPS</div></div>
-				<div class="td colored price align-right col-cmp"><div class="td-padding">CMP</div></div>
-				<div class="td colored percent align-right col-day-p"><div class="td-padding">DAY%</div></div>
+				<div class="td colored price align-right col-cmp sortable" sortorder="1"><div class="td-padding">CMP</div></div>
+				<div class="td colored percent align-right col-day-p sortable" sortorder="1"><div class="td-padding">DAY%</div></div>
 			</div>
 			{% for stock in site.data.stocks %}
 			<div class="tr updatable">
@@ -86,7 +86,7 @@
 		
 	</div>
 	
-	<script type='text/javascript' src='_assets/jquery-1.8.3.min.js'></script>
-	<script type='text/javascript' src='_assets/chart.js'></script>
-	<script type='text/javascript' src='_assets/script.js'></script>
+	<script type='text/javascript' src='jquery-1.8.3.min.js'></script>
+	<script type='text/javascript' src='chart.js'></script>
+	<script type='text/javascript' src='script.js'></script>
 </body></html>
