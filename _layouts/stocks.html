@@ -33,7 +33,9 @@
 						{% endfor %}
 					];
 					window.labels = [
-						{{ site.data.labels }}
+					{% for label in site.data.labels %}
+						{{ label }},
+					{% endfor %}
 					];
 					</script>
 					<canvas id="sectorChart" style="width:800px;max-height:525px"></canvas>
