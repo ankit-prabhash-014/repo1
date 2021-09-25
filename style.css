@@ -487,6 +487,17 @@ a[target="_blank"], a[target="_blank"]:active, a[target="_blank"]:focus, a[targe
 	left: 250%;
 	margin-left: -60px;
 }
+.non-zero, .zero {
+	background-color: #fffd93;
+	margin-right: 5px;
+	padding: 2px;
+	border-radius: 5px;
+	color: black;
+}
+.zero {
+    background-color: #ff0909;
+	color: white;
+}
 .tooltip .tooltiptext {
   visibility: hidden;
   width: 180px;
