@@ -1,5 +1,5 @@
 <html><head>
-	<link href="style.css" rel="stylesheet">
+	<link href="_assets/style.css" rel="stylesheet">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale = 1, maximum-scale= 1"> 
 </head>
 
@@ -8,6 +8,42 @@
 
 		<div class="site-header">টাকার গাছ</div>
 		<div class="site-description">Last updated on: {{ site.last_updated_on }}</div>
+
+		<div class="tr chart-row">
+			<div class="sector-list">
+				{% for sector in site.data.sectors %}
+					<div class="sector-name not-showing" data-index="{{ sector.index }}">
+					<div class="mark" style="background-color:{{ sector.color }}"></div>
+					<span class="s-name">{{ sector.name }}</span></div>
+				{% endfor %}
+			</div>
+			<div class="chart-wrapper">
+				<div class="chart-scroll">
+					<script>
+					window.datasets = [
+						{% for sector in site.data.sectors %}
+						{
+						  fill: false,
+						  lineTension: 0.2,
+						  backgroundColor: {{ sector.color }},
+						  borderColor: {{ sector.color }},
+						  data: [{{ sector.data }}],
+						  hidden: true
+						},
+						{% endfor %}
+					];
+					window.labels = [
+						{{ site.data.labels }}
+					];
+					</script>
+					<canvas id="sectorChart" style="width:800px;max-height:525px"></canvas>
+				</div>
+			</div>
+		</div>
+
+		<div class="filter-row">
+			<input class='td-padding field-symbol' value='' placeholder='SYMBOL'/>
+		</div>
 
 		<div id="watchlistTable" class="excel-table" cellpadding="0" cellspacing="0">
 			<div class="tr sticky-row">
@@ -35,7 +71,8 @@
 					<span class='tooltiptext'>{{ stock.mcap }} Cr</span>
 					<div class="td-padding">{{ stock.stake }}</div>
 				</div>
-				<div class="td col-data percent align-right col-rating">
+				<div class="td col-data percent align-right col-rating tooltip">
+					<span class='tooltiptext'>{{ stock.pastRating }}</span>
 					<div class="td-padding">{{ stock.rank }}</div>
 				</div>
 				<div class="td col-data col-eps"><div class="td-padding">
@@ -49,4 +86,7 @@
 		
 	</div>
 	
+	<script type='text/javascript' src='_assets/jquery-1.8.3.min.js'></script>
+	<script type='text/javascript' src='_assets/chart.js'></script>
+	<script type='text/javascript' src='_assets/script.js'></script>
 </body></html>
