@@ -20,7 +20,7 @@ $(document).ready(function(){
 	$(".sector-name").on("click", function() {
 	   $(this).toggleClass("not-showing"); 
 	   var sector = $(this).find(".s-name").text(); 
-	   var index = $(this).attr("data-index");
+	   var index = $(this).attr("data-index")-1;
 	   window.datasets[index].hidden = !window.datasets[index].hidden;
 	   window.chart.update();
 	   $(".tr[sector='"+sector+"']").toggleClass('sec-showing');
