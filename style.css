@@ -294,7 +294,7 @@ a[target="_blank"], a[target="_blank"]:active, a[target="_blank"]:focus, a[targe
 	width: 142px;
 }
 .excel-table .col-sector-p .td-padding {
-	width: 100px;
+	width: 200px;
 	overflow: hidden;
 	line-break: anywhere;
 	white-space: nowrap;
