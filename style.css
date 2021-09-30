@@ -503,7 +503,7 @@ a[target="_blank"], a[target="_blank"]:active, a[target="_blank"]:focus, a[targe
 }
 .tooltip .tooltiptext {
   visibility: hidden;
-  width: 180px;
+  width: 200px;
   background-color: #000;
   color: #fff;
   text-align: left;
