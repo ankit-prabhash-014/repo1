@@ -656,15 +656,15 @@ a[target="_blank"], a[target="_blank"]:active, a[target="_blank"]:focus, a[targe
 	padding: 4px;
 	border-radius: 5px;
 }
-.largecap {
+.csslargecap {
 	background-color: deeppink;
 	color: white;
 }
-.midcap {
+.cssmidcap {
 	background-color: #00D2E8;
 	color: white;
 }
-.nocap {
+.cssnocap {
 	background-color: #EAEAEA;
 }
 @media screen and (max-width: 500px) {
