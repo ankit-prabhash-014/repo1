@@ -448,7 +448,7 @@ a[target="_blank"], a[target="_blank"]:active, a[target="_blank"]:focus, a[targe
 	z-index: 3;
 	box-shadow: 0 4px 10px rgba(5,27,44,.06),0 5px 6px rgba(5,27,44,.08) !important;
 }
-.sticky-col {
+.sticky-col.col-data .td-padding{
 	position: sticky;
 	left: 0;
 	z-index: 2;
@@ -506,7 +506,7 @@ a[target="_blank"], a[target="_blank"]:active, a[target="_blank"]:focus, a[targe
     background-color: #ff0909;
 	color: white;
 }
-.col-rating.tooltip .tooltiptext {
+.col-symbol.tooltip .tooltiptext, .col-rating.tooltip .tooltiptext {
 	width: 200px;
 }
 .tooltip .tooltiptext {
