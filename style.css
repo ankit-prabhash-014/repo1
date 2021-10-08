@@ -294,7 +294,7 @@ a[target="_blank"], a[target="_blank"]:active, a[target="_blank"]:focus, a[targe
 	width: 142px;
 }
 .excel-table .col-sector-p .td-padding {
-	width: 200px;
+	width: 100px;
 	overflow: hidden;
 	line-break: anywhere;
 	white-space: nowrap;
@@ -303,6 +303,11 @@ a[target="_blank"], a[target="_blank"]:active, a[target="_blank"]:focus, a[targe
 }
 .excel-table .col-eps {
 	width: 335px;
+}
+.holdings-on .excel-table .col-eps {
+	width: 250px;
+	white-space: nowrap;
+	overflow: hidden;
 }
 .excel-table .col-eps span:nth-child(n+6) {
 	display:none;
@@ -433,8 +438,8 @@ a[target="_blank"], a[target="_blank"]:active, a[target="_blank"]:focus, a[targe
 	display:none;
 }
 
-#watchlistTable { 
-	display: inline-flex; 
+#watchlistTable {
+	display: inline-flex;
 	flex-direction: column;
 }
 .sticky-row {
@@ -501,9 +506,12 @@ a[target="_blank"], a[target="_blank"]:active, a[target="_blank"]:focus, a[targe
     background-color: #ff0909;
 	color: white;
 }
+.col-rating.tooltip .tooltiptext {
+	width: 200px;
+}
 .tooltip .tooltiptext {
   visibility: hidden;
-  width: 200px;
+  width: 140px;
   background-color: #000;
   color: #fff;
   text-align: left;
@@ -537,11 +545,11 @@ a[target="_blank"], a[target="_blank"]:active, a[target="_blank"]:focus, a[targe
 .tooltip:hover .tooltiptext {
   visibility: visible;
   opacity: 1;
-} 
+}
 .news-table {
 	max-width: 700px;
 }
-.news-new {
+.hasnews .col-no {
 	display: list-item;
 	color: darkorange;
 	font-size: 22px;
@@ -600,6 +608,8 @@ a[target="_blank"], a[target="_blank"]:active, a[target="_blank"]:focus, a[targe
 	min-width: 350px;
 	max-height: 525px;
     overflow-y: scroll;
+	display: flex;
+	flex-direction: column;
 }
 .sector-name {
 	cursor: pointer;
@@ -615,8 +625,8 @@ a[target="_blank"], a[target="_blank"]:active, a[target="_blank"]:focus, a[targe
 .sector-name.not-showing .mark {
 	display: none;
 }
-.holdings-on .watchlist, .holdings-on .suggested, .holdings-on .chart-row, .holdings-on .filter-row, 
-.watchlist-on .holdings, .watchlist-on .suggested, .watchlist-on .chart-row, .watchlist-on .filter-row, 
+.holdings-on .watchlist, .holdings-on .suggested, .holdings-on .chart-row, .holdings-on .filter-row,
+.watchlist-on .holdings, .watchlist-on .suggested, .watchlist-on .chart-row, .watchlist-on .filter-row,
 .suggested-on .holdings, .suggested-on .watchlist, .suggested-on .suggested{
 	display: none;
 }
@@ -657,17 +667,37 @@ a[target="_blank"], a[target="_blank"]:active, a[target="_blank"]:focus, a[targe
 	padding: 4px;
 	border-radius: 5px;
 }
-.csslargecap {
+.largecap .col-stake {
 	background-color: deeppink;
 	color: white;
 }
-.cssmidcap {
+.midcap .col-stake {
 	background-color: #00D2E8;
 	color: white;
 }
-.cssnocap {
+.nocap .col-stake {
 	background-color: #EAEAEA;
 }
+.sector-name {
+	display: flex;
+}
+.s-name {
+	flex-grow: 1;
+}
+.secp {
+	padding: 2.5px;
+	white-space: nowrap;
+}
+.holdingsector .col-sector-p {
+	background-color: #eee;
+}
+.sector-name.holdingsector {
+	font-weight: bold;
+}
+.sort-toggle * {
+	cursor: pointer;
+}
+
 @media screen and (max-width: 500px) {
 	#chart {
 		height: 280px;
