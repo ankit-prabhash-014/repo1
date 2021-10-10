@@ -1,7 +1,7 @@
 - symbol: "SHREYAS"
   name: "Shreyas Shipping & Logistics Limited"
   sector: "74 Logistics"
-  stake: "1"
+  stake: "0"
   mcap: "829"
   pastRating: <span class="non-zero">1007</span><span class="non-zero">988</span><span class="non-zero">1008</span><span class="non-zero">968</span><span class="non-zero">985</span>
   rank: "1"
@@ -12,7 +12,7 @@
 - symbol: "HFCL"
   name: "HFCL Limited"
   sector: "18 Telecom Equipments"
-  stake: "24"
+  stake: "22"
   mcap: "9161"
   pastRating: <span class="non-zero">1006</span><span class="non-zero">987</span><span class="non-zero">981</span><span class="non-zero">972</span><span class="zero">0</span>
   rank: "2"
@@ -23,7 +23,7 @@
 - symbol: "LTTS"
   name: "L&T Technology Services Limited"
   sector: "22 Software Services"
-  stake: "25"
+  stake: "18"
   mcap: "51032"
   pastRating: <span class="non-zero">998</span><span class="non-zero">1003</span><span class="non-zero">1004</span><span class="non-zero">998</span><span class="non-zero">993</span>
   rank: "3"
@@ -133,7 +133,7 @@
 - symbol: "CYIENT"
   name: "Cyient Limited"
   sector: "22 Software Services"
-  stake: "6"
+  stake: "4"
   mcap: "11938"
   pastRating: <span class="non-zero">986</span><span class="non-zero">993</span><span class="non-zero">999</span><span class="non-zero">1026</span><span class="non-zero">1012</span>
   rank: "13"
@@ -243,7 +243,7 @@
 - symbol: "PERSISTENT"
   name: "Persistent Systems Limited"
   sector: "22 Software Services"
-  stake: "14"
+  stake: "10"
   mcap: "28673"
   pastRating: <span class="non-zero">961</span><span class="non-zero">979</span><span class="non-zero">997</span><span class="non-zero">990</span><span class="non-zero">990</span>
   rank: "23"
@@ -331,7 +331,7 @@
 - symbol: "ADANIGREEN"
   name: "Adani Green Energy Limited"
   sector: "2 Renewable Energy"
-  stake: "80"
+  stake: "75"
   mcap: "180198"
   pastRating: <span class="non-zero">1002</span><span class="non-zero">987</span><span class="non-zero">983</span><span class="non-zero">975</span><span class="non-zero">991</span>
   rank: "31"
@@ -375,7 +375,7 @@
 - symbol: "DEEPAKNTR"
   name: "Deepak Nitrite Limited"
   sector: "36 Commodity Chemicals"
-  stake: "19"
+  stake: "18"
   mcap: "33884"
   pastRating: <span class="non-zero">944</span><span class="non-zero">940</span><span class="non-zero">936</span><span class="non-zero">960</span><span class="non-zero">976</span>
   rank: "35"
@@ -408,7 +408,7 @@
 - symbol: "IEX"
   name: "Indian Energy Exchange Limited"
   sector: "28 Energy"
-  stake: "8"
+  stake: "6"
   mcap: "17719"
   pastRating: <span class="non-zero">936</span><span class="non-zero">962</span><span class="non-zero">990</span><span class="non-zero">999</span><span class="non-zero">1009</span>
   rank: "38"
@@ -595,7 +595,7 @@
 - symbol: "SWARAJENG"
   name: "Swaraj Engines Limited"
   sector: "41 Industrials"
-  stake: "0"
+  stake: "1"
   mcap: "1966"
   pastRating: <span class="non-zero">990</span><span class="non-zero">993</span><span class="non-zero">993</span><span class="zero">0</span><span class="zero">0</span>
   rank: "55"
@@ -804,7 +804,7 @@
 - symbol: "RAIN"
   name: "Rain Industries Limited"
   sector: "36 Commodity Chemicals"
-  stake: "1"
+  stake: "4"
   mcap: "7608"
   pastRating: <span class="non-zero">1002</span><span class="non-zero">996</span><span class="non-zero">989</span><span class="non-zero">972</span><span class="non-zero">974</span>
   rank: "74"
@@ -815,7 +815,7 @@
 - symbol: "ALLCARGO"
   name: "Allcargo Logistics Limited"
   sector: "74 Logistics"
-  stake: "6"
+  stake: "3"
   mcap: "6260"
   pastRating: <span class="non-zero">950</span><span class="non-zero">957</span><span class="non-zero">954</span><span class="non-zero">924</span><span class="non-zero">924</span>
   rank: "75"
@@ -980,7 +980,7 @@
 - symbol: "SBIN"
   name: "State Bank of India"
   sector: "17 Public Banks"
-  stake: "56"
+  stake: "50"
   mcap: "393397"
   pastRating: <span class="non-zero">989</span><span class="non-zero">986</span><span class="non-zero">983</span><span class="non-zero">980</span><span class="non-zero">982</span>
   rank: "90"
@@ -1068,7 +1068,7 @@
 - symbol: "PNB"
   name: "Punjab National Bank"
   sector: "17 Public Banks"
-  stake: "6"
+  stake: "5"
   mcap: "41732"
   pastRating: <span class="non-zero">981</span><span class="non-zero">987</span><span class="non-zero">990</span><span class="non-zero">973</span><span class="zero">0</span>
   rank: "98"
@@ -1189,7 +1189,7 @@
 - symbol: "POWERGRID"
   name: "Power Grid Corporation of India Limited"
   sector: "81 Power Infrastructure"
-  stake: "56"
+  stake: "32"
   mcap: "122873"
   pastRating: <span class="non-zero">972</span><span class="non-zero">970</span><span class="non-zero">964</span><span class="non-zero">966</span><span class="zero">0</span>
   rank: "109"
@@ -1288,7 +1288,7 @@
 - symbol: "TEAMLEASE"
   name: "Teamlease Services Limited"
   sector: "41 Industrials"
-  stake: "1"
+  stake: "5"
   mcap: "7612"
   pastRating: <span class="non-zero">963</span><span class="non-zero">967</span><span class="non-zero">974</span><span class="non-zero">986</span><span class="non-zero">989</span>
   rank: "118"
@@ -1398,7 +1398,7 @@
 - symbol: "TATAPOWER"
   name: "Tata Power Company Limited"
   sector: "81 Power Infrastructure"
-  stake: "20"
+  stake: "12"
   mcap: "44447"
   pastRating: <span class="non-zero">904</span><span class="non-zero">900</span><span class="non-zero">910</span><span class="non-zero">910</span><span class="non-zero">926</span>
   rank: "128"
@@ -1420,7 +1420,7 @@
 - symbol: "STLTECH"
   name: "Sterlite Technologies Limited"
   sector: "18 Telecom Equipments"
-  stake: "30"
+  stake: "28"
   mcap: "11568"
   pastRating: <span class="non-zero">1003</span><span class="zero">0</span><span class="zero">0</span><span class="non-zero">992</span><span class="zero">0</span>
   rank: "130"
@@ -1464,7 +1464,7 @@
 - symbol: "OIL"
   name: "Oil India Limited"
   sector: "28 Energy"
-  stake: "12"
+  stake: "7"
   mcap: "23526"
   pastRating: <span class="non-zero">951</span><span class="non-zero">928</span><span class="non-zero">910</span><span class="non-zero">934</span><span class="non-zero">936</span>
   rank: "134"
@@ -1805,7 +1805,7 @@
 - symbol: "ACE"
   name: "Action Construction Equipment Limited"
   sector: "41 Industrials"
-  stake: "1"
+  stake: "2"
   mcap: "2966"
   pastRating: <span class="non-zero">990</span><span class="non-zero">993</span><span class="non-zero">1000</span><span class="non-zero">997</span><span class="non-zero">1001</span>
   rank: "165"
@@ -1904,7 +1904,7 @@
 - symbol: "MAHSCOOTER"
   name: "Maharashtra Scooters Limited"
   sector: "57 Four Wheelers"
-  stake: "2"
+  stake: "1"
   mcap: "5346"
   pastRating: <span class="non-zero">986</span><span class="non-zero">983</span><span class="non-zero">983</span><span class="non-zero">986</span><span class="non-zero">981</span>
   rank: "174"
@@ -1926,7 +1926,7 @@
 - symbol: "TCI"
   name: "Transport Corporation of India Limited"
   sector: "74 Logistics"
-  stake: "3"
+  stake: "1"
   mcap: "3241"
   pastRating: <span class="non-zero">986</span><span class="non-zero">992</span><span class="non-zero">1001</span><span class="non-zero">978</span><span class="zero">0</span>
   rank: "176"
@@ -1948,7 +1948,7 @@
 - symbol: "VSTTILLERS"
   name: "V.S.T Tillers Tractors Limited"
   sector: "41 Industrials"
-  stake: "0"
+  stake: "2"
   mcap: "2318"
   pastRating: <span class="non-zero">934</span><span class="non-zero">964</span><span class="non-zero">979</span><span class="non-zero">970</span><span class="non-zero">957</span>
   rank: "178"
@@ -2025,7 +2025,7 @@
 - symbol: "TCIEXP"
   name: "TCI Express Limited"
   sector: "74 Logistics"
-  stake: "6"
+  stake: "2"
   mcap: "5742"
   pastRating: <span class="non-zero">983</span><span class="non-zero">989</span><span class="non-zero">999</span><span class="non-zero">992</span><span class="non-zero">1004</span>
   rank: "185"
@@ -2190,7 +2190,7 @@
 - symbol: "NBVENTURES"
   name: "Nava Bharat Ventures Limited"
   sector: "3 Conglomerates"
-  stake: "2"
+  stake: "0"
   mcap: "1804"
   pastRating: <span class="non-zero">978</span><span class="non-zero">971</span><span class="non-zero">971</span><span class="non-zero">964</span><span class="non-zero">973</span>
   rank: "200"
@@ -2355,7 +2355,7 @@
 - symbol: "GUJALKALI"
   name: "Gujarat Alkalies and Chemicals Limited"
   sector: "36 Commodity Chemicals"
-  stake: "3"
+  stake: "2"
   mcap: "4438"
   pastRating: <span class="non-zero">869</span><span class="non-zero">878</span><span class="non-zero">870</span><span class="non-zero">861</span><span class="non-zero">855</span>
   rank: "215"
@@ -2377,7 +2377,7 @@
 - symbol: "GPPL"
   name: "Gujarat Pipavav Port Limited"
   sector: "41 Industrials"
-  stake: "1"
+  stake: "3"
   mcap: "4856"
   pastRating: <span class="non-zero">968</span><span class="non-zero">976</span><span class="non-zero">977</span><span class="non-zero">982</span><span class="zero">0</span>
   rank: "217"
@@ -2520,7 +2520,7 @@
 - symbol: "SBICARD"
   name: "SBI Cards and Payment Services Limited"
   sector: "17 Public Banks"
-  stake: "100"
+  stake: "12"
   mcap: "95045"
   pastRating: <span class="non-zero">962</span><span class="non-zero">964</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
   rank: "230"
@@ -2553,7 +2553,7 @@
 - symbol: "IOB"
   name: "Indian Overseas Bank"
   sector: "17 Public Banks"
-  stake: "6"
+  stake: "5"
   mcap: "38466"
   pastRating: <span class="non-zero">959</span><span class="non-zero">961</span><span class="non-zero">979</span><span class="non-zero">965</span><span class="zero">0</span>
   rank: "233"
@@ -2729,7 +2729,7 @@
 - symbol: "TEJASNET"
   name: "Tejas Networks Limited"
   sector: "18 Telecom Equipments"
-  stake: "11"
+  stake: "10"
   mcap: "4081"
   pastRating: <span class="non-zero">949</span><span class="non-zero">951</span><span class="non-zero">958</span><span class="non-zero">919</span><span class="non-zero">903</span>
   rank: "249"
@@ -2773,7 +2773,7 @@
 - symbol: "TATAELXSI"
   name: "Tata Elxsi Limited"
   sector: "22 Software Services"
-  stake: "18"
+  stake: "13"
   mcap: "36521"
   pastRating: <span class="non-zero">947</span><span class="non-zero">941</span><span class="non-zero">947</span><span class="non-zero">959</span><span class="non-zero">944</span>
   rank: "253"
@@ -2784,7 +2784,7 @@
 - symbol: "COALINDIA"
   name: "Coal India Limited"
   sector: "28 Energy"
-  stake: "16"
+  stake: "32"
   mcap: "103043"
   pastRating: <span class="non-zero">946</span><span class="non-zero">932</span><span class="non-zero">916</span><span class="non-zero">912</span><span class="non-zero">933</span>
   rank: "254"
@@ -2806,7 +2806,7 @@
 - symbol: "TWL"
   name: "Titagarh Wagons Limited"
   sector: "41 Industrials"
-  stake: "0"
+  stake: "1"
   mcap: "1119"
   pastRating: <span class="non-zero">946</span><span class="non-zero">957</span><span class="non-zero">982</span><span class="non-zero">947</span><span class="non-zero">934</span>
   rank: "256"
@@ -2839,7 +2839,7 @@
 - symbol: "VOLTAS"
   name: "Voltas Limited"
   sector: "24 Home Electronics & Appliances"
-  stake: "21"
+  stake: "20"
   mcap: "40672"
   pastRating: <span class="non-zero">995</span><span class="non-zero">995</span><span class="non-zero">1021</span><span class="non-zero">1006</span><span class="non-zero">1007</span>
   rank: "259"
@@ -2883,7 +2883,7 @@
 - symbol: "CONFIPET"
   name: "Confidence Petroleum India Limited"
   sector: "50 Oil & Gas"
-  stake: "0"
+  stake: "1"
   mcap: "2174"
   pastRating: <span class="non-zero">943</span><span class="non-zero">942</span><span class="non-zero">937</span><span class="non-zero">911</span><span class="non-zero">945</span>
   rank: "263"
@@ -2938,7 +2938,7 @@
 - symbol: "RKFORGE"
   name: "Ramkrishna Forgings Limited"
   sector: "41 Industrials"
-  stake: "1"
+  stake: "2"
   mcap: "3309"
   pastRating: <span class="non-zero">941</span><span class="non-zero">948</span><span class="non-zero">963</span><span class="non-zero">951</span><span class="non-zero">965</span>
   rank: "268"
@@ -2993,7 +2993,7 @@
 - symbol: "TORNTPOWER"
   name: "Torrent Power Limited"
   sector: "81 Power Infrastructure"
-  stake: "11"
+  stake: "6"
   mcap: "23971"
   pastRating: <span class="non-zero">989</span><span class="non-zero">978</span><span class="non-zero">979</span><span class="non-zero">968</span><span class="non-zero">984</span>
   rank: "273"
@@ -3015,7 +3015,7 @@
 - symbol: "M&M"
   name: "Mahindra & Mahindra Limited"
   sector: "57 Four Wheelers"
-  stake: "21"
+  stake: "12"
   mcap: "99250"
   pastRating: <span class="non-zero">938</span><span class="non-zero">934</span><span class="non-zero">946</span><span class="non-zero">941</span><span class="zero">0</span>
   rank: "275"
@@ -3158,7 +3158,7 @@
 - symbol: "AFFLE"
   name: "Affle (India) Limited"
   sector: "1 IT Services & Consulting"
-  stake: "38"
+  stake: "0"
   mcap: "14183"
   pastRating: <span class="non-zero">932</span><span class="non-zero">943</span><span class="non-zero">957</span><span class="non-zero">939</span><span class="non-zero">949</span>
   rank: "288"
@@ -3477,7 +3477,7 @@
 - symbol: "RELIANCE"
   name: "Reliance Industries Limited"
   sector: "3 Conglomerates"
-  stake: "85"
+  stake: "100"
   mcap: "1678988"
   pastRating: <span class="non-zero">968</span><span class="non-zero">985</span><span class="non-zero">983</span><span class="non-zero">966</span><span class="non-zero">977</span>
   rank: "317"
@@ -3576,7 +3576,7 @@
 - symbol: "IDBI"
   name: "IDBI Bank Limited"
   sector: "17 Public Banks"
-  stake: "6"
+  stake: "5"
   mcap: "41719"
   pastRating: <span class="non-zero">907</span><span class="non-zero">946</span><span class="non-zero">952</span><span class="non-zero">920</span><span class="non-zero">921</span>
   rank: "326"
@@ -3587,7 +3587,7 @@
 - symbol: "NHPC"
   name: "NHPC Limited"
   sector: "2 Renewable Energy"
-  stake: "13"
+  stake: "12"
   mcap: "28076"
   pastRating: <span class="non-zero">956</span><span class="non-zero">955</span><span class="non-zero">961</span><span class="non-zero">968</span><span class="non-zero">976</span>
   rank: "327"
@@ -3862,7 +3862,7 @@
 - symbol: "BOSCHLTD"
   name: "Bosch Limited"
   sector: "27 Auto Parts"
-  stake: "15"
+  stake: "14"
   mcap: "45009"
   pastRating: <span class="non-zero">942</span><span class="non-zero">940</span><span class="non-zero">938</span><span class="non-zero">982</span><span class="non-zero">979</span>
   rank: "352"
@@ -3917,7 +3917,7 @@
 - symbol: "CASTROLIND"
   name: "Castrol India Limited"
   sector: "36 Commodity Chemicals"
-  stake: "8"
+  stake: "7"
   mcap: "13739"
   pastRating: <span class="non-zero">990</span><span class="non-zero">982</span><span class="non-zero">980</span><span class="non-zero">991</span><span class="zero">0</span>
   rank: "357"
@@ -3939,7 +3939,7 @@
 - symbol: "3MINDIA"
   name: "3M India Limited"
   sector: "41 Industrials"
-  stake: "5"
+  stake: "20"
   mcap: "27864"
   pastRating: <span class="non-zero">989</span><span class="non-zero">992</span><span class="non-zero">997</span><span class="non-zero">1007</span><span class="non-zero">1000</span>
   rank: "359"
@@ -3972,7 +3972,7 @@
 - symbol: "ASTRAMICRO"
   name: "Astra Microwave Products Limited"
   sector: "18 Telecom Equipments"
-  stake: "52"
+  stake: "4"
   mcap: "1758"
   pastRating: <span class="non-zero">987</span><span class="non-zero">981</span><span class="non-zero">985</span><span class="non-zero">957</span><span class="non-zero">934</span>
   rank: "362"
@@ -4049,7 +4049,7 @@
 - symbol: "SJVN"
   name: "SJVN Limited"
   sector: "2 Renewable Energy"
-  stake: "5"
+  stake: "4"
   mcap: "10591"
   pastRating: <span class="non-zero">985</span><span class="non-zero">986</span><span class="non-zero">985</span><span class="non-zero">990</span><span class="zero">0</span>
   rank: "369"
@@ -4093,7 +4093,7 @@
 - symbol: "WHIRLPOOL"
   name: "Whirlpool of India Limited"
   sector: "24 Home Electronics & Appliances"
-  stake: "15"
+  stake: "14"
   mcap: "28553"
   pastRating: <span class="non-zero">981</span><span class="non-zero">982</span><span class="non-zero">1006</span><span class="non-zero">1010</span><span class="non-zero">1011</span>
   rank: "373"
@@ -4401,7 +4401,7 @@
 - symbol: "BLUEDART"
   name: "Blue Dart Express Limited"
   sector: "74 Logistics"
-  stake: "16"
+  stake: "6"
   mcap: "15328"
   pastRating: <span class="non-zero">1012</span><span class="non-zero">995</span><span class="non-zero">1010</span><span class="non-zero">1004</span><span class="non-zero">1013</span>
   rank: "401"
@@ -4434,7 +4434,7 @@
 - symbol: "SCI"
   name: "Shipping Corporation Of India Limited"
   sector: "74 Logistics"
-  stake: "6"
+  stake: "2"
   mcap: "5326"
   pastRating: <span class="non-zero">962</span><span class="non-zero">968</span><span class="non-zero">972</span><span class="non-zero">954</span><span class="non-zero">934</span>
   rank: "404"
@@ -4500,7 +4500,7 @@
 - symbol: "BCG"
   name: "Brightcom Group Limited"
   sector: "20 Communication Services"
-  stake: "14"
+  stake: "20"
   mcap: "5021"
   pastRating: <span class="non-zero">855</span><span class="non-zero">846</span><span class="non-zero">848</span><span class="non-zero">859</span><span class="non-zero">869</span>
   rank: "410"
@@ -4522,7 +4522,7 @@
 - symbol: "NELCO"
   name: "NELCO Limited"
   sector: "18 Telecom Equipments"
-  stake: "40"
+  stake: "3"
   mcap: "1351"
   pastRating: <span class="non-zero">855</span><span class="non-zero">873</span><span class="non-zero">870</span><span class="non-zero">884</span><span class="non-zero">900</span>
   rank: "412"
@@ -4555,7 +4555,7 @@
 - symbol: "IOC"
   name: "Indian Oil Corporation Limited"
   sector: "50 Oil & Gas"
-  stake: "6"
+  stake: "36"
   mcap: "110428"
   pastRating: <span class="non-zero">953</span><span class="non-zero">947</span><span class="non-zero">945</span><span class="non-zero">954</span><span class="non-zero">970</span>
   rank: "415"
@@ -4599,7 +4599,7 @@
 - symbol: "BAJAJ-AUTO"
   name: "Bajaj Auto Limited"
   sector: "57 Four Wheelers"
-  stake: "37"
+  stake: "15"
   mcap: "118470"
   pastRating: <span class="non-zero">999</span><span class="non-zero">995</span><span class="zero">0</span><span class="non-zero">986</span><span class="zero">0</span>
   rank: "419"
@@ -4610,7 +4610,7 @@
 - symbol: "ESCORTS"
   name: "Escorts Limited"
   sector: "57 Four Wheelers"
-  stake: "3"
+  stake: "2"
   mcap: "14369"
   pastRating: <span class="non-zero">999</span><span class="non-zero">982</span><span class="non-zero">999</span><span class="non-zero">981</span><span class="non-zero">981</span>
   rank: "420"
@@ -4654,7 +4654,7 @@
 - symbol: "HINDPETRO"
   name: "Hindustan Petroleum Corporation Limited"
   sector: "50 Oil & Gas"
-  stake: "2"
+  stake: "13"
   mcap: "38968"
   pastRating: <span class="non-zero">947</span><span class="non-zero">939</span><span class="non-zero">944</span><span class="non-zero">945</span><span class="non-zero">968</span>
   rank: "424"
@@ -4698,7 +4698,7 @@
 - symbol: "KANSAINER"
   name: "Kansai Nerolac Paints Limited"
   sector: "38 Materials"
-  stake: "5"
+  stake: "7"
   mcap: "33852"
   pastRating: <span class="non-zero">994</span><span class="non-zero">985</span><span class="non-zero">980</span><span class="non-zero">973</span><span class="zero">0</span>
   rank: "428"
@@ -4709,7 +4709,7 @@
 - symbol: "SEAMECLTD"
   name: "Seamec Limited"
   sector: "50 Oil & Gas"
-  stake: "0"
+  stake: "1"
   mcap: "3105"
   pastRating: <span class="non-zero">994</span><span class="non-zero">988</span><span class="non-zero">988</span><span class="non-zero">984</span><span class="non-zero">966</span>
   rank: "429"
@@ -4907,7 +4907,7 @@
 - symbol: "INTELLECT"
   name: "Intellect Design Arena Limited"
   sector: "22 Software Services"
-  stake: "4"
+  stake: "3"
   mcap: "9206"
   pastRating: <span class="non-zero">985</span><span class="non-zero">991</span><span class="non-zero">990</span><span class="non-zero">977</span><span class="zero">0</span>
   rank: "447"
@@ -4929,7 +4929,7 @@
 - symbol: "URJA"
   name: "Urja Global Limited"
   sector: "2 Renewable Energy"
-  stake: "3"
+  stake: "0"
   mcap: "352"
   pastRating: <span class="non-zero">934</span><span class="non-zero">973</span><span class="non-zero">977</span><span class="zero">0</span><span class="zero">0</span>
   rank: "449"
@@ -4951,7 +4951,7 @@
 - symbol: "DMART"
   name: "Avenue Supermarts Limited"
   sector: "10 Retail"
-  stake: "96"
+  stake: "80"
   mcap: "286423"
   pastRating: <span class="non-zero">982</span><span class="non-zero">986</span><span class="non-zero">996</span><span class="non-zero">989</span><span class="non-zero">985</span>
   rank: "451"
@@ -4962,7 +4962,7 @@
 - symbol: "ONGC"
   name: "Oil & Natural Gas Corporation Limited"
   sector: "28 Energy"
-  stake: "87"
+  stake: "54"
   mcap: "171155"
   pastRating: <span class="non-zero">932</span><span class="non-zero">926</span><span class="non-zero">899</span><span class="non-zero">902</span><span class="non-zero">940</span>
   rank: "452"
@@ -5050,7 +5050,7 @@
 - symbol: "LAOPALA"
   name: "La Opala RG Limited"
   sector: "48 Consumer Discretionary"
-  stake: "1"
+  stake: "22"
   mcap: "3250"
   pastRating: <span class="non-zero">978</span><span class="non-zero">992</span><span class="non-zero">983</span><span class="non-zero">973</span><span class="non-zero">1001</span>
   rank: "460"
@@ -5072,7 +5072,7 @@
 - symbol: "TEXRAIL"
   name: "Texmaco Rail & Engineering Limited"
   sector: "41 Industrials"
-  stake: "0"
+  stake: "1"
   mcap: "861"
   pastRating: <span class="non-zero">978</span><span class="non-zero">983</span><span class="non-zero">992</span><span class="non-zero">977</span><span class="zero">0</span>
   rank: "462"
@@ -5083,7 +5083,7 @@
 - symbol: "MAHLOG"
   name: "Mahindra Logistics Limited"
   sector: "74 Logistics"
-  stake: "5"
+  stake: "2"
   mcap: "5195"
   pastRating: <span class="non-zero">977</span><span class="non-zero">968</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
   rank: "463"
@@ -5171,7 +5171,7 @@
 - symbol: "MARUTI"
   name: "Maruti Suzuki India Limited"
   sector: "57 Four Wheelers"
-  stake: "45"
+  stake: "26"
   mcap: "209964"
   pastRating: <span class="non-zero">975</span><span class="non-zero">963</span><span class="non-zero">977</span><span class="non-zero">971</span><span class="zero">0</span>
   rank: "471"
@@ -5226,7 +5226,7 @@
 - symbol: "MOTHERSUMI"
   name: "Motherson Sumi Systems Limited"
   sector: "27 Auto Parts"
-  stake: "23"
+  stake: "22"
   mcap: "70984"
   pastRating: <span class="non-zero">971</span><span class="non-zero">970</span><span class="non-zero">992</span><span class="non-zero">982</span><span class="zero">0</span>
   rank: "476"
@@ -5237,7 +5237,7 @@
 - symbol: "CENTRALBK"
   name: "Central Bank of India"
   sector: "17 Public Banks"
-  stake: "3"
+  stake: "2"
   mcap: "18230"
   pastRating: <span class="non-zero">970</span><span class="non-zero">977</span><span class="non-zero">985</span><span class="non-zero">972</span><span class="zero">0</span>
   rank: "477"
@@ -5655,7 +5655,7 @@
 - symbol: "QUESS"
   name: "Quess Corp Limited"
   sector: "41 Industrials"
-  stake: "3"
+  stake: "10"
   mcap: "13527"
   pastRating: <span class="non-zero">998</span><span class="non-zero">998</span><span class="non-zero">1004</span><span class="non-zero">991</span><span class="non-zero">973</span>
   rank: "515"
@@ -5743,7 +5743,7 @@
 - symbol: "TVSMOTOR"
   name: "TVS Motor Company Limited"
   sector: "57 Four Wheelers"
-  stake: "8"
+  stake: "3"
   mcap: "25484"
   pastRating: <span class="non-zero">990</span><span class="non-zero">995</span><span class="zero">0</span><span class="non-zero">989</span><span class="zero">0</span>
   rank: "523"
@@ -5864,7 +5864,7 @@
 - symbol: "BEML"
   name: "BEML Limited"
   sector: "41 Industrials"
-  stake: "1"
+  stake: "4"
   mcap: "5734"
   pastRating: <span class="non-zero">971</span><span class="non-zero">955</span><span class="non-zero">969</span><span class="non-zero">985</span><span class="non-zero">992</span>
   rank: "534"
@@ -5974,7 +5974,7 @@
 - symbol: "BANKBARODA"
   name: "Bank of Baroda"
   sector: "17 Public Banks"
-  stake: "6"
+  stake: "5"
   mcap: "40285"
   pastRating: <span class="non-zero">955</span><span class="non-zero">977</span><span class="non-zero">989</span><span class="non-zero">985</span><span class="zero">0</span>
   rank: "544"
@@ -5996,7 +5996,7 @@
 - symbol: "JISLJALEQS"
   name: "Jain Irrigation Systems Limited"
   sector: "41 Industrials"
-  stake: "0"
+  stake: "1"
   mcap: "1034"
   pastRating: <span class="non-zero">955</span><span class="non-zero">965</span><span class="non-zero">967</span><span class="non-zero">980</span><span class="non-zero">999</span>
   rank: "546"
@@ -6029,7 +6029,7 @@
 - symbol: "CHENNPETRO"
   name: "Chennai Petroleum Corporation Limited"
   sector: "50 Oil & Gas"
-  stake: "0"
+  stake: "1"
   mcap: "1759"
   pastRating: <span class="non-zero">946</span><span class="non-zero">941</span><span class="non-zero">952</span><span class="non-zero">959</span><span class="non-zero">966</span>
   rank: "549"
@@ -6216,7 +6216,7 @@
 - symbol: "ASHOKLEY"
   name: "Ashok Leyland Limited"
   sector: "57 Four Wheelers"
-  stake: "7"
+  stake: "5"
   mcap: "37399"
   pastRating: <span class="non-zero">973</span><span class="non-zero">960</span><span class="non-zero">987</span><span class="non-zero">976</span><span class="zero">0</span>
   rank: "566"
@@ -6227,7 +6227,7 @@
 - symbol: "ADVANIHOTR"
   name: "Advani Hotels & Resorts (India) Limited"
   sector: "5 Hotels, Resorts & Cruise Lines"
-  stake: "1"
+  stake: "0"
   mcap: "381"
   pastRating: <span class="non-zero">972</span><span class="non-zero">982</span><span class="non-zero">989</span><span class="non-zero">959</span><span class="non-zero">947</span>
   rank: "567"
@@ -6326,7 +6326,7 @@
 - symbol: "GESHIP"
   name: "The Great Eastern Shipping Company Limited"
   sector: "50 Oil & Gas"
-  stake: "0"
+  stake: "2"
   mcap: "5330"
   pastRating: <span class="non-zero">995</span><span class="non-zero">994</span><span class="non-zero">996</span><span class="non-zero">995</span><span class="non-zero">1008</span>
   rank: "576"
@@ -6601,7 +6601,7 @@
 - symbol: "ITI"
   name: "ITI Limited"
   sector: "18 Telecom Equipments"
-  stake: "29"
+  stake: "26"
   mcap: "11016"
   pastRating: <span class="non-zero">990</span><span class="non-zero">991</span><span class="non-zero">1002</span><span class="non-zero">989</span><span class="zero">0</span>
   rank: "601"
@@ -6634,7 +6634,7 @@
 - symbol: "DELTACORP"
   name: "Delta Corp Limited"
   sector: "5 Hotels, Resorts & Cruise Lines"
-  stake: "2"
+  stake: "5"
   mcap: "6457"
   pastRating: <span class="non-zero">938</span><span class="non-zero">964</span><span class="non-zero">977</span><span class="non-zero">953</span><span class="non-zero">946</span>
   rank: "604"
@@ -6667,7 +6667,7 @@
 - symbol: "JISLDVREQS"
   name: "Jain Irrigation Systems Limited"
   sector: "41 Industrials"
-  stake: "0"
+  stake: "1"
   mcap: "1833"
   pastRating: <span class="non-zero">973</span><span class="non-zero">978</span><span class="non-zero">985</span><span class="non-zero">990</span><span class="non-zero">1014</span>
   rank: "607"
@@ -6733,7 +6733,7 @@
 - symbol: "GMDCLTD"
   name: "Gujarat Mineral Development Corporation Limited"
   sector: "29 Mining"
-  stake: "2"
+  stake: "1"
   mcap: "2178"
   pastRating: <span class="non-zero">956</span><span class="non-zero">941</span><span class="non-zero">937</span><span class="non-zero">941</span><span class="non-zero">947</span>
   rank: "613"
@@ -6788,7 +6788,7 @@
 - symbol: "VRLLOG"
   name: "VRL Logistics Limited"
   sector: "74 Logistics"
-  stake: "4"
+  stake: "1"
   mcap: "3480"
   pastRating: <span class="non-zero">949</span><span class="non-zero">956</span><span class="non-zero">965</span><span class="non-zero">953</span><span class="non-zero">977</span>
   rank: "618"
@@ -6832,7 +6832,7 @@
 - symbol: "SUZLON"
   name: "Suzlon Energy Limited"
   sector: "2 Renewable Energy"
-  stake: "47"
+  stake: "2"
   mcap: "5626"
   pastRating: <span class="non-zero">944</span><span class="non-zero">958</span><span class="non-zero">970</span><span class="non-zero">952</span><span class="zero">0</span>
   rank: "622"
@@ -6865,7 +6865,7 @@
 - symbol: "ITDC"
   name: "India Tourism Development Corporation Limited"
   sector: "5 Hotels, Resorts & Cruise Lines"
-  stake: "1"
+  stake: "2"
   mcap: "3513"
   pastRating: <span class="non-zero">986</span><span class="non-zero">983</span><span class="non-zero">988</span><span class="non-zero">979</span><span class="non-zero">967</span>
   rank: "625"
@@ -6876,7 +6876,7 @@
 - symbol: "JPASSOCIAT"
   name: "Jaiprakash Associates Limited"
   sector: "3 Conglomerates"
-  stake: "2"
+  stake: "0"
   mcap: "2082"
   pastRating: <span class="non-zero">986</span><span class="non-zero">1006</span><span class="non-zero">1016</span><span class="non-zero">1004</span><span class="zero">0</span>
   rank: "626"
@@ -6920,7 +6920,7 @@
 - symbol: "TATAMOTORS"
   name: "Tata Motors Limited"
   sector: "57 Four Wheelers"
-  stake: "24"
+  stake: "14"
   mcap: "113769"
   pastRating: <span class="non-zero">922</span><span class="non-zero">919</span><span class="non-zero">968</span><span class="non-zero">947</span><span class="non-zero">948</span>
   rank: "630"
@@ -7030,7 +7030,7 @@
 - symbol: "TRENT"
   name: "Trent Limited"
   sector: "10 Retail"
-  stake: "11"
+  stake: "10"
   mcap: "35174"
   pastRating: <span class="non-zero">954</span><span class="non-zero">953</span><span class="non-zero">981</span><span class="non-zero">978</span><span class="non-zero">989</span>
   rank: "640"
@@ -7129,7 +7129,7 @@
 - symbol: "MRPL"
   name: "Mangalore Refinery and Petrochemicals Limited"
   sector: "50 Oil & Gas"
-  stake: "0"
+  stake: "3"
   mcap: "7808"
   pastRating: <span class="non-zero">938</span><span class="non-zero">944</span><span class="non-zero">936</span><span class="non-zero">928</span><span class="non-zero">941</span>
   rank: "649"
@@ -7195,7 +7195,7 @@
 - symbol: "SWSOLAR"
   name: "Sterling And Wilson Solar Limited"
   sector: "2 Renewable Energy"
-  stake: "47"
+  stake: "2"
   mcap: "5692"
   pastRating: <span class="non-zero">931</span><span class="non-zero">966</span><span class="non-zero">968</span><span class="non-zero">944</span><span class="non-zero">949</span>
   rank: "655"
@@ -7239,7 +7239,7 @@
 - symbol: "ROHLTD"
   name: "Royal Orchid Hotels Limited"
   sector: "5 Hotels, Resorts & Cruise Lines"
-  stake: "1"
+  stake: "0"
   mcap: "276"
   pastRating: <span class="non-zero">963</span><span class="non-zero">981</span><span class="non-zero">993</span><span class="non-zero">959</span><span class="non-zero">932</span>
   rank: "659"
@@ -7294,7 +7294,7 @@
 - symbol: "PVR"
   name: "PVR Limited"
   sector: "20 Communication Services"
-  stake: "25"
+  stake: "37"
   mcap: "9183"
   pastRating: <span class="non-zero">950</span><span class="non-zero">947</span><span class="non-zero">949</span><span class="non-zero">937</span><span class="non-zero">935</span>
   rank: "664"
@@ -7305,7 +7305,7 @@
 - symbol: "DREDGECORP"
   name: "Dredging Corporation of India Limited"
   sector: "41 Industrials"
-  stake: "0"
+  stake: "1"
   mcap: "982"
   pastRating: <span class="non-zero">998</span><span class="non-zero">992</span><span class="non-zero">1002</span><span class="zero">0</span><span class="zero">0</span>
   rank: "665"
@@ -7448,7 +7448,7 @@
 - symbol: "FEL"
   name: "Future Enterprises Limited"
   sector: "3 Conglomerates"
-  stake: "1"
+  stake: "0"
   mcap: "461"
   pastRating: <span class="non-zero">980</span><span class="non-zero">984</span><span class="non-zero">989</span><span class="non-zero">997</span><span class="zero">0</span>
   rank: "678"
@@ -7459,7 +7459,7 @@
 - symbol: "ORIENTHOT"
   name: "Oriental Hotels Limited"
   sector: "5 Hotels, Resorts & Cruise Lines"
-  stake: "1"
+  stake: "0"
   mcap: "655"
   pastRating: <span class="non-zero">974</span><span class="non-zero">984</span><span class="non-zero">983</span><span class="non-zero">971</span><span class="zero">0</span>
   rank: "679"
@@ -7525,7 +7525,7 @@
 - symbol: "SMLISUZU"
   name: "SML Isuzu Limited"
   sector: "41 Industrials"
-  stake: "0"
+  stake: "1"
   mcap: "775"
   pastRating: <span class="non-zero">956</span><span class="non-zero">966</span><span class="non-zero">979</span><span class="non-zero">972</span><span class="zero">0</span>
   rank: "685"
@@ -7646,7 +7646,7 @@
 - symbol: "EIHOTEL"
   name: "EIH Limited"
   sector: "5 Hotels, Resorts & Cruise Lines"
-  stake: "17"
+  stake: "5"
   mcap: "7864"
   pastRating: <span class="non-zero">933</span><span class="non-zero">935</span><span class="non-zero">942</span><span class="non-zero">935</span><span class="non-zero">908</span>
   rank: "696"
@@ -7679,7 +7679,7 @@
 - symbol: "THOMASCOOK"
   name: "Thomas Cook  (India)  Limited"
   sector: "5 Hotels, Resorts & Cruise Lines"
-  stake: "1"
+  stake: "2"
   mcap: "2427"
   pastRating: <span class="non-zero">927</span><span class="non-zero">965</span><span class="non-zero">975</span><span class="non-zero">950</span><span class="non-zero">970</span>
   rank: "699"
@@ -7701,7 +7701,7 @@
 - symbol: "INDHOTEL"
   name: "The Indian Hotels Company Limited"
   sector: "5 Hotels, Resorts & Cruise Lines"
-  stake: "46"
+  stake: "15"
   mcap: "21276"
   pastRating: <span class="non-zero">923</span><span class="non-zero">932</span><span class="non-zero">952</span><span class="non-zero">921</span><span class="non-zero">922</span>
   rank: "701"
@@ -7723,7 +7723,7 @@
 - symbol: "RELINFRA"
   name: "Reliance Infrastructure Limited"
   sector: "81 Power Infrastructure"
-  stake: "2"
+  stake: "1"
   mcap: "2769"
   pastRating: <span class="non-zero">970</span><span class="non-zero">972</span><span class="non-zero">971</span><span class="non-zero">957</span><span class="non-zero">930</span>
   rank: "703"
@@ -7745,7 +7745,7 @@
 - symbol: "GATI"
   name: "GATI Limited"
   sector: "74 Logistics"
-  stake: "2"
+  stake: "1"
   mcap: "1679"
   pastRating: <span class="non-zero">966</span><span class="non-zero">959</span><span class="non-zero">965</span><span class="zero">0</span><span class="zero">0</span>
   rank: "705"
@@ -7767,7 +7767,7 @@
 - symbol: "WONDERLA"
   name: "Wonderla Holidays Limited"
   sector: "5 Hotels, Resorts & Cruise Lines"
-  stake: "0"
+  stake: "1"
   mcap: "1299"
   pastRating: <span class="non-zero">965</span><span class="non-zero">954</span><span class="non-zero">964</span><span class="non-zero">969</span><span class="zero">0</span>
   rank: "707"
@@ -7833,7 +7833,7 @@
 - symbol: "MHRIL"
   name: "Mahindra Holidays & Resorts India Limited"
   sector: "5 Hotels, Resorts & Cruise Lines"
-  stake: "10"
+  stake: "3"
   mcap: "4795"
   pastRating: <span class="non-zero">998</span><span class="non-zero">1008</span><span class="zero">0</span><span class="non-zero">993</span><span class="non-zero">988</span>
   rank: "713"
@@ -7844,7 +7844,7 @@
 - symbol: "LEMONTREE"
   name: "Lemon Tree Hotels Limited"
   sector: "5 Hotels, Resorts & Cruise Lines"
-  stake: "7"
+  stake: "2"
   mcap: "3252"
   pastRating: <span class="non-zero">896</span><span class="non-zero">909</span><span class="non-zero">937</span><span class="non-zero">949</span><span class="non-zero">942</span>
   rank: "714"
@@ -7932,7 +7932,7 @@
 - symbol: "CHALET"
   name: "Chalet Hotels Limited"
   sector: "5 Hotels, Resorts & Cruise Lines"
-  stake: "10"
+  stake: "3"
   mcap: "4443"
   pastRating: <span class="non-zero">932</span><span class="non-zero">920</span><span class="non-zero">928</span><span class="non-zero">907</span><span class="non-zero">900</span>
   rank: "722"
@@ -7943,7 +7943,7 @@
 - symbol: "EIHAHOTELS"
   name: "EIH Associated Hotels Limited"
   sector: "5 Hotels, Resorts & Cruise Lines"
-  stake: "2"
+  stake: "1"
   mcap: "1098"
   pastRating: <span class="non-zero">931</span><span class="non-zero">944</span><span class="non-zero">939</span><span class="non-zero">920</span><span class="non-zero">900</span>
   rank: "723"
@@ -7954,7 +7954,7 @@
 - symbol: "ABFRL"
   name: "Aditya Birla Fashion and Retail Limited"
   sector: "10 Retail"
-  stake: "7"
+  stake: "6"
   mcap: "22894"
   pastRating: <span class="non-zero">924</span><span class="non-zero">922</span><span class="non-zero">962</span><span class="non-zero">935</span><span class="non-zero">958</span>
   rank: "724"
@@ -8009,7 +8009,7 @@
 - symbol: "RADIOCITY"
   name: "Music Broadcast Limited"
   sector: "20 Communication Services"
-  stake: "2"
+  stake: "3"
   mcap: "833"
   pastRating: <span class="non-zero">996</span><span class="non-zero">1007</span><span class="non-zero">1002</span><span class="non-zero">994</span><span class="zero">0</span>
   rank: "729"
@@ -8086,7 +8086,7 @@
 - symbol: "TAJGVK"
   name: "Taj GVK Hotels & Resorts Limited"
   sector: "5 Hotels, Resorts & Cruise Lines"
-  stake: "2"
+  stake: "1"
   mcap: "878"
   pastRating: <span class="non-zero">974</span><span class="non-zero">976</span><span class="non-zero">989</span><span class="non-zero">961</span><span class="non-zero">960</span>
   rank: "736"
@@ -8097,7 +8097,7 @@
 - symbol: "JETAIRWAYS"
   name: "Jet Airways (India) Limited"
   sector: "41 Industrials"
-  stake: "0"
+  stake: "1"
   mcap: "1203"
   pastRating: <span class="non-zero">1019</span><span class="non-zero">1019</span><span class="non-zero">1013</span><span class="non-zero">1005</span><span class="non-zero">979</span>
   rank: "737"
@@ -8130,7 +8130,7 @@
 - symbol: "INOXLEISUR"
   name: "INOX Leisure Limited"
   sector: "20 Communication Services"
-  stake: "12"
+  stake: "17"
   mcap: "4273"
   pastRating: <span class="non-zero">916</span><span class="non-zero">901</span><span class="non-zero">907</span><span class="non-zero">898</span><span class="non-zero">888</span>
   rank: "740"
@@ -8152,7 +8152,7 @@
 - symbol: "HLVLTD"
   name: "HLV LIMITED"
   sector: "5 Hotels, Resorts & Cruise Lines"
-  stake: "1"
+  stake: "0"
   mcap: "573"
   pastRating: <span class="non-zero">909</span><span class="non-zero">909</span><span class="non-zero">909</span><span class="non-zero">909</span><span class="non-zero">899</span>
   rank: "742"
@@ -8240,7 +8240,7 @@
 - symbol: "TATAMTRDVR"
   name: "Tata Motors Limited"
   sector: "57 Four Wheelers"
-  stake: "9"
+  stake: "5"
   mcap: "41102"
   pastRating: <span class="non-zero">918</span><span class="non-zero">903</span><span class="non-zero">938</span><span class="non-zero">913</span><span class="non-zero">906</span>
   rank: "750"
@@ -8317,7 +8317,7 @@
 - symbol: "ADANIPORTS"
   name: "Adani Ports and Special Economic Zone Limited"
   sector: "74 Logistics"
-  stake: "30"
+  stake: "61"
   mcap: "152029"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
   rank: "0"
@@ -8339,7 +8339,7 @@
 - symbol: "ADANITRANS"
   name: "Adani Transmission Limited"
   sector: "81 Power Infrastructure"
-  stake: "95"
+  stake: "45"
   mcap: "169112"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
   rank: "0"
@@ -8361,7 +8361,7 @@
 - symbol: "AEGISCHEM"
   name: "Aegis Logistics Limited"
   sector: "50 Oil & Gas"
-  stake: "0"
+  stake: "3"
   mcap: "8571"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
   rank: "0"
@@ -8394,7 +8394,7 @@
 - symbol: "AHLWEST"
   name: "Asian Hotels (West) Limited"
   sector: "5 Hotels, Resorts & Cruise Lines"
-  stake: "1"
+  stake: "0"
   mcap: "320"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
   rank: "0"
@@ -8570,7 +8570,7 @@
 - symbol: "ARSHIYA"
   name: "Arshiya Limited"
   sector: "74 Logistics"
-  stake: "1"
+  stake: "0"
   mcap: "746"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
   rank: "0"
@@ -8592,7 +8592,7 @@
 - symbol: "ASAHIINDIA"
   name: "Asahi India Glass Limited"
   sector: "48 Consumer Discretionary"
-  stake: "3"
+  stake: "59"
   mcap: "8718"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
   rank: "0"
@@ -8614,7 +8614,7 @@
 - symbol: "ASIANPAINT"
   name: "Asian Paints Limited"
   sector: "38 Materials"
-  stake: "52"
+  stake: "69"
   mcap: "330309"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
   rank: "0"
@@ -8713,7 +8713,7 @@
 - symbol: "BAJAJELEC"
   name: "Bajaj Electricals Limited"
   sector: "24 Home Electronics & Appliances"
-  stake: "9"
+  stake: "8"
   mcap: "16890"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
   rank: "0"
@@ -8735,7 +8735,7 @@
 - symbol: "BALMLAWRIE"
   name: "Balmer Lawrie & Company Limited"
   sector: "3 Conglomerates"
-  stake: "3"
+  stake: "0"
   mcap: "2177"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
   rank: "0"
@@ -8812,7 +8812,7 @@
 - symbol: "BDL"
   name: "Bharat Dynamics Limited"
   sector: "41 Industrials"
-  stake: "1"
+  stake: "5"
   mcap: "7046"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
   rank: "0"
@@ -8834,7 +8834,7 @@
 - symbol: "BERGEPAINT"
   name: "Berger Paints (I) Limited"
   sector: "38 Materials"
-  stake: "13"
+  stake: "17"
   mcap: "81613"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
   rank: "0"
@@ -8933,7 +8933,7 @@
 - symbol: "BOROLTD"
   name: "Borosil Limited"
   sector: "48 Consumer Discretionary"
-  stake: "1"
+  stake: "16"
   mcap: "2448"
   pastRating: <span class="zero">0</span><span class="non-zero">1006</span><span class="non-zero">1001</span><span class="non-zero">985</span><span class="zero">0</span>
   rank: "0"
@@ -8944,7 +8944,7 @@
 - symbol: "BPCL"
   name: "Bharat Petroleum Corporation Limited"
   sector: "50 Oil & Gas"
-  stake: "5"
+  stake: "29"
   mcap: "89991"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
   rank: "0"
@@ -9120,7 +9120,7 @@
 - symbol: "CONCOR"
   name: "Container Corporation of India Limited"
   sector: "74 Logistics"
-  stake: "44"
+  stake: "17"
   mcap: "42623"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
   rank: "0"
@@ -9274,7 +9274,7 @@
 - symbol: "DIVISLAB"
   name: "Divi's Laboratories Limited"
   sector: "65 Health Care"
-  stake: "60"
+  stake: "61"
   mcap: "135437"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
   rank: "0"
@@ -9362,7 +9362,7 @@
 - symbol: "EICHERMOT"
   name: "Eicher Motors Limited"
   sector: "57 Four Wheelers"
-  stake: "16"
+  stake: "10"
   mcap: "80060"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
   rank: "0"
@@ -9472,7 +9472,7 @@
 - symbol: "ENIL"
   name: "Entertainment Network (India) Limited"
   sector: "20 Communication Services"
-  stake: "2"
+  stake: "4"
   mcap: "892"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
   rank: "0"
@@ -9483,7 +9483,7 @@
 - symbol: "EPL"
   name: "EPL Limited"
   sector: "25 Packaging"
-  stake: "32"
+  stake: "33"
   mcap: "7895"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
   rank: "0"
@@ -9549,7 +9549,7 @@
 - symbol: "EXPLEOSOL"
   name: "Expleo Solutions Limited"
   sector: "22 Software Services"
-  stake: "1"
+  stake: "0"
   mcap: "1087"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
   rank: "0"
@@ -9571,7 +9571,7 @@
 - symbol: "FELDVR"
   name: "Future Enterprises Limited"
   sector: "3 Conglomerates"
-  stake: "1"
+  stake: "0"
   mcap: "826"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
   rank: "0"
@@ -9648,7 +9648,7 @@
 - symbol: "GDL"
   name: "Gateway Distriparks Limited"
   sector: "74 Logistics"
-  stake: "3"
+  stake: "1"
   mcap: "2886"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
   rank: "0"
@@ -9692,7 +9692,7 @@
 - symbol: "GILLETTE"
   name: "Gillette India Limited"
   sector: "68 FMCG"
-  stake: "3"
+  stake: "2"
   mcap: "19496"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
   rank: "0"
@@ -9736,7 +9736,7 @@
 - symbol: "GODREJAGRO"
   name: "Godrej Agrovet Limited"
   sector: "63 Agro Products"
-  stake: "66"
+  stake: "67"
   mcap: "12400"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
   rank: "0"
@@ -9835,7 +9835,7 @@
 - symbol: "GREENLAM"
   name: "Greenlam Industries Limited"
   sector: "41 Industrials"
-  stake: "1"
+  stake: "2"
   mcap: "3379"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
   rank: "0"
@@ -9890,7 +9890,7 @@
 - symbol: "GTLINFRA"
   name: "GTL Infrastructure Limited"
   sector: "20 Communication Services"
-  stake: "6"
+  stake: "9"
   mcap: "2169"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
   rank: "0"
@@ -9956,7 +9956,7 @@
 - symbol: "HAL"
   name: "Hindustan Aeronautics Limited"
   sector: "41 Industrials"
-  stake: "9"
+  stake: "32"
   mcap: "44815"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
   rank: "0"
@@ -9978,7 +9978,7 @@
 - symbol: "HARRMALAYA"
   name: "Harrisons  Malayalam Limited"
   sector: "71 Tea & Coffee"
-  stake: "2"
+  stake: "0"
   mcap: "359"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
   rank: "0"
@@ -10077,7 +10077,7 @@
 - symbol: "HEROMOTOCO"
   name: "Hero MotoCorp Limited"
   sector: "57 Four Wheelers"
-  stake: "18"
+  stake: "7"
   mcap: "56600"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="non-zero">1001</span><span class="non-zero">1001</span>
   rank: "0"
@@ -10132,7 +10132,7 @@
 - symbol: "HINDNATGLS"
   name: "Hindusthan National Glass & Industries Limited"
   sector: "48 Consumer Discretionary"
-  stake: "1"
+  stake: "2"
   mcap: "321"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
   rank: "0"
@@ -10154,7 +10154,7 @@
 - symbol: "HINDZINC"
   name: "Hindustan Zinc Limited"
   sector: "29 Mining"
-  stake: "97"
+  stake: "75"
   mcap: "136351"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
   rank: "0"
@@ -10352,7 +10352,7 @@
 - symbol: "INDIANHUME"
   name: "Indian Hume Pipe Company Limited"
   sector: "46 Utilities"
-  stake: "0"
+  stake: "31"
   mcap: "942"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="non-zero">986</span><span class="zero">0</span><span class="zero">0</span>
   rank: "0"
@@ -10363,7 +10363,7 @@
 - symbol: "INDIGO"
   name: "InterGlobe Aviation Limited"
   sector: "5 Hotels, Resorts & Cruise Lines"
-  stake: "16"
+  stake: "58"
   mcap: "82387"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
   rank: "0"
@@ -10693,7 +10693,7 @@
 - symbol: "KALPATPOWR"
   name: "Kalpataru Power Transmission Limited"
   sector: "81 Power Infrastructure"
-  stake: "3"
+  stake: "2"
   mcap: "5946"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
   rank: "0"
@@ -11342,7 +11342,7 @@
 - symbol: "NAVKARCORP"
   name: "Navkar Corporation Limited"
   sector: "74 Logistics"
-  stake: "1"
+  stake: "0"
   mcap: "625"
   pastRating: <span class="zero">0</span><span class="non-zero">995</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
   rank: "0"
@@ -11419,7 +11419,7 @@
 - symbol: "NEWGEN"
   name: "Newgen Software Technologies Limited"
   sector: "22 Software Services"
-  stake: "2"
+  stake: "1"
   mcap: "4177"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
   rank: "0"
@@ -11463,7 +11463,7 @@
 - symbol: "NMDC"
   name: "NMDC Limited"
   sector: "29 Mining"
-  stake: "6"
+  stake: "23"
   mcap: "41028"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
   rank: "0"
@@ -11518,7 +11518,7 @@
 - symbol: "OFSS"
   name: "Oracle Financial Services Software Limited"
   sector: "22 Software Services"
-  stake: "20"
+  stake: "14"
   mcap: "40564"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
   rank: "0"
@@ -11540,7 +11540,7 @@
 - symbol: "ONMOBILE"
   name: "OnMobile Global Limited"
   sector: "22 Software Services"
-  stake: "1"
+  stake: "0"
   mcap: "1195"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
   rank: "0"
@@ -11562,7 +11562,7 @@
 - symbol: "ORICONENT"
   name: "Oricon Enterprises Limited"
   sector: "74 Logistics"
-  stake: "1"
+  stake: "0"
   mcap: "496"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
   rank: "0"
@@ -11672,7 +11672,7 @@
 - symbol: "PETRONET"
   name: "Petronet LNG Limited"
   sector: "50 Oil & Gas"
-  stake: "2"
+  stake: "12"
   mcap: "35303"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="non-zero">992</span>
   rank: "0"
@@ -11694,7 +11694,7 @@
 - symbol: "PFOCUS"
   name: "Prime Focus Limited"
   sector: "20 Communication Services"
-  stake: "1"
+  stake: "9"
   mcap: "2322"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
   rank: "0"
@@ -12002,7 +12002,7 @@
 - symbol: "RTNINDIA"
   name: "Rattanindia Enterprises Limited"
   sector: "81 Power Infrastructure"
-  stake: "3"
+  stake: "2"
   mcap: "6047"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
   rank: "0"
@@ -12376,7 +12376,7 @@
 - symbol: "SIEMENS"
   name: "Siemens Limited"
   sector: "22 Software Services"
-  stake: "90"
+  stake: "27"
   mcap: "75480"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
   rank: "0"
@@ -12409,7 +12409,7 @@
 - symbol: "SNOWMAN"
   name: "Snowman Logistics Limited"
   sector: "74 Logistics"
-  stake: "1"
+  stake: "0"
   mcap: "713"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
   rank: "0"
@@ -12475,7 +12475,7 @@
 - symbol: "SPICEJET"
   name: "SPICEJET LTD"
   sector: "41 Industrials"
-  stake: "1"
+  stake: "3"
   mcap: "4580"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="non-zero">995</span><span class="non-zero">987</span>
   rank: "0"
@@ -12651,7 +12651,7 @@
 - symbol: "SYNGENE"
   name: "Syngene International Limited"
   sector: "65 Health Care"
-  stake: "11"
+  stake: "12"
   mcap: "25847"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
   rank: "0"
@@ -12673,7 +12673,7 @@
 - symbol: "TANLA"
   name: "Tanla Platforms Limited"
   sector: "22 Software Services"
-  stake: "5"
+  stake: "4"
   mcap: "11172"
   pastRating: <span class="zero">0</span><span class="non-zero">963</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
   rank: "0"
@@ -13179,7 +13179,7 @@
 - symbol: "WABAG"
   name: "VA Tech Wabag Limited"
   sector: "46 Utilities"
-  stake: "1"
+  stake: "69"
   mcap: "2113"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
   rank: "0"
@@ -13201,7 +13201,7 @@
 - symbol: "WEBELSOLAR"
   name: "Websol Energy System Limited"
   sector: "2 Renewable Energy"
-  stake: "2"
+  stake: "0"
   mcap: "218"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
   rank: "0"
