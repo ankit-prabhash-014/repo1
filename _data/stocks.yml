@@ -55,7 +55,7 @@
   day: "-0.29"
 - symbol: "JSL"
   name: "Jindal Stainless Limited"
-  sector: "24 Iron & Steel"
+  sector: "25 Iron & Steel"
   stake: "1"
   mcap: "7813"
   pastRating: <span class="non-zero">992</span><span class="non-zero">999</span><span class="non-zero">985</span><span class="non-zero">966</span><span class="non-zero">970</span>
@@ -77,7 +77,7 @@
   day: "-4.50"
 - symbol: "JSLHISAR"
   name: "Jindal Stainless (Hisar) Limited"
-  sector: "24 Iron & Steel"
+  sector: "25 Iron & Steel"
   stake: "1"
   mcap: "6561"
   pastRating: <span class="non-zero">990</span><span class="non-zero">995</span><span class="non-zero">990</span><span class="non-zero">979</span><span class="zero">0</span>
@@ -198,7 +198,7 @@
   day: "-1.43"
 - symbol: "KIOCL"
   name: "KIOCL Limited"
-  sector: "24 Iron & Steel"
+  sector: "25 Iron & Steel"
   stake: "3"
   mcap: "14847"
   pastRating: <span class="non-zero">972</span><span class="non-zero">994</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
@@ -220,7 +220,7 @@
   day: "4.70"
 - symbol: "GPIL"
   name: "Godawari Power And Ispat limited"
-  sector: "24 Iron & Steel"
+  sector: "25 Iron & Steel"
   stake: "1"
   mcap: "4162"
   pastRating: <span class="non-zero">966</span><span class="non-zero">973</span><span class="non-zero">979</span><span class="non-zero">981</span><span class="zero">0</span>
@@ -264,7 +264,7 @@
   day: "9.23"
 - symbol: "MAITHANALL"
   name: "Maithan Alloys Limited"
-  sector: "24 Iron & Steel"
+  sector: "25 Iron & Steel"
   stake: "1"
   mcap: "2864"
   pastRating: <span class="non-zero">960</span><span class="non-zero">946</span><span class="non-zero">943</span><span class="non-zero">941</span><span class="zero">0</span>
@@ -286,7 +286,7 @@
   day: "-1.59"
 - symbol: "KIRLFER"
   name: "Kirloskar Ferrous Industries Ltd"
-  sector: "24 Iron & Steel"
+  sector: "25 Iron & Steel"
   stake: "1"
   mcap: "3358"
   pastRating: <span class="non-zero">957</span><span class="non-zero">958</span><span class="non-zero">954</span><span class="non-zero">939</span><span class="zero">0</span>
@@ -308,7 +308,7 @@
   day: "-2.47"
 - symbol: "TINPLATE"
   name: "The Tinplate Company of India Limited"
-  sector: "24 Iron & Steel"
+  sector: "25 Iron & Steel"
   stake: "1"
   mcap: "3078"
   pastRating: <span class="non-zero">957</span><span class="non-zero">989</span><span class="non-zero">993</span><span class="non-zero">983</span><span class="non-zero">977</span>
@@ -319,7 +319,7 @@
   day: "-0.20"
 - symbol: "SARDAEN"
   name: "Sarda Energy & Minerals Limited"
-  sector: "24 Iron & Steel"
+  sector: "25 Iron & Steel"
   stake: "0"
   mcap: "2458"
   pastRating: <span class="non-zero">954</span><span class="non-zero">948</span><span class="non-zero">945</span><span class="non-zero">963</span><span class="zero">0</span>
@@ -396,7 +396,7 @@
   day: "-0.59"
 - symbol: "GNA"
   name: "GNA Axles Limited"
-  sector: "25 Auto Parts"
+  sector: "26 Auto Parts"
   stake: "1"
   mcap: "1966"
   pastRating: <span class="non-zero">940</span><span class="non-zero">926</span><span class="non-zero">918</span><span class="non-zero">918</span><span class="non-zero">914</span>
@@ -594,7 +594,7 @@
   day: "2.28"
 - symbol: "SWARAJENG"
   name: "Swaraj Engines Limited"
-  sector: "26 Industrials"
+  sector: "24 Industrials"
   stake: "1"
   mcap: "1966"
   pastRating: <span class="non-zero">990</span><span class="non-zero">993</span><span class="non-zero">993</span><span class="zero">0</span><span class="zero">0</span>
@@ -770,7 +770,7 @@
   day: "1.89"
 - symbol: "IMFA"
   name: "Indian Metals & Ferro Alloys Limited"
-  sector: "24 Iron & Steel"
+  sector: "25 Iron & Steel"
   stake: "0"
   mcap: "1882"
   pastRating: <span class="non-zero">955</span><span class="non-zero">946</span><span class="non-zero">940</span><span class="non-zero">926</span><span class="zero">0</span>
@@ -1199,7 +1199,7 @@
   day: "-0.32"
 - symbol: "UCALFUEL"
   name: "Ucal Fuel Systems Limited"
-  sector: "25 Auto Parts"
+  sector: "26 Auto Parts"
   stake: "0"
   mcap: "324"
   pastRating: <span class="non-zero">972</span><span class="non-zero">992</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
@@ -1265,7 +1265,7 @@
   day: "-0.22"
 - symbol: "MAHINDCIE"
   name: "Mahindra CIE Automotive Limited"
-  sector: "25 Auto Parts"
+  sector: "26 Auto Parts"
   stake: "3"
   mcap: "8667"
   pastRating: <span class="non-zero">964</span><span class="non-zero">964</span><span class="non-zero">968</span><span class="non-zero">979</span><span class="zero">0</span>
@@ -1287,8 +1287,8 @@
   day: "-3.21"
 - symbol: "TEAMLEASE"
   name: "Teamlease Services Limited"
-  sector: "26 Industrials"
-  stake: "5"
+  sector: "24 Industrials"
+  stake: "6"
   mcap: "7612"
   pastRating: <span class="non-zero">963</span><span class="non-zero">967</span><span class="non-zero">974</span><span class="non-zero">986</span><span class="non-zero">989</span>
   rank: "118"
@@ -1760,7 +1760,7 @@
   day: "0.19"
 - symbol: "AUTOAXLES"
   name: "Automotive Axles Limited"
-  sector: "25 Auto Parts"
+  sector: "26 Auto Parts"
   stake: "1"
   mcap: "1844"
   pastRating: <span class="non-zero">991</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
@@ -1804,7 +1804,7 @@
   day: "1.10"
 - symbol: "ACE"
   name: "Action Construction Equipment Limited"
-  sector: "26 Industrials"
+  sector: "24 Industrials"
   stake: "2"
   mcap: "2966"
   pastRating: <span class="non-zero">990</span><span class="non-zero">993</span><span class="non-zero">1000</span><span class="non-zero">997</span><span class="non-zero">1001</span>
@@ -1826,7 +1826,7 @@
   day: "1.17"
 - symbol: "GALLANTT"
   name: "Gallantt Metal Limited"
-  sector: "24 Iron & Steel"
+  sector: "25 Iron & Steel"
   stake: "0"
   mcap: "572"
   pastRating: <span class="non-zero">990</span><span class="non-zero">985</span><span class="non-zero">967</span><span class="non-zero">971</span><span class="zero">0</span>
@@ -1947,7 +1947,7 @@
   day: "3.82"
 - symbol: "VSTTILLERS"
   name: "V.S.T Tillers Tractors Limited"
-  sector: "26 Industrials"
+  sector: "24 Industrials"
   stake: "2"
   mcap: "2318"
   pastRating: <span class="non-zero">934</span><span class="non-zero">964</span><span class="non-zero">979</span><span class="non-zero">970</span><span class="non-zero">957</span>
@@ -1980,7 +1980,7 @@
   day: "3.56"
 - symbol: "OPTIEMUS"
   name: "Optiemus Infracom Limited"
-  sector: "15 Technology Hardware"
+  sector: "14 Technology Hardware"
   stake: "18"
   mcap: "2871"
   pastRating: <span class="non-zero">983</span><span class="non-zero">1005</span><span class="non-zero">1006</span><span class="non-zero">980</span><span class="non-zero">976</span>
@@ -2090,7 +2090,7 @@
   day: "2.65"
 - symbol: "DLINKINDIA"
   name: "D-Link (India) Limited"
-  sector: "15 Technology Hardware"
+  sector: "14 Technology Hardware"
   stake: "3"
   mcap: "531"
   pastRating: <span class="non-zero">980</span><span class="non-zero">974</span><span class="non-zero">976</span><span class="non-zero">964</span><span class="non-zero">951</span>
@@ -2112,7 +2112,7 @@
   day: "-1.57"
 - symbol: "JAMNAAUTO"
   name: "Jamna Auto Industries Limited"
-  sector: "25 Auto Parts"
+  sector: "26 Auto Parts"
   stake: "1"
   mcap: "3598"
   pastRating: <span class="non-zero">980</span><span class="non-zero">971</span><span class="zero">0</span><span class="non-zero">993</span><span class="non-zero">990</span>
@@ -2134,7 +2134,7 @@
   day: "0.79"
 - symbol: "SURYAROSNI"
   name: "Surya Roshni Limited"
-  sector: "24 Iron & Steel"
+  sector: "25 Iron & Steel"
   stake: "1"
   mcap: "4085"
   pastRating: <span class="non-zero">980</span><span class="non-zero">987</span><span class="non-zero">948</span><span class="non-zero">920</span><span class="non-zero">895</span>
@@ -2376,8 +2376,8 @@
   day: "-4.62"
 - symbol: "GPPL"
   name: "Gujarat Pipavav Port Limited"
-  sector: "26 Industrials"
-  stake: "3"
+  sector: "24 Industrials"
+  stake: "4"
   mcap: "4856"
   pastRating: <span class="non-zero">968</span><span class="non-zero">976</span><span class="non-zero">977</span><span class="non-zero">982</span><span class="zero">0</span>
   rank: "217"
@@ -2409,7 +2409,7 @@
   day: "-0.78"
 - symbol: "MINDAIND"
   name: "Minda Industries Limited"
-  sector: "25 Auto Parts"
+  sector: "26 Auto Parts"
   stake: "7"
   mcap: "21036"
   pastRating: <span class="non-zero">967</span><span class="non-zero">960</span><span class="non-zero">984</span><span class="non-zero">989</span><span class="zero">0</span>
@@ -2420,7 +2420,7 @@
   day: "0.81"
 - symbol: "PRAKASH"
   name: "Prakash Industries Limited"
-  sector: "24 Iron & Steel"
+  sector: "25 Iron & Steel"
   stake: "0"
   mcap: "1202"
   pastRating: <span class="non-zero">967</span><span class="non-zero">982</span><span class="non-zero">970</span><span class="non-zero">965</span><span class="zero">0</span>
@@ -2486,7 +2486,7 @@
   day: "-0.24"
 - symbol: "JBMA"
   name: "JBM Auto Limited"
-  sector: "25 Auto Parts"
+  sector: "26 Auto Parts"
   stake: "1"
   mcap: "2413"
   pastRating: <span class="non-zero">962</span><span class="non-zero">965</span><span class="non-zero">960</span><span class="non-zero">944</span><span class="non-zero">934</span>
@@ -2497,7 +2497,7 @@
   day: "0.12"
 - symbol: "KAMDHENU"
   name: "Kamdhenu Limited"
-  sector: "24 Iron & Steel"
+  sector: "25 Iron & Steel"
   stake: "0"
   mcap: "543"
   pastRating: <span class="non-zero">912</span><span class="non-zero">931</span><span class="non-zero">916</span><span class="non-zero">933</span><span class="non-zero">922</span>
@@ -2651,7 +2651,7 @@
   day: "-0.44"
 - symbol: "SUPRAJIT"
   name: "Suprajit Engineering Limited"
-  sector: "25 Auto Parts"
+  sector: "26 Auto Parts"
   stake: "1"
   mcap: "4336"
   pastRating: <span class="non-zero">955</span><span class="non-zero">967</span><span class="non-zero">979</span><span class="non-zero">988</span><span class="zero">0</span>
@@ -2684,7 +2684,7 @@
   day: "4.63"
 - symbol: "TATASTLLP"
   name: "Tata Steel Long Products Limited"
-  sector: "24 Iron & Steel"
+  sector: "25 Iron & Steel"
   stake: "1"
   mcap: "3904"
   pastRating: <span class="non-zero">953</span><span class="non-zero">952</span><span class="non-zero">966</span><span class="non-zero">957</span><span class="zero">0</span>
@@ -2761,7 +2761,7 @@
   day: "-1.04"
 - symbol: "RAJRATAN"
   name: "Rajratan Global Wire Limited"
-  sector: "24 Iron & Steel"
+  sector: "25 Iron & Steel"
   stake: "0"
   mcap: "2068"
   pastRating: <span class="non-zero">947</span><span class="non-zero">945</span><span class="non-zero">960</span><span class="non-zero">982</span><span class="zero">0</span>
@@ -2805,7 +2805,7 @@
   day: "4.94"
 - symbol: "TWL"
   name: "Titagarh Wagons Limited"
-  sector: "26 Industrials"
+  sector: "24 Industrials"
   stake: "1"
   mcap: "1119"
   pastRating: <span class="non-zero">946</span><span class="non-zero">957</span><span class="non-zero">982</span><span class="non-zero">947</span><span class="non-zero">934</span>
@@ -2926,7 +2926,7 @@
   day: "-0.41"
 - symbol: "JAYNECOIND"
   name: "Jayaswal Neco Industries Limited"
-  sector: "24 Iron & Steel"
+  sector: "25 Iron & Steel"
   stake: "0"
   mcap: "1271"
   pastRating: <span class="non-zero">891</span><span class="non-zero">915</span><span class="non-zero">932</span><span class="non-zero">920</span><span class="zero">0</span>
@@ -2937,7 +2937,7 @@
   day: "2.93"
 - symbol: "RKFORGE"
   name: "Ramkrishna Forgings Limited"
-  sector: "26 Industrials"
+  sector: "24 Industrials"
   stake: "2"
   mcap: "3309"
   pastRating: <span class="non-zero">941</span><span class="non-zero">948</span><span class="non-zero">963</span><span class="non-zero">951</span><span class="non-zero">965</span>
@@ -3102,7 +3102,7 @@
   day: "1.20"
 - symbol: "WELCORP"
   name: "Welspun Corp Limited"
-  sector: "24 Iron & Steel"
+  sector: "25 Iron & Steel"
   stake: "1"
   mcap: "3330"
   pastRating: <span class="non-zero">935</span><span class="non-zero">931</span><span class="non-zero">940</span><span class="non-zero">928</span><span class="zero">0</span>
@@ -3443,7 +3443,7 @@
   day: "1.17"
 - symbol: "USHAMART"
   name: "Usha Martin Limited"
-  sector: "24 Iron & Steel"
+  sector: "25 Iron & Steel"
   stake: "0"
   mcap: "2388"
   pastRating: <span class="non-zero">920</span><span class="non-zero">915</span><span class="non-zero">910</span><span class="non-zero">900</span><span class="non-zero">889</span>
@@ -3597,7 +3597,7 @@
   day: "0.16"
 - symbol: "TATAMETALI"
   name: "Tata Metaliks Limited"
-  sector: "24 Iron & Steel"
+  sector: "25 Iron & Steel"
   stake: "1"
   mcap: "3179"
   pastRating: <span class="non-zero">956</span><span class="non-zero">957</span><span class="non-zero">960</span><span class="non-zero">963</span><span class="zero">0</span>
@@ -3707,7 +3707,7 @@
   day: "0.33"
 - symbol: "PRICOLLTD"
   name: "Pricol Limited"
-  sector: "25 Auto Parts"
+  sector: "26 Auto Parts"
   stake: "0"
   mcap: "1118"
   pastRating: <span class="non-zero">949</span><span class="non-zero">961</span><span class="non-zero">957</span><span class="non-zero">927</span><span class="non-zero">931</span>
@@ -3806,7 +3806,7 @@
   day: "-1.01"
 - symbol: "NAVNETEDUL"
   name: "Navneet Education Limited"
-  sector: "16 Publishing"
+  sector: "15 Publishing"
   stake: "27"
   mcap: "2348"
   pastRating: <span class="non-zero">944</span><span class="non-zero">947</span><span class="non-zero">953</span><span class="non-zero">947</span><span class="non-zero">951</span>
@@ -3850,7 +3850,7 @@
   day: "-0.62"
 - symbol: "FIEMIND"
   name: "Fiem Industries Limited"
-  sector: "25 Auto Parts"
+  sector: "26 Auto Parts"
   stake: "0"
   mcap: "1446"
   pastRating: <span class="non-zero">993</span><span class="non-zero">976</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
@@ -3861,7 +3861,7 @@
   day: "-2.28"
 - symbol: "BOSCHLTD"
   name: "Bosch Limited"
-  sector: "25 Auto Parts"
+  sector: "26 Auto Parts"
   stake: "14"
   mcap: "45009"
   pastRating: <span class="non-zero">942</span><span class="non-zero">940</span><span class="non-zero">938</span><span class="non-zero">982</span><span class="non-zero">979</span>
@@ -3938,8 +3938,8 @@
   day: "0.22"
 - symbol: "3MINDIA"
   name: "3M India Limited"
-  sector: "26 Industrials"
-  stake: "19"
+  sector: "24 Industrials"
+  stake: "20"
   mcap: "27864"
   pastRating: <span class="non-zero">989</span><span class="non-zero">992</span><span class="non-zero">997</span><span class="non-zero">1007</span><span class="non-zero">1000</span>
   rank: "359"
@@ -3982,7 +3982,7 @@
   day: "-1.10"
 - symbol: "HINDCOMPOS"
   name: "Hindustan Composites Limited"
-  sector: "25 Auto Parts"
+  sector: "26 Auto Parts"
   stake: "0"
   mcap: "483"
   pastRating: <span class="non-zero">987</span><span class="non-zero">977</span><span class="non-zero">981</span><span class="non-zero">977</span><span class="zero">0</span>
@@ -4147,7 +4147,7 @@
   day: "2.12"
 - symbol: "MUNJALAU"
   name: "Munjal Auto Industries Limited"
-  sector: "25 Auto Parts"
+  sector: "26 Auto Parts"
   stake: "0"
   mcap: "570"
   pastRating: <span class="non-zero">977</span><span class="non-zero">984</span><span class="zero">0</span><span class="non-zero">979</span><span class="zero">0</span>
@@ -4279,7 +4279,7 @@
   day: "2.14"
 - symbol: "GABRIEL"
   name: "Gabriel India Limited"
-  sector: "25 Auto Parts"
+  sector: "26 Auto Parts"
   stake: "1"
   mcap: "2127"
   pastRating: <span class="non-zero">970</span><span class="non-zero">969</span><span class="non-zero">979</span><span class="non-zero">970</span><span class="non-zero">961</span>
@@ -4334,7 +4334,7 @@
   day: "-1.22"
 - symbol: "PRECAM"
   name: "Precision Camshafts Limited"
-  sector: "25 Auto Parts"
+  sector: "26 Auto Parts"
   stake: "0"
   mcap: "911"
   pastRating: <span class="non-zero">967</span><span class="non-zero">973</span><span class="non-zero">963</span><span class="non-zero">942</span><span class="zero">0</span>
@@ -4499,7 +4499,7 @@
   day: "-1.07"
 - symbol: "BCG"
   name: "Brightcom Group Limited"
-  sector: "14 Communication Services"
+  sector: "13 Communication Services"
   stake: "20"
   mcap: "5021"
   pastRating: <span class="non-zero">855</span><span class="non-zero">846</span><span class="non-zero">848</span><span class="non-zero">859</span><span class="non-zero">869</span>
@@ -4587,7 +4587,7 @@
   day: "-0.90"
 - symbol: "WABCOINDIA"
   name: "WABCO India Limited"
-  sector: "25 Auto Parts"
+  sector: "26 Auto Parts"
   stake: "4"
   mcap: "13427"
   pastRating: <span class="non-zero">1001</span><span class="non-zero">995</span><span class="zero">0</span><span class="non-zero">1004</span><span class="zero">0</span>
@@ -4631,7 +4631,7 @@
   day: "-4.03"
 - symbol: "IGARASHI"
   name: "Igarashi Motors India Limited"
-  sector: "25 Auto Parts"
+  sector: "26 Auto Parts"
   stake: "1"
   mcap: "1643"
   pastRating: <span class="non-zero">998</span><span class="zero">0</span><span class="zero">0</span><span class="non-zero">993</span><span class="zero">0</span>
@@ -4664,7 +4664,7 @@
   day: "-0.45"
 - symbol: "SUNDRMFAST"
   name: "Sundram Fasteners Limited"
-  sector: "25 Auto Parts"
+  sector: "26 Auto Parts"
   stake: "6"
   mcap: "19085"
   pastRating: <span class="non-zero">997</span><span class="non-zero">986</span><span class="non-zero">995</span><span class="non-zero">997</span><span class="non-zero">995</span>
@@ -4972,7 +4972,7 @@
   day: "0.34"
 - symbol: "MUKANDLTD"
   name: "Mukand Limited"
-  sector: "24 Iron & Steel"
+  sector: "25 Iron & Steel"
   stake: "0"
   mcap: "1870"
   pastRating: <span class="non-zero">980</span><span class="non-zero">974</span><span class="non-zero">974</span><span class="non-zero">961</span><span class="zero">0</span>
@@ -5060,7 +5060,7 @@
   day: "-1.09"
 - symbol: "SANDESH"
   name: "The Sandesh Limited"
-  sector: "16 Publishing"
+  sector: "15 Publishing"
   stake: "7"
   mcap: "602"
   pastRating: <span class="non-zero">978</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
@@ -5071,7 +5071,7 @@
   day: "4.21"
 - symbol: "TEXRAIL"
   name: "Texmaco Rail & Engineering Limited"
-  sector: "26 Industrials"
+  sector: "24 Industrials"
   stake: "1"
   mcap: "861"
   pastRating: <span class="non-zero">978</span><span class="non-zero">983</span><span class="non-zero">992</span><span class="non-zero">977</span><span class="zero">0</span>
@@ -5093,7 +5093,7 @@
   day: "-1.05"
 - symbol: "MINDACORP"
   name: "Minda Corporation Limited"
-  sector: "25 Auto Parts"
+  sector: "26 Auto Parts"
   stake: "1"
   mcap: "3047"
   pastRating: <span class="non-zero">977</span><span class="non-zero">994</span><span class="non-zero">1010</span><span class="non-zero">994</span><span class="zero">0</span>
@@ -5192,7 +5192,7 @@
   day: "-0.79"
 - symbol: "RML"
   name: "Rane (Madras) Limited"
-  sector: "25 Auto Parts"
+  sector: "26 Auto Parts"
   stake: "0"
   mcap: "602"
   pastRating: <span class="non-zero">974</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
@@ -5225,7 +5225,7 @@
   day: "-3.52"
 - symbol: "MOTHERSUMI"
   name: "Motherson Sumi Systems Limited"
-  sector: "25 Auto Parts"
+  sector: "26 Auto Parts"
   stake: "22"
   mcap: "70984"
   pastRating: <span class="non-zero">971</span><span class="non-zero">970</span><span class="non-zero">992</span><span class="non-zero">982</span><span class="zero">0</span>
@@ -5280,7 +5280,7 @@
   day: "-4.74"
 - symbol: "JAYBARMARU"
   name: "Jay Bharat Maruti Limited"
-  sector: "25 Auto Parts"
+  sector: "26 Auto Parts"
   stake: "0"
   mcap: "829"
   pastRating: <span class="non-zero">969</span><span class="non-zero">962</span><span class="non-zero">965</span><span class="non-zero">956</span><span class="zero">0</span>
@@ -5401,7 +5401,7 @@
   day: "-0.18"
 - symbol: "DYNAMATECH"
   name: "Dynamatic Technologies Limited"
-  sector: "25 Auto Parts"
+  sector: "26 Auto Parts"
   stake: "1"
   mcap: "1907"
   pastRating: <span class="non-zero">1012</span><span class="non-zero">1004</span><span class="non-zero">997</span><span class="non-zero">973</span><span class="non-zero">963</span>
@@ -5423,7 +5423,7 @@
   day: "-0.39"
 - symbol: "INDNIPPON"
   name: "India Nippon Electricals Limited"
-  sector: "25 Auto Parts"
+  sector: "26 Auto Parts"
   stake: "0"
   mcap: "812"
   pastRating: <span class="non-zero">962</span><span class="non-zero">966</span><span class="non-zero">993</span><span class="non-zero">979</span><span class="zero">0</span>
@@ -5434,7 +5434,7 @@
   day: "-0.05"
 - symbol: "LUMAXTECH"
   name: "Lumax Auto Technologies Limited"
-  sector: "25 Auto Parts"
+  sector: "26 Auto Parts"
   stake: "0"
   mcap: "929"
   pastRating: <span class="non-zero">962</span><span class="non-zero">980</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
@@ -5533,7 +5533,7 @@
   day: "-2.27"
 - symbol: "CEBBCO"
   name: "Commercial Engineers & Body Builders Co Limited"
-  sector: "26 Industrials"
+  sector: "24 Industrials"
   stake: "0"
   mcap: "310"
   pastRating: <span class="non-zero">1005</span><span class="non-zero">991</span><span class="non-zero">1002</span><span class="non-zero">994</span><span class="zero">0</span>
@@ -5621,7 +5621,7 @@
   day: "1.65"
 - symbol: "JTEKTINDIA"
   name: "Jtekt India Limited"
-  sector: "25 Auto Parts"
+  sector: "26 Auto Parts"
   stake: "1"
   mcap: "2603"
   pastRating: <span class="non-zero">1000</span><span class="non-zero">986</span><span class="non-zero">984</span><span class="non-zero">988</span><span class="zero">0</span>
@@ -5654,8 +5654,8 @@
   day: "0.59"
 - symbol: "QUESS"
   name: "Quess Corp Limited"
-  sector: "26 Industrials"
-  stake: "9"
+  sector: "24 Industrials"
+  stake: "10"
   mcap: "13527"
   pastRating: <span class="non-zero">998</span><span class="non-zero">998</span><span class="non-zero">1004</span><span class="non-zero">991</span><span class="non-zero">973</span>
   rank: "515"
@@ -5764,7 +5764,7 @@
   day: "-0.49"
 - symbol: "SUBROS"
   name: "Subros Limited"
-  sector: "25 Auto Parts"
+  sector: "26 Auto Parts"
   stake: "1"
   mcap: "2123"
   pastRating: <span class="non-zero">934</span><span class="non-zero">974</span><span class="non-zero">978</span><span class="non-zero">968</span><span class="zero">0</span>
@@ -5863,7 +5863,7 @@
   day: "-1.64"
 - symbol: "BEML"
   name: "BEML Limited"
-  sector: "26 Industrials"
+  sector: "24 Industrials"
   stake: "4"
   mcap: "5734"
   pastRating: <span class="non-zero">971</span><span class="non-zero">955</span><span class="non-zero">969</span><span class="non-zero">985</span><span class="non-zero">992</span>
@@ -5874,7 +5874,7 @@
   day: "-1.60"
 - symbol: "SHYAMCENT"
   name: "Shyam Century Ferrous Limited"
-  sector: "24 Iron & Steel"
+  sector: "25 Iron & Steel"
   stake: "0"
   mcap: "265"
   pastRating: <span class="non-zero">920</span><span class="non-zero">922</span><span class="non-zero">892</span><span class="non-zero">868</span><span class="zero">0</span>
@@ -5995,7 +5995,7 @@
   day: "-2.24"
 - symbol: "JISLJALEQS"
   name: "Jain Irrigation Systems Limited"
-  sector: "26 Industrials"
+  sector: "24 Industrials"
   stake: "1"
   mcap: "1034"
   pastRating: <span class="non-zero">955</span><span class="non-zero">965</span><span class="non-zero">967</span><span class="non-zero">980</span><span class="non-zero">999</span>
@@ -6226,7 +6226,7 @@
   day: "-0.70"
 - symbol: "ADVANIHOTR"
   name: "Advani Hotels & Resorts (India) Limited"
-  sector: "13 Hotels, Resorts & Cruise Lines"
+  sector: "16 Hotels, Resorts & Cruise Lines"
   stake: "0"
   mcap: "381"
   pastRating: <span class="non-zero">972</span><span class="non-zero">982</span><span class="non-zero">989</span><span class="non-zero">959</span><span class="non-zero">947</span>
@@ -6270,7 +6270,7 @@
   day: "-0.23"
 - symbol: "JINDALSTEL"
   name: "Jindal Steel & Power Limited"
-  sector: "24 Iron & Steel"
+  sector: "25 Iron & Steel"
   stake: "7"
   mcap: "36616"
   pastRating: <span class="non-zero">964</span><span class="non-zero">980</span><span class="non-zero">974</span><span class="non-zero">966</span><span class="zero">0</span>
@@ -6281,7 +6281,7 @@
   day: "2.02"
 - symbol: "HTMEDIA"
   name: "HT Media Limited"
-  sector: "16 Publishing"
+  sector: "15 Publishing"
   stake: "7"
   mcap: "577"
   pastRating: <span class="non-zero">963</span><span class="non-zero">980</span><span class="non-zero">975</span><span class="non-zero">955</span><span class="zero">0</span>
@@ -6556,7 +6556,7 @@
   day: "-3.01"
 - symbol: "DBCORP"
   name: "D.B.Corp Limited"
-  sector: "16 Publishing"
+  sector: "15 Publishing"
   stake: "19"
   mcap: "1653"
   pastRating: <span class="non-zero">994</span><span class="non-zero">990</span><span class="non-zero">988</span><span class="non-zero">974</span><span class="non-zero">982</span>
@@ -6567,7 +6567,7 @@
   day: "-0.20"
 - symbol: "JAGRAN"
   name: "Jagran Prakashan Limited"
-  sector: "16 Publishing"
+  sector: "15 Publishing"
   stake: "18"
   mcap: "1579"
   pastRating: <span class="non-zero">994</span><span class="non-zero">992</span><span class="non-zero">1003</span><span class="non-zero">987</span><span class="zero">0</span>
@@ -6578,7 +6578,7 @@
   day: "0.90"
 - symbol: "MAHEPC"
   name: "Mahindra EPC Irrigation Limited"
-  sector: "26 Industrials"
+  sector: "24 Industrials"
   stake: "0"
   mcap: "372"
   pastRating: <span class="non-zero">992</span><span class="non-zero">986</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
@@ -6589,7 +6589,7 @@
   day: "-1.03"
 - symbol: "PPAP"
   name: "PPAP Automotive Limited"
-  sector: "25 Auto Parts"
+  sector: "26 Auto Parts"
   stake: "0"
   mcap: "336"
   pastRating: <span class="non-zero">991</span><span class="non-zero">989</span><span class="zero">0</span><span class="non-zero">964</span><span class="zero">0</span>
@@ -6633,8 +6633,8 @@
   day: "-0.42"
 - symbol: "DELTACORP"
   name: "Delta Corp Limited"
-  sector: "13 Hotels, Resorts & Cruise Lines"
-  stake: "5"
+  sector: "16 Hotels, Resorts & Cruise Lines"
+  stake: "4"
   mcap: "6457"
   pastRating: <span class="non-zero">938</span><span class="non-zero">964</span><span class="non-zero">977</span><span class="non-zero">953</span><span class="non-zero">946</span>
   rank: "604"
@@ -6655,7 +6655,7 @@
   day: "0.34"
 - symbol: "MUNJALSHOW"
   name: "Munjal Showa Limited"
-  sector: "25 Auto Parts"
+  sector: "26 Auto Parts"
   stake: "0"
   mcap: "531"
   pastRating: <span class="non-zero">987</span><span class="non-zero">983</span><span class="zero">0</span><span class="non-zero">989</span><span class="zero">0</span>
@@ -6666,7 +6666,7 @@
   day: "-0.07"
 - symbol: "JISLDVREQS"
   name: "Jain Irrigation Systems Limited"
-  sector: "26 Industrials"
+  sector: "24 Industrials"
   stake: "1"
   mcap: "1833"
   pastRating: <span class="non-zero">973</span><span class="non-zero">978</span><span class="non-zero">985</span><span class="non-zero">990</span><span class="non-zero">1014</span>
@@ -6864,7 +6864,7 @@
   day: "0.91"
 - symbol: "ITDC"
   name: "India Tourism Development Corporation Limited"
-  sector: "13 Hotels, Resorts & Cruise Lines"
+  sector: "16 Hotels, Resorts & Cruise Lines"
   stake: "2"
   mcap: "3513"
   pastRating: <span class="non-zero">986</span><span class="non-zero">983</span><span class="non-zero">988</span><span class="non-zero">979</span><span class="non-zero">967</span>
@@ -6897,7 +6897,7 @@
   day: "0.73"
 - symbol: "HMVL"
   name: "Hindustan Media Ventures Limited"
-  sector: "16 Publishing"
+  sector: "15 Publishing"
   stake: "6"
   mcap: "558"
   pastRating: <span class="non-zero">980</span><span class="non-zero">995</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
@@ -7117,7 +7117,7 @@
   day: "6.82"
 - symbol: "ISMTLTD"
   name: "ISMT Limited"
-  sector: "24 Iron & Steel"
+  sector: "25 Iron & Steel"
   stake: "0"
   mcap: "412"
   pastRating: <span class="non-zero">989</span><span class="non-zero">979</span><span class="non-zero">987</span><span class="non-zero">980</span><span class="non-zero">987</span>
@@ -7238,7 +7238,7 @@
   day: "19.54"
 - symbol: "ROHLTD"
   name: "Royal Orchid Hotels Limited"
-  sector: "13 Hotels, Resorts & Cruise Lines"
+  sector: "16 Hotels, Resorts & Cruise Lines"
   stake: "0"
   mcap: "276"
   pastRating: <span class="non-zero">963</span><span class="non-zero">981</span><span class="non-zero">993</span><span class="non-zero">959</span><span class="non-zero">932</span>
@@ -7282,7 +7282,7 @@
   day: "0.00"
 - symbol: "LINCPEN"
   name: "Linc Pen & Plastics Limited"
-  sector: "26 Industrials"
+  sector: "24 Industrials"
   stake: "0"
   mcap: "314"
   pastRating: <span class="non-zero">953</span><span class="non-zero">969</span><span class="non-zero">985</span><span class="non-zero">963</span><span class="non-zero">940</span>
@@ -7293,7 +7293,7 @@
   day: "3.52"
 - symbol: "PVR"
   name: "PVR Limited"
-  sector: "14 Communication Services"
+  sector: "13 Communication Services"
   stake: "37"
   mcap: "9183"
   pastRating: <span class="non-zero">950</span><span class="non-zero">947</span><span class="non-zero">949</span><span class="non-zero">937</span><span class="non-zero">935</span>
@@ -7304,7 +7304,7 @@
   day: "0.98"
 - symbol: "DREDGECORP"
   name: "Dredging Corporation of India Limited"
-  sector: "26 Industrials"
+  sector: "24 Industrials"
   stake: "1"
   mcap: "982"
   pastRating: <span class="non-zero">998</span><span class="non-zero">992</span><span class="non-zero">1002</span><span class="zero">0</span><span class="zero">0</span>
@@ -7458,7 +7458,7 @@
   day: "1.09"
 - symbol: "ORIENTHOT"
   name: "Oriental Hotels Limited"
-  sector: "13 Hotels, Resorts & Cruise Lines"
+  sector: "16 Hotels, Resorts & Cruise Lines"
   stake: "0"
   mcap: "655"
   pastRating: <span class="non-zero">974</span><span class="non-zero">984</span><span class="non-zero">983</span><span class="non-zero">971</span><span class="zero">0</span>
@@ -7524,7 +7524,7 @@
   day: "2.22"
 - symbol: "SMLISUZU"
   name: "SML Isuzu Limited"
-  sector: "26 Industrials"
+  sector: "24 Industrials"
   stake: "1"
   mcap: "775"
   pastRating: <span class="non-zero">956</span><span class="non-zero">966</span><span class="non-zero">979</span><span class="non-zero">972</span><span class="zero">0</span>
@@ -7568,7 +7568,7 @@
   day: "2.72"
 - symbol: "AHLEAST"
   name: "Asian Hotels (East) Limited"
-  sector: "13 Hotels, Resorts & Cruise Lines"
+  sector: "16 Hotels, Resorts & Cruise Lines"
   stake: "0"
   mcap: "206"
   pastRating: <span class="non-zero">996</span><span class="non-zero">998</span><span class="non-zero">987</span><span class="non-zero">992</span><span class="zero">0</span>
@@ -7623,7 +7623,7 @@
   day: "0.00"
 - symbol: "AUTOIND"
   name: "Autoline Industries Limited"
-  sector: "25 Auto Parts"
+  sector: "26 Auto Parts"
   stake: "0"
   mcap: "219"
   pastRating: <span class="non-zero">941</span><span class="non-zero">964</span><span class="non-zero">984</span><span class="zero">0</span><span class="zero">0</span>
@@ -7645,7 +7645,7 @@
   day: "1.10"
 - symbol: "EIHOTEL"
   name: "EIH Limited"
-  sector: "13 Hotels, Resorts & Cruise Lines"
+  sector: "16 Hotels, Resorts & Cruise Lines"
   stake: "5"
   mcap: "7864"
   pastRating: <span class="non-zero">933</span><span class="non-zero">935</span><span class="non-zero">942</span><span class="non-zero">935</span><span class="non-zero">908</span>
@@ -7678,7 +7678,7 @@
   day: "4.64"
 - symbol: "THOMASCOOK"
   name: "Thomas Cook  (India)  Limited"
-  sector: "13 Hotels, Resorts & Cruise Lines"
+  sector: "16 Hotels, Resorts & Cruise Lines"
   stake: "2"
   mcap: "2427"
   pastRating: <span class="non-zero">927</span><span class="non-zero">965</span><span class="non-zero">975</span><span class="non-zero">950</span><span class="non-zero">970</span>
@@ -7700,8 +7700,8 @@
   day: "4.87"
 - symbol: "INDHOTEL"
   name: "The Indian Hotels Company Limited"
-  sector: "13 Hotels, Resorts & Cruise Lines"
-  stake: "15"
+  sector: "16 Hotels, Resorts & Cruise Lines"
+  stake: "14"
   mcap: "21276"
   pastRating: <span class="non-zero">923</span><span class="non-zero">932</span><span class="non-zero">952</span><span class="non-zero">921</span><span class="non-zero">922</span>
   rank: "701"
@@ -7766,7 +7766,7 @@
   day: "4.31"
 - symbol: "WONDERLA"
   name: "Wonderla Holidays Limited"
-  sector: "13 Hotels, Resorts & Cruise Lines"
+  sector: "16 Hotels, Resorts & Cruise Lines"
   stake: "1"
   mcap: "1299"
   pastRating: <span class="non-zero">965</span><span class="non-zero">954</span><span class="non-zero">964</span><span class="non-zero">969</span><span class="zero">0</span>
@@ -7832,7 +7832,7 @@
   day: "-3.56"
 - symbol: "MHRIL"
   name: "Mahindra Holidays & Resorts India Limited"
-  sector: "13 Hotels, Resorts & Cruise Lines"
+  sector: "16 Hotels, Resorts & Cruise Lines"
   stake: "3"
   mcap: "4795"
   pastRating: <span class="non-zero">998</span><span class="non-zero">1008</span><span class="zero">0</span><span class="non-zero">993</span><span class="non-zero">988</span>
@@ -7843,7 +7843,7 @@
   day: "0.55"
 - symbol: "LEMONTREE"
   name: "Lemon Tree Hotels Limited"
-  sector: "13 Hotels, Resorts & Cruise Lines"
+  sector: "16 Hotels, Resorts & Cruise Lines"
   stake: "2"
   mcap: "3252"
   pastRating: <span class="non-zero">896</span><span class="non-zero">909</span><span class="non-zero">937</span><span class="non-zero">949</span><span class="non-zero">942</span>
@@ -7920,7 +7920,7 @@
   day: "-4.57"
 - symbol: "SHIVAMAUTO"
   name: "Shivam Autotech Limited"
-  sector: "25 Auto Parts"
+  sector: "26 Auto Parts"
   stake: "0"
   mcap: "221"
   pastRating: <span class="non-zero">888</span><span class="non-zero">926</span><span class="non-zero">926</span><span class="non-zero">958</span><span class="zero">0</span>
@@ -7931,7 +7931,7 @@
   day: "18.46"
 - symbol: "CHALET"
   name: "Chalet Hotels Limited"
-  sector: "13 Hotels, Resorts & Cruise Lines"
+  sector: "16 Hotels, Resorts & Cruise Lines"
   stake: "3"
   mcap: "4443"
   pastRating: <span class="non-zero">932</span><span class="non-zero">920</span><span class="non-zero">928</span><span class="non-zero">907</span><span class="non-zero">900</span>
@@ -7942,7 +7942,7 @@
   day: "0.27"
 - symbol: "EIHAHOTELS"
   name: "EIH Associated Hotels Limited"
-  sector: "13 Hotels, Resorts & Cruise Lines"
+  sector: "16 Hotels, Resorts & Cruise Lines"
   stake: "1"
   mcap: "1098"
   pastRating: <span class="non-zero">931</span><span class="non-zero">944</span><span class="non-zero">939</span><span class="non-zero">920</span><span class="non-zero">900</span>
@@ -8008,7 +8008,7 @@
   day: "1.56"
 - symbol: "RADIOCITY"
   name: "Music Broadcast Limited"
-  sector: "14 Communication Services"
+  sector: "13 Communication Services"
   stake: "3"
   mcap: "833"
   pastRating: <span class="non-zero">996</span><span class="non-zero">1007</span><span class="non-zero">1002</span><span class="non-zero">994</span><span class="zero">0</span>
@@ -8085,7 +8085,7 @@
   day: "3.47"
 - symbol: "TAJGVK"
   name: "Taj GVK Hotels & Resorts Limited"
-  sector: "13 Hotels, Resorts & Cruise Lines"
+  sector: "16 Hotels, Resorts & Cruise Lines"
   stake: "1"
   mcap: "878"
   pastRating: <span class="non-zero">974</span><span class="non-zero">976</span><span class="non-zero">989</span><span class="non-zero">961</span><span class="non-zero">960</span>
@@ -8096,7 +8096,7 @@
   day: "1.80"
 - symbol: "JETAIRWAYS"
   name: "Jet Airways (India) Limited"
-  sector: "26 Industrials"
+  sector: "16 Hotels, Resorts & Cruise Lines"
   stake: "1"
   mcap: "1203"
   pastRating: <span class="non-zero">1019</span><span class="non-zero">1019</span><span class="non-zero">1013</span><span class="non-zero">1005</span><span class="non-zero">979</span>
@@ -8129,7 +8129,7 @@
   day: "0.84"
 - symbol: "INOXLEISUR"
   name: "INOX Leisure Limited"
-  sector: "14 Communication Services"
+  sector: "13 Communication Services"
   stake: "17"
   mcap: "4273"
   pastRating: <span class="non-zero">916</span><span class="non-zero">901</span><span class="non-zero">907</span><span class="non-zero">898</span><span class="non-zero">888</span>
@@ -8151,7 +8151,7 @@
   day: "-0.40"
 - symbol: "HLVLTD"
   name: "HLV LIMITED"
-  sector: "13 Hotels, Resorts & Cruise Lines"
+  sector: "16 Hotels, Resorts & Cruise Lines"
   stake: "0"
   mcap: "573"
   pastRating: <span class="non-zero">909</span><span class="non-zero">909</span><span class="non-zero">909</span><span class="non-zero">909</span><span class="non-zero">899</span>
@@ -8228,7 +8228,7 @@
   day: "4.98"
 - symbol: "VARROC"
   name: "Varroc Engineering Limited"
-  sector: "25 Auto Parts"
+  sector: "26 Auto Parts"
   stake: "1"
   mcap: "4430"
   pastRating: <span class="non-zero">975</span><span class="non-zero">967</span><span class="non-zero">990</span><span class="non-zero">976</span><span class="zero">0</span>
@@ -8393,7 +8393,7 @@
   day: "-0.01"
 - symbol: "AHLWEST"
   name: "Asian Hotels (West) Limited"
-  sector: "13 Hotels, Resorts & Cruise Lines"
+  sector: "16 Hotels, Resorts & Cruise Lines"
   stake: "0"
   mcap: "320"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
@@ -8448,7 +8448,7 @@
   day: "-0.13"
 - symbol: "ALICON"
   name: "Alicon Castalloy Limited"
-  sector: "25 Auto Parts"
+  sector: "26 Auto Parts"
   stake: "0"
   mcap: "1207"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
@@ -8745,7 +8745,7 @@
   day: "-0.46"
 - symbol: "BANCOINDIA"
   name: "Banco Products (I) Limited"
-  sector: "25 Auto Parts"
+  sector: "26 Auto Parts"
   stake: "0"
   mcap: "1428"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
@@ -8811,7 +8811,7 @@
   day: "-0.42"
 - symbol: "BDL"
   name: "Bharat Dynamics Limited"
-  sector: "26 Industrials"
+  sector: "24 Industrials"
   stake: "5"
   mcap: "7046"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
@@ -8866,7 +8866,7 @@
   day: "-1.18"
 - symbol: "BHARATFORG"
   name: "Bharat Forge Limited"
-  sector: "24 Iron & Steel"
+  sector: "25 Iron & Steel"
   stake: "7"
   mcap: "34910"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
@@ -8888,7 +8888,7 @@
   day: "0.04"
 - symbol: "BHARATWIRE"
   name: "Bharat Wire Ropes Limited"
-  sector: "24 Iron & Steel"
+  sector: "25 Iron & Steel"
   stake: "0"
   mcap: "399"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
@@ -9053,7 +9053,7 @@
   day: "-0.90"
 - symbol: "CEREBRAINT"
   name: "Cerebra Integrated Technologies Limited"
-  sector: "15 Technology Hardware"
+  sector: "14 Technology Hardware"
   stake: "4"
   mcap: "682"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
@@ -9328,7 +9328,7 @@
   day: "0.24"
 - symbol: "EBIXFOREX"
   name: "EBIXCASH WORLD MONEY INDIA LIMITED"
-  sector: "13 Hotels, Resorts & Cruise Lines"
+  sector: "16 Hotels, Resorts & Cruise Lines"
   stake: "0"
   mcap: "526"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
@@ -9460,7 +9460,7 @@
   day: "2.19"
 - symbol: "ENDURANCE"
   name: "Endurance Technologies Limited"
-  sector: "25 Auto Parts"
+  sector: "26 Auto Parts"
   stake: "7"
   mcap: "21944"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
@@ -9471,7 +9471,7 @@
   day: "1.29"
 - symbol: "ENIL"
   name: "Entertainment Network (India) Limited"
-  sector: "14 Communication Services"
+  sector: "13 Communication Services"
   stake: "4"
   mcap: "892"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
@@ -9515,8 +9515,8 @@
   day: "2.91"
 - symbol: "EVERESTIND"
   name: "Everest Industries Limited"
-  sector: "26 Industrials"
-  stake: "0"
+  sector: "24 Industrials"
+  stake: "1"
   mcap: "691"
   pastRating: <span class="zero">0</span><span class="non-zero">991</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
   rank: "0"
@@ -9581,7 +9581,7 @@
   day: "2.13"
 - symbol: "FMGOETZE"
   name: "Federal-Mogul Goetze (India) Limited."
-  sector: "25 Auto Parts"
+  sector: "26 Auto Parts"
   stake: "0"
   mcap: "1508"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
@@ -9614,7 +9614,7 @@
   day: "0.27"
 - symbol: "GALLISPAT"
   name: "Gallantt Ispat Limited"
-  sector: "24 Iron & Steel"
+  sector: "25 Iron & Steel"
   stake: "0"
   mcap: "1495"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="non-zero">1000</span><span class="zero">0</span>
@@ -9625,7 +9625,7 @@
   day: "-4.06"
 - symbol: "GANDHITUBE"
   name: "Gandhi Special Tubes Limited"
-  sector: "25 Auto Parts"
+  sector: "26 Auto Parts"
   stake: "0"
   mcap: "586"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
@@ -9768,7 +9768,7 @@
   day: "-0.89"
 - symbol: "GOODLUCK"
   name: "Goodluck India Limited"
-  sector: "24 Iron & Steel"
+  sector: "25 Iron & Steel"
   stake: "0"
   mcap: "720"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="non-zero">1002</span><span class="non-zero">1004</span>
@@ -9834,7 +9834,7 @@
   day: "-0.07"
 - symbol: "GREENLAM"
   name: "Greenlam Industries Limited"
-  sector: "26 Industrials"
+  sector: "24 Industrials"
   stake: "2"
   mcap: "3379"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
@@ -9878,7 +9878,7 @@
   day: "-1.11"
 - symbol: "GTL"
   name: "GTL Limited"
-  sector: "14 Communication Services"
+  sector: "13 Communication Services"
   stake: "1"
   mcap: "238"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
@@ -9889,7 +9889,7 @@
   day: "0.33"
 - symbol: "GTLINFRA"
   name: "GTL Infrastructure Limited"
-  sector: "14 Communication Services"
+  sector: "13 Communication Services"
   stake: "9"
   mcap: "2169"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
@@ -9955,8 +9955,8 @@
   day: "-1.09"
 - symbol: "HAL"
   name: "Hindustan Aeronautics Limited"
-  sector: "26 Industrials"
-  stake: "31"
+  sector: "24 Industrials"
+  stake: "32"
   mcap: "44815"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
   rank: "0"
@@ -10186,7 +10186,7 @@
   day: "-1.03"
 - symbol: "HITECHGEAR"
   name: "The Hi-Tech Gears Limited"
-  sector: "25 Auto Parts"
+  sector: "26 Auto Parts"
   stake: "0"
   mcap: "497"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
@@ -10329,7 +10329,7 @@
   day: "-1.52"
 - symbol: "IMPAL"
   name: "India Motor Parts and Accessories Limited"
-  sector: "25 Auto Parts"
+  sector: "26 Auto Parts"
   stake: "0"
   mcap: "948"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
@@ -10362,8 +10362,8 @@
   day: "-0.90"
 - symbol: "INDIGO"
   name: "InterGlobe Aviation Limited"
-  sector: "13 Hotels, Resorts & Cruise Lines"
-  stake: "58"
+  sector: "16 Hotels, Resorts & Cruise Lines"
+  stake: "55"
   mcap: "82387"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
   rank: "0"
@@ -10516,7 +10516,7 @@
   day: "0.49"
 - symbol: "JAIBALAJI"
   name: "Jai Balaji Industries Limited"
-  sector: "24 Iron & Steel"
+  sector: "25 Iron & Steel"
   stake: "0"
   mcap: "590"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
@@ -10626,7 +10626,7 @@
   day: "-0.08"
 - symbol: "JSWISPL"
   name: "JSW Ispat Special Products Limited"
-  sector: "24 Iron & Steel"
+  sector: "25 Iron & Steel"
   stake: "0"
   mcap: "1524"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
@@ -10637,7 +10637,7 @@
   day: "1.98"
 - symbol: "JSWSTEEL"
   name: "JSW Steel Limited"
-  sector: "24 Iron & Steel"
+  sector: "25 Iron & Steel"
   stake: "30"
   mcap: "159295"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
@@ -10802,7 +10802,7 @@
   day: "1.12"
 - symbol: "KOKUYOCMLN"
   name: "Kokuyo Camlin Limited"
-  sector: "26 Industrials"
+  sector: "24 Industrials"
   stake: "0"
   mcap: "679"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
@@ -10857,7 +10857,7 @@
   day: "-1.83"
 - symbol: "KSL"
   name: "Kalyani Steels Limited"
-  sector: "24 Iron & Steel"
+  sector: "25 Iron & Steel"
   stake: "0"
   mcap: "1682"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
@@ -10945,7 +10945,7 @@
   day: "0.87"
 - symbol: "LUMAXIND"
   name: "Lumax Industries Limited"
-  sector: "25 Auto Parts"
+  sector: "26 Auto Parts"
   stake: "0"
   mcap: "1355"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
@@ -11022,7 +11022,7 @@
   day: "-1.08"
 - symbol: "MANAKSTEEL"
   name: "Manaksia Steels Limited"
-  sector: "24 Iron & Steel"
+  sector: "25 Iron & Steel"
   stake: "0"
   mcap: "206"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
@@ -11132,7 +11132,7 @@
   day: "0.53"
 - symbol: "MENONBE"
   name: "Menon Bearings Limited"
-  sector: "25 Auto Parts"
+  sector: "26 Auto Parts"
   stake: "0"
   mcap: "404"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
@@ -11176,7 +11176,7 @@
   day: "-0.81"
 - symbol: "MMFL"
   name: "MM Forgings Limited"
-  sector: "24 Iron & Steel"
+  sector: "25 Iron & Steel"
   stake: "0"
   mcap: "1991"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
@@ -11253,7 +11253,7 @@
   day: "-1.06"
 - symbol: "MPSLTD"
   name: "MPS Limited"
-  sector: "16 Publishing"
+  sector: "15 Publishing"
   stake: "14"
   mcap: "1234"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
@@ -11264,7 +11264,7 @@
   day: "1.40"
 - symbol: "MSPL"
   name: "MSP Steel & Power Limited"
-  sector: "24 Iron & Steel"
+  sector: "25 Iron & Steel"
   stake: "0"
   mcap: "362"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
@@ -11385,7 +11385,7 @@
   day: "-3.75"
 - symbol: "NELCAST"
   name: "Nelcast Limited"
-  sector: "24 Iron & Steel"
+  sector: "25 Iron & Steel"
   stake: "0"
   mcap: "733"
   pastRating: <span class="zero">0</span><span class="non-zero">1013</span><span class="non-zero">1017</span><span class="non-zero">992</span><span class="zero">0</span>
@@ -11660,7 +11660,7 @@
   day: "1.04"
 - symbol: "PENIND"
   name: "Pennar Industries Limited"
-  sector: "24 Iron & Steel"
+  sector: "25 Iron & Steel"
   stake: "0"
   mcap: "403"
   pastRating: <span class="zero">0</span><span class="non-zero">987</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
@@ -11693,7 +11693,7 @@
   day: "-0.48"
 - symbol: "PFOCUS"
   name: "Prime Focus Limited"
-  sector: "14 Communication Services"
+  sector: "13 Communication Services"
   stake: "9"
   mcap: "2322"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
@@ -11880,7 +11880,7 @@
   day: "0.62"
 - symbol: "RANEENGINE"
   name: "Rane Engine Valve Limited"
-  sector: "25 Auto Parts"
+  sector: "26 Auto Parts"
   stake: "0"
   mcap: "206"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
@@ -11891,7 +11891,7 @@
   day: "1.96"
 - symbol: "RANEHOLDIN"
   name: "Rane Holdings Limited"
-  sector: "25 Auto Parts"
+  sector: "26 Auto Parts"
   stake: "0"
   mcap: "898"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
@@ -11902,7 +11902,7 @@
   day: "3.67"
 - symbol: "RBL"
   name: "Rane Brake Lining Limited"
-  sector: "25 Auto Parts"
+  sector: "26 Auto Parts"
   stake: "0"
   mcap: "685"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
@@ -11913,7 +11913,7 @@
   day: "-0.35"
 - symbol: "REDINGTON"
   name: "Redington (India) Limited"
-  sector: "15 Technology Hardware"
+  sector: "14 Technology Hardware"
   stake: "71"
   mcap: "11266"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
@@ -11935,8 +11935,8 @@
   day: "1.51"
 - symbol: "REPRO"
   name: "Repro India Limited"
-  sector: "26 Industrials"
-  stake: "0"
+  sector: "24 Industrials"
+  stake: "1"
   mcap: "705"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="non-zero">1016</span><span class="non-zero">1023</span>
   rank: "0"
@@ -11979,7 +11979,7 @@
   day: "-0.39"
 - symbol: "RICOAUTO"
   name: "Rico Auto Industries Limited"
-  sector: "25 Auto Parts"
+  sector: "26 Auto Parts"
   stake: "0"
   mcap: "637"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
@@ -12034,7 +12034,7 @@
   day: "-0.34"
 - symbol: "RUSHIL"
   name: "Rushil Decor Limited"
-  sector: "26 Industrials"
+  sector: "24 Industrials"
   stake: "0"
   mcap: "507"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="non-zero">997</span><span class="zero">0</span><span class="zero">0</span>
@@ -12078,7 +12078,7 @@
   day: "0.97"
 - symbol: "SAIL"
   name: "Steel Authority of India Limited"
-  sector: "24 Iron & Steel"
+  sector: "25 Iron & Steel"
   stake: "9"
   mcap: "44646"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
@@ -12111,7 +12111,7 @@
   day: "0.47"
 - symbol: "SALASAR"
   name: "Salasar Techno Engineering Limited"
-  sector: "24 Iron & Steel"
+  sector: "25 Iron & Steel"
   stake: "0"
   mcap: "834"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
@@ -12122,7 +12122,7 @@
   day: "-2.78"
 - symbol: "SANDHAR"
   name: "Sandhar Technologies Limited"
-  sector: "25 Auto Parts"
+  sector: "26 Auto Parts"
   stake: "1"
   mcap: "1716"
   pastRating: <span class="zero">0</span><span class="non-zero">1002</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
@@ -12210,7 +12210,7 @@
   day: "-1.53"
 - symbol: "SCHAEFFLER"
   name: "Schaeffler India Limited"
-  sector: "25 Auto Parts"
+  sector: "26 Auto Parts"
   stake: "7"
   mcap: "22694"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="non-zero">1002</span><span class="zero">0</span>
@@ -12243,7 +12243,7 @@
   day: "0.26"
 - symbol: "SETCO"
   name: "Setco Automotive Limited"
-  sector: "25 Auto Parts"
+  sector: "26 Auto Parts"
   stake: "0"
   mcap: "272"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
@@ -12276,7 +12276,7 @@
   day: "1.89"
 - symbol: "SHANTIGEAR"
   name: "Shanthi Gears Limited"
-  sector: "25 Auto Parts"
+  sector: "26 Auto Parts"
   stake: "0"
   mcap: "1326"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
@@ -12298,7 +12298,7 @@
   day: "-0.46"
 - symbol: "SHARDAMOTR"
   name: "Sharda Motor Industries Limited"
-  sector: "25 Auto Parts"
+  sector: "26 Auto Parts"
   stake: "1"
   mcap: "1801"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
@@ -12353,7 +12353,7 @@
   day: "-1.08"
 - symbol: "SHRIPISTON"
   name: "Shriram Pistons & Rings Limited"
-  sector: "25 Auto Parts"
+  sector: "26 Auto Parts"
   stake: "1"
   mcap: "2120"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="non-zero">1003</span><span class="zero">0</span>
@@ -12474,7 +12474,7 @@
   day: "1.14"
 - symbol: "SPICEJET"
   name: "SPICEJET LTD"
-  sector: "26 Industrials"
+  sector: "16 Hotels, Resorts & Cruise Lines"
   stake: "3"
   mcap: "4580"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="non-zero">995</span><span class="non-zero">987</span>
@@ -12518,7 +12518,7 @@
   day: "-0.91"
 - symbol: "SSWL"
   name: "Steel Strips Wheels Limited"
-  sector: "25 Auto Parts"
+  sector: "26 Auto Parts"
   stake: "1"
   mcap: "2694"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
@@ -12562,7 +12562,7 @@
   day: "-1.98"
 - symbol: "STEELXIND"
   name: "STEEL EXCHANGE INDIA LIMITED"
-  sector: "24 Iron & Steel"
+  sector: "25 Iron & Steel"
   stake: "0"
   mcap: "628"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
@@ -12595,7 +12595,7 @@
   day: "-0.07"
 - symbol: "SUNCLAYLTD"
   name: "Sundaram Clayton Limited"
-  sector: "25 Auto Parts"
+  sector: "26 Auto Parts"
   stake: "2"
   mcap: "6892"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
@@ -12628,7 +12628,7 @@
   day: "0.54"
 - symbol: "SUNFLAG"
   name: "Sunflag Iron And Steel Company Limited"
-  sector: "24 Iron & Steel"
+  sector: "25 Iron & Steel"
   stake: "0"
   mcap: "1425"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
@@ -12661,7 +12661,7 @@
   day: "0.48"
 - symbol: "TALBROAUTO"
   name: "Talbros Automotive Components Limited"
-  sector: "25 Auto Parts"
+  sector: "26 Auto Parts"
   stake: "0"
   mcap: "341"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
@@ -12705,7 +12705,7 @@
   day: "-0.70"
 - symbol: "TATASTEEL"
   name: "Tata Steel Limited"
-  sector: "24 Iron & Steel"
+  sector: "25 Iron & Steel"
   stake: "29"
   mcap: "153057"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
@@ -12716,7 +12716,7 @@
   day: "0.93"
 - symbol: "TATASTLBSL"
   name: "Tata Steel Bsl Limited"
-  sector: "24 Iron & Steel"
+  sector: "25 Iron & Steel"
   stake: "2"
   mcap: "9136"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
@@ -12826,7 +12826,7 @@
   day: "-1.74"
 - symbol: "TIINDIA"
   name: "Tube Investments of India Limited"
-  sector: "25 Auto Parts"
+  sector: "26 Auto Parts"
   stake: "9"
   mcap: "28489"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
@@ -12914,7 +12914,7 @@
   day: "-1.60"
 - symbol: "TVSELECT"
   name: "TVS Electronics Limited"
-  sector: "15 Technology Hardware"
+  sector: "14 Technology Hardware"
   stake: "2"
   mcap: "316"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
@@ -13167,7 +13167,7 @@
   day: "-1.82"
 - symbol: "VSSL"
   name: "Vardhman Special Steels Limited"
-  sector: "24 Iron & Steel"
+  sector: "25 Iron & Steel"
   stake: "0"
   mcap: "971"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
@@ -13178,8 +13178,8 @@
   day: "0.60"
 - symbol: "WABAG"
   name: "VA Tech Wabag Limited"
-  sector: "26 Industrials"
-  stake: "1"
+  sector: "24 Industrials"
+  stake: "2"
   mcap: "2113"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>
   rank: "0"
@@ -13222,7 +13222,7 @@
   day: "0.44"
 - symbol: "WHEELS"
   name: "Wheels India Limited"
-  sector: "25 Auto Parts"
+  sector: "26 Auto Parts"
   stake: "1"
   mcap: "1880"
   pastRating: <span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span><span class="zero">0</span>

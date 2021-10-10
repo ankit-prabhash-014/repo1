@@ -10,20 +10,46 @@ $(document).ready(function(){
 		plugins:{legend: {display: false}},
 		scales: {
 			x: {grid:{display:true}},
-			y: {grid:{display:true},position: 'right'}
+			y: {grid:{display:true},position: 'left'}
 		}
 	  }
 	};
 
 	window.chart = new Chart("sectorChart", window.options);
+	var updateRightAxes = function(){
+    		var scale = window.devicePixelRatio;
+
+    		var sourceCanvas = window.chart.canvas;
+    		var copyWidth = window.chart.scales.y.width;
+    		var copyHeight = window.chart.scales.y.height + window.chart.scales.y.top + 10;
+
+    		var targetCtx = document.getElementById("chart-axis").getContext("2d");
+
+    		targetCtx.scale(scale, scale);
+    		targetCtx.canvas.width = copyWidth * scale;
+    		targetCtx.canvas.height = copyHeight * scale;
+
+    		targetCtx.canvas.style.width = `${copyWidth}px`;
+    		targetCtx.canvas.style.height = `${copyHeight}px`;
+    		targetCtx.drawImage(sourceCanvas, 0, 0, copyWidth * scale, copyHeight * scale, 0, 0, copyWidth * scale, copyHeight * scale);
+
+    		var sourceCtx = sourceCanvas.getContext('2d');
+
+    		// Normalize coordinate system to use css pixels.
+
+    		sourceCtx.clearRect(0, 0, copyWidth * scale, copyHeight * scale);
+    		rectangleSet = true;
+    	};
+    	setTimeout(updateRightAxes, 10);
 	
 	$(".sector-name").on("click", function() {
-	   $(this).toggleClass("not-showing"); 
-	   var sector = $(this).find(".s-name").text(); 
-	   var index = $(this).attr("data-index")-1;
-	   window.datasets[index].hidden = !window.datasets[index].hidden;
-	   window.chart.update();
-	   $(".tr[sector='"+sector+"']").toggleClass('sec-showing');
+        $(this).toggleClass("not-showing");
+        var sector = $(this).find(".s-name").text();
+        var index = $(this).attr("data-index")-1;
+        window.datasets[index].hidden = !window.datasets[index].hidden;
+        window.chart.update();
+        $(".tr[sector='"+sector+"']").toggleClass('sec-showing');
+	    setTimeout(updateRightAxes, 10);
 	});
 	
 	$("#watchlistTable .sortable").on("click", function() {
