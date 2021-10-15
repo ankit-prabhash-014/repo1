@@ -67,6 +67,7 @@
 				<div class="td colored percent align-right col-stake"><div class="td-padding">SEC%</div></div>
 				<div class="td colored percent align-right col-rating sortable" sortorder="1"><div class="td-padding">RANK</div></div>
 				<div class="td colored col-eps"><div class="td-padding">EPS</div></div>
+				<div class="td colored percent align-right col-buy"><div class="td-padding">MA25</div></div>
 				<div class="td colored price align-right col-cmp sortable" sortorder="1"><div class="td-padding">CMP</div></div>
 				<div class="td colored percent align-right col-day-p sortable" sortorder="1"><div class="td-padding">DAY%</div></div>
 			</div>
@@ -93,7 +94,8 @@
 				<div class="td col-data col-eps"><div class="td-padding">
 					{{ stock.eps }}
 				</div></div>
-				<div class="td col-data price align-right col-cmp"><div class="td-padding field-cmp">{{ stock.cmp }}</div></div>				
+				<div class="td col-data price align-right col-cmp"><div class="td-padding field-buy">{{ stock.ma25 }}</div></div>
+				<div class="td col-data price align-right col-cmp"><div class="td-padding field-cmp">{{ stock.cmp }}</div></div>
 				<div class="td col-data percent align-right col-day-p"><div class="td-padding field-day-p">{{ stock.day }}</div></div>
 			</div>
 			{% endfor %}
